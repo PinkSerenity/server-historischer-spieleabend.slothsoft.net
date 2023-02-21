@@ -59,6 +59,8 @@
                 
                 <xsl:apply-templates select="//*[@name='colors']" mode="style"/>
                 <xsl:apply-templates select="//tracks" mode="style"/>
+                
+                <xsl:copy-of select="."/>
             </head>
             <xsl:apply-templates select="//events" mode="body"/>
         </html>
