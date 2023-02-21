@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version="1.0"
-    xmlns="http://www.w3.org/1999/xhtml"
-    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:php="http://php.net/xsl"
-    xmlns:lio="http://slothsoft.net"
-    xmlns:func="http://exslt.org/functions"
-    extension-element-prefixes="func">
+<xsl:stylesheet version="1.0" xmlns="http://www.w3.org/1999/xhtml" xmlns:sfs="http://schema.slothsoft.net/farah/sitemap"
+    xmlns:sfd="http://schema.slothsoft.net/farah/dictionary" xmlns:sfm="http://schema.slothsoft.net/farah/module" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    xmlns:php="http://php.net/xsl" xmlns:lio="http://slothsoft.net" xmlns:func="http://exslt.org/functions" extension-element-prefixes="func">
     
     <xsl:import href="farah://slothsoft@historischer-spieleabend.slothsoft.net/xsl/functions" />
     
@@ -19,7 +15,7 @@
                 
                 <xsl:apply-templates select="//tracks" mode="style"/>
                 
-                <!-- <xsl:copy-of select="."/> -->
+                <xsl:copy-of select="."/>
             </head>
             <xsl:apply-templates select="//events" mode="body"/>
         </html>
@@ -37,7 +33,7 @@ Liebe Computerspielwissenschaftler*innen!
 Wann? Am <xsl:value-of select="@date"/>-24:00 (s.t.)
 Wo? Im Games Innovation Lab im Zapf
 Wer? @<xsl:value-of select="@moderator"/> moderiert!
-Was? <!--<xsl:value-of select="lio:format-name(@xml:id)"/>: --><xsl:value-of select="@theme"/>
+Was? <xsl:value-of select="@theme"/>
 Wir spielen:
 <xsl:for-each select="game">
     <xsl:text> - </xsl:text>
@@ -73,17 +69,9 @@ Zukünftigen Termine: https://calendar.google.com/calendar?cid=aGhrc3FxNDFsamlqY
                                         <xsl:text> </xsl:text>
                                         <span class="year">
                                             <xsl:text>(</xsl:text>
-                                            <!--
-                                            <xsl:value-of select="@by"/>
-                                            <xsl:text> </xsl:text>
-                                            -->
                                             <xsl:value-of select="@from"/>
                                             <xsl:text>)</xsl:text>
                                         </span>
-                                        <!--
-                                        <xsl:text> </xsl:text>
-                                        <span class="platform">[<xsl:value-of select="@on"/>]</span>
-                                        -->
                                     </li>
                                 </xsl:for-each>
                             </ul>
@@ -152,40 +140,6 @@ Zukünftigen Termine: https://calendar.google.com/calendar?cid=aGhrc3FxNDFsamlqY
                             </xsl:apply-templates>
                         </div>
                     </details>
-                    
-                    
-                    <!--
-                    <h1>Historische Spieleabende in der CSWG</h1>
-                    <div class="container" id="top_row">
-                        <div class="container" id="next_topic">
-                            <h2>Nächster Termin:</h2>
-                            <xsl:apply-templates select="present/event"/>
-                        </div>
-                        <div class="container" id="past_topics">
-                            <h2>Vergangene Themen:</h2>
-                            <div class="row" id="past_topics_kacheln">
-                                <xsl:apply-templates select="past/event"/>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="container" id="potential_topics">
-                        <h2>Potentielle Themen:</h2>
-                        <div class="container">
-                            <div class="row">
-                                <h3>Genres:</h3>
-                                <xsl:apply-templates select="future/event[@type='genre']"/>
-                            </div>
-                            <div class="row">
-                                <h3>Serien:</h3>
-                                <xsl:apply-templates select="future/event[@type='series']"/>
-                            </div>  
-                            <div class="row">
-                                <h3>Game Designer:</h3>
-                                <xsl:apply-templates select="future/event[@type='author']"/>
-                            </div>
-                        </div>
-                    </div>
-                    -->
                 </div>
             </body>
     </xsl:template>
@@ -204,21 +158,6 @@ Zukünftigen Termine: https://calendar.google.com/calendar?cid=aGhrc3FxNDFsamlqY
                 <xsl:text>="0"] article[id^="</xsl:text>
                 <xsl:value-of select="@xml:id"/>
                 <xsl:text>"] { display: none; } </xsl:text>
-                <!--
-                <xsl:text>[data-genre="</xsl:text>
-                <xsl:value-of select="@xml:id"/>
-                <xsl:text>"] { background-image: linear-gradient(</xsl:text>
-                <xsl:value-of select="concat(
-                    $action, ' ', $t1 - $transition, '%, ', $t1, '%, ', $adventure, ' ', $t1 + $transition, '%, ',
-                    $adventure, ' ', $t2 - $transition, '%, ', $t2, '%, ', $strategy, ' ', $t2 + $transition, '%'
-                )"/>
-                <xsl:text>); } </xsl:text>
-                <xsl:text>[data-genre="</xsl:text>
-                <xsl:value-of select="@xml:id"/>
-                <xsl:text>"] .theme { color: rgb(</xsl:text>
-                <xsl:value-of select="lio:toFontColor(@action, @adventure, @strategy)"/>
-                <xsl:text>); } </xsl:text>
-                -->
             </xsl:for-each>
         </style>
     </xsl:template>
@@ -309,7 +248,6 @@ Zukünftigen Termine: https://calendar.google.com/calendar?cid=aGhrc3FxNDFsamlqY
                     </xsl:if>
                     <ul class="ludography">
                         <xsl:for-each select="game">
-                            <!--<xsl:sort select="@from"/>-->
                             <li>
                                 <xsl:if test="@wanted">
                                     <xsl:attribute name="data-wanted">
@@ -320,11 +258,6 @@ Zukünftigen Termine: https://calendar.google.com/calendar?cid=aGhrc3FxNDFsamlqY
                             </li>
                         </xsl:for-each>
                     </ul>
-                    <!--
-                    <xsl:if test="req">
-                        <p class="prereqs">Prereqs: <xsl:apply-templates select="req"/></p>
-                    </xsl:if>
-                    -->
                     <xsl:if test="read">
                         <p class="reading">Required reading: <xsl:apply-templates select="read"/></p>
                     </xsl:if>

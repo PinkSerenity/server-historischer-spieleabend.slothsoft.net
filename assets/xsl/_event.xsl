@@ -40,5 +40,11 @@
 		<h1>
 			<xsl:apply-templates select="." mode="link" />
 		</h1>
+		<xsl:if test="req">
+			<p class="prereqs">
+				Prereqs:
+				<xsl:apply-templates select="req" />
+			</p>
+		</xsl:if>
 	</xsl:template>
 </xsl:stylesheet>
