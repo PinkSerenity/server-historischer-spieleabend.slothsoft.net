@@ -62,7 +62,7 @@
 	</tracks>
 
 	<present>
-		<event xml:id="RPG107" date="02.03.2023" theme="Wizardry" type="series" gfx="wizardry.png" moderator="Daniel">
+		<event xml:id="RPG107" date="Do, 02.03.2023 19:00" theme="Wizardry" type="series" gfx="wizardry.png" moderator="Daniel">
 			<game name="Wizardry: Proving Grounds of the Mad Overlord" from="1981" by="Sir-Tech" on="C64" country="CA" />
 			<game name="Wizardry IV: The Return of Werdna" from="1987" by="Sir-Tech" on="MS-DOS" country="CA" />
 			<game name="Wizardry VI: Bane of the Cosmic Forge" from="1990" by="Sir-Tech" on="MS-DOS" country="CA" />
@@ -72,32 +72,32 @@
 	</present>
 
 	<past>
-		<event xml:id="ADV202" date="16.02.2023" theme="History of Visual Novels" type="genre" gfx="" moderator="Ruben">
+		<event xml:id="ADV202" date="Do, 16.02.2023 19:00" theme="History of Visual Novels" type="genre" gfx="" moderator="Ruben">
 			<game name="Lolita: Yakyuken" from="1982" by="PSK" on="PC-88" country="JP" />
 			<game name="The Portopia Serial Murder Case" from="1983" by="Chunsoft" on="NES" country="JP" />
 			<game name="Snatcher" from="1988" by="Konami" country="JP" on="SegaCD" />
             <game name="Tokimeki Memorial" from="1994" by="Riverhillsoft" on="SNES" country="JP" />
 			<game name="Phoenix Wright: Ace Attorney" from="2001" by="Capcom Production Studio 4" on="NDS" country="JP" />
 		</event>
-		<event xml:id="JNR202" date="19.01.2023 19:00" theme="3D Platformers II" type="genre" moderator="Daniel" gfx="rayman.gif">
+		<event xml:id="JNR202" date="Do, 19.01.2023 19:00" theme="3D Platformers II" type="genre" moderator="Daniel" gfx="rayman.gif">
 			<game name="Gex: Enter the Gecko" from="1998" by="Crystal Dynamics" on="Windows" country="US" />
 			<game name="Spyro the Dragon" from="1998" by="Insomniac Games" on="PSX" country="US" />
 			<game name="Donkey Kong 64" from="1999" by="Rare" on="N64" country="GB" />
 			<game name="Rayman 2: The Great Escape" from="1999" by="Ubi Pictures" on="Dreamcast" country="FR" />
 		</event>
-		<event xml:id="RPG111" date="05.01.2023 19:00" theme="The Elder Scrolls" type="series" moderator="Daniel" gfx="elderscrolls.webp">
+		<event xml:id="RPG111" date="Do, 05.01.2023 19:00" theme="The Elder Scrolls" type="series" moderator="Daniel" gfx="elderscrolls.webp">
 			<game name="The Elder Scrolls: Arena" from="1994" by="Bethesda Softworks" on="MS-DOS" country="US" />
 			<game name="The Elder Scrolls III: Morrowind" from="2002" by="Bethesda Softworks" on="Windows" country="US" />
 			<game name="The Elder Scrolls IV: Oblivion" from="2006" by="Bethesda Softworks" on="Windows" country="US" />
 			<game name="The Elder Scrolls V: Skyrim" from="2011" by="Bethesda Softworks" on="Windows" country="US" />
 		</event>
-		<event xml:id="FPS201" date="08.12.2022 19:00" theme="Console Shooters" type="genre" moderator="Gregor" gfx="masterchief.gif">
+		<event xml:id="FPS201" date="Do, 08.12.2022 19:00" theme="Console Shooters" type="genre" moderator="Gregor" gfx="masterchief.gif">
 			<game name="GoldenEye 007" from="1997" by="Rare" on="N64" country="GB" />
 			<game name="Alien Resurrection" from="2000" by="Argonaut Games" on="PS1" country="GB" />
 			<game name="Killzone" from="2004" by="Guerrilla Games" on="PS2" country="NL" />
 			<game name="Halo 3" from="2007" by="Bungie" on="Xbox360" country="US" wanted="Kadda" />
 		</event>
-		<event xml:id="ACT601" date="24.11.2022 19:00" theme="Grand Theft Auto" type="series" gfx="gta.webp" moderator="MICHAEL!">
+		<event xml:id="ACT601" date="Do, 24.11.2022 19:00" theme="Grand Theft Auto" type="series" gfx="gta.webp" moderator="MICHAEL!">
 			<game name="Grand Theft Auto" from="1997" by="DMA Design" on="Windows" country="GB" />
 			<game name="Grand Theft Auto III" from="2001" by="DMA Design" on="PS2" country="GB" />
 			<game name="Grand Theft Auto: San Andreas" from="2004" by="Rockstar North" on="Windows" country="GB" />
