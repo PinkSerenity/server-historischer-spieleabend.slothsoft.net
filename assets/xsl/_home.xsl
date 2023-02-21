@@ -57,7 +57,6 @@
                 <link rel="icon" href="/favicon.ico"/>
                 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous"/>
                 
-                <xsl:apply-templates select="//*[@name='colors']" mode="style"/>
                 <xsl:apply-templates select="//tracks" mode="style"/>
                 
                 <xsl:copy-of select="."/>
@@ -244,21 +243,12 @@ Zukünftigen Termine: https://calendar.google.com/calendar?cid=aGhrc3FxNDFsamlqY
             </body>
     </xsl:template>
     
-    <xsl:template match="resource" mode="style">
-        <xsl:variable name="colors" select=".//line[normalize-space(cell/@val) != '']"/>
-        <style type="text/css">
-            <xsl:for-each select="//track">
-                <xsl:sort select="@name"/>
-                <xsl:variable name="pos" select="position()"/>
-                <xsl:value-of select="concat('.event.', @xml:id, ' { background-color: ', $colors[$pos]/cell/@val, '; }
-')"/>
-            </xsl:for-each>
-        </style>
-    </xsl:template>
-    
     <xsl:template match="tracks" mode="style">
         <style type="text/css">
             <xsl:for-each select="track">
+                 <xsl:value-of select="concat('.event.', @xml:id, ' { background-color: #', @color, '; }
+')"/>
+            
                 <xsl:variable name="sum" select="100 div (@action + @adventure + @strategy)"/>
                 <xsl:variable name="t1" select="@action * $sum"/>
                 <xsl:variable name="t2" select="(@action + @adventure) * $sum"/>

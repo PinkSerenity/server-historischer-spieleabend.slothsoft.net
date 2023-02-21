@@ -2,16 +2,16 @@
 <events>
 	<tracks>
 		<!-- Action -->
-		<track xml:id="FPS" action="5" adventure="3" strategy="1" name="First-Person Shooters">
+		<track xml:id="FPS" action="5" adventure="3" strategy="1" name="First-Person Shooters" color="fcc592">
 			<subtrack name="Singleplayer&#160;FPS" />
 			<subtrack name="Multiplayer&#160;FPS" />
 		</track>
-		<track xml:id="JNR" action="5" adventure="2" strategy="1" name="Jump'n'Runs">
+		<track xml:id="JNR" action="5" adventure="2" strategy="1" name="Jump'n'Runs" color="d9e68f">
 			<subtrack name="2D&#160;Platformers" />
 			<subtrack name="3D&#160;Platformers" />
 			<subtrack name="Multiplayer&#160;Platformers" />
 		</track>
-		<track xml:id="ACT" action="5" adventure="5" strategy="1" name="Action-Adventure Games">
+		<track xml:id="ACT" action="5" adventure="5" strategy="1" name="Action-Adventure Games" color="faf0aa">
 			<subtrack name="Miscellaneous" />
 			<subtrack name="Stealth&#160;Games" />
 			<subtrack name="Horror&#160;Games" />
@@ -19,7 +19,7 @@
 			<subtrack name="Fighting&#160;Games" />
 			<subtrack name="Open&#160;World&#160;Games" />
 		</track>
-		<track xml:id="SPO" action="5" adventure="1" strategy="2" name="Sports Games">
+		<track xml:id="SPO" action="5" adventure="1" strategy="2" name="Sports Games" color="f5db93">
 			<subtrack name="Team&#160;Sports" />
 			<subtrack name="Freestyle&#160;Sports" />
 			<subtrack name="Performative&#160;Games" />
@@ -27,26 +27,26 @@
 		</track>
 
 		<!-- Adventure -->
-		<track xml:id="ADV" action="1" adventure="5" strategy="1" name="Adventure Games">
+		<track xml:id="ADV" action="1" adventure="5" strategy="1" name="Adventure Games" color="e3a6ba">
 			<subtrack name="Point&#160;&amp;&#160;Clicks" />
 			<subtrack name="Visual&#160;Novels" />
 			<subtrack name="Puzzle&#160;Games" />
 		</track>
 
 		<!-- Strategy -->
-		<track xml:id="STR" action="1" adventure="1" strategy="5" name="Strategy Games">
+		<track xml:id="STR" action="1" adventure="1" strategy="5" name="Strategy Games" color="a3d2e3">
 			<subtrack name="Miscellaneous" />
 			<subtrack name="Tactics&#160;Games" />
 			<subtrack name="God&#160;Games" />
 			<subtrack name="Simulations" />
 		</track>
-		<track xml:id="RPG" action="1" adventure="3" strategy="5" name="Role-Playing Games">
+		<track xml:id="RPG" action="1" adventure="3" strategy="5" name="Role-Playing Games" color="9bcfc3">
 			<subtrack name="Western&#160;RPGs" />
 			<subtrack name="Eastern&#160;RPGs" />
 		</track>
 
 		<!-- Misc -->
-		<track xml:id="MIS" action="5" adventure="5" strategy="5" name="Miscellaneous">
+		<track xml:id="MIS" action="5" adventure="5" strategy="5" name="Miscellaneous" color="dec8dd">
 			<subtrack name="Licensed&#160;Stuff" />
 			<subtrack name="Artsy&#160;Stuff" />
 			<subtrack name="Terrible&#160;Stuff" />
@@ -55,7 +55,7 @@
 			<subtrack name="Einführungsveranstaltungen" />
 			<subtrack name="Games&#160;Industry" />
 		</track>
-		<track xml:id="LAN" action="2" adventure="3" strategy="4" name="Historische LAN-Party">
+		<track xml:id="LAN" action="2" adventure="3" strategy="4" name="Historische LAN-Party" color="a6c87b">
 			<subtrack name="MMOs" />
 			<subtrack name="MUDs" />
 		</track>

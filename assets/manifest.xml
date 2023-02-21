@@ -2,7 +2,6 @@
 <assets xmlns="http://schema.slothsoft.net/farah/module">
 	<resource name="manifest" type="application/xml" />
     <resource name="index" type="application/xml" />
-    <resource name="colors" type="text/csv" />
 
 	<resource-directory name="css" type="text/css" />
 	<resource-directory name="js" type="application/javascript" />
@@ -22,7 +21,6 @@
 			<use-template ref="/xsl/_home" />
 			<import ref="/api/default" />
             <use-document ref="/index" />
-            <use-document ref="/colors" />
 		</fragment>
 	</fragment>
 
