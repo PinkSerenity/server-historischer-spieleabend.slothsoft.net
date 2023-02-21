@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg"
+	viewBox="0 0 48 48">
+	<defs>
+		<style type="text/css"><![CDATA[
+@font-face {
+	font-family: "Six Eight Zero Nine Chargen";
+	src: local("Six Eight Zero Nine Chargen"),
+		 url("http://slothsoft.net/getResource.php/slothsoft/fonts/SixEightZeroNineChargen");
+}
+text {
+	font-family: "Six Eight Zero Nine Chargen", monospace;
+	text-anchor: middle;
+}
+g {
+	mask: url(#background);
+}
+		]]></style>
+		<mask id="background">
+			<rect width="100%" height="100%" fill="white" rx="2" ry="2" />
+		</mask>
+	</defs>
+	<g>
+		<rect width="100%" height="100%" fill="black"/>
+		<rect width="100%" height="2" y="15" fill="#e1001a" rx="0.5" ry="0.5" />
+		<rect width="100%" height="2" y="19" fill="#ed7f02" rx="0.5" ry="0.5" />
+		<rect width="100%" height="2" y="23" fill="#fdee03" rx="0.5" ry="0.5" />
+		<rect width="100%" height="2" y="27" fill="#69b128" rx="0.5" ry="0.5" />
+		<rect width="100%" height="2" y="31" fill="#039be1" rx="0.5" ry="0.5" />
+		<path d="M 0,0 26,0 2,24 26,48 0,48 z" fill="#ffcc00"/>
+		<text font-size="5" fill="white" transform="translate(30, 14) scale(0.7, 1)">historischer</text>
+		<text font-size="6" fill="white" transform="translate(30, 38) scale(0.7, 1)">Spieleabend</text>
+	</g>
+</svg>
