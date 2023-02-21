@@ -224,7 +224,7 @@ Zukünftigen Termine: https://calendar.google.com/calendar?cid=aGhrc3FxNDFsamlqY
 				<span style="float: left;">
                     <xsl:text>[</xsl:text>
 					<xsl:value-of select="@xml:id" />
-                    <xsl:text>[</xsl:text>
+                    <xsl:text>]</xsl:text>
 				</span>
 			</xsl:if>
 			<xsl:if test="@date != ''">
