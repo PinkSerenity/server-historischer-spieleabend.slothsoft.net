@@ -12,11 +12,9 @@
 		<resource use="template" name="template" type="application/xslt+xml" />
 	</directory>
 
-	<directory name="static">
-		<resource-directory name="images" path="images" type="image/*" />
-
-		<resource name="favicon" path="logo-small.png" type="image/png" />
-	</directory>
+	<resource-directory name="manuals" path="manuals" type="application/pdf" />
+	<resource-directory name="gfx" path="gfx" type="image/*" />
+	<resource-directory name="logos" path="logos" type="image/*" />
 
 	<fragment name="pages">
 		<fragment name="home">

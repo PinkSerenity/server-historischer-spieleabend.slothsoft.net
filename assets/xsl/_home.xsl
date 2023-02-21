@@ -54,7 +54,7 @@
             <head>
                 <title>Historischer Spieleabend</title>
                 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes"/>
-                <link rel="icon" href="/getResource.php/slothsoft/HistorischerSpieleabendIcons/logo-small.png"/>
+                <link rel="icon" href="/favicon.ico"/>
                 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous"/>
                 
                 <xsl:apply-templates select="//*[@name='HistorischerSpieleabendColors']" mode="style"/>
@@ -94,10 +94,10 @@ Zukünftigen Termine: https://calendar.google.com/calendar?cid=aGhrc3FxNDFsamlqY
                     <div class="print poster">
                         <h1>Historischer Spieleabend</h1>
                         <h4><xsl:value-of select="@theme"/></h4>
-                        <img class="logo" src="/getResource.php/slothsoft/HistorischerSpieleabendIcons/logo-small.svg"/>
+                        <img class="logo" src="/slothsoft@historischer-spieleabend.slothsoft.net/logos/logo-small.svg"/>
                         <h2><xsl:value-of select="@date"/> im GIL</h2>
                         <div class="event-left">
-                            <img class="icon" src="/getResource.php/slothsoft/HistorischerSpieleabendIcons/{@gfx}"/>
+                            <img class="icon" src="/slothsoft@historischer-spieleabend.slothsoft.net/gfx/{@gfx}"/>
                         </div>
                         <div class="event-right">
                             <ul class="ludography">
