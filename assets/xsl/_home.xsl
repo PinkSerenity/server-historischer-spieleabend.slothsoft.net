@@ -49,7 +49,7 @@
         <func:result select="$likert * 48"/>
     </func:function>
     
-    <xsl:template match="events">
+    <xsl:template match="/*">
         <html>
             <head>
                 <title>Historischer Spieleabend</title>
@@ -57,14 +57,19 @@
                 <link rel="icon" href="/favicon.ico"/>
                 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous"/>
                 
-                <xsl:apply-templates select="//*[@name='HistorischerSpieleabendColors']" mode="style"/>
-                <xsl:apply-templates select="tracks" mode="style"/>
+                <xsl:apply-templates select="//*[@name='colors']" mode="style"/>
+                <xsl:apply-templates select="//tracks" mode="style"/>
             </head>
-            <body>
-                <xsl:apply-templates select="tracks" mode="attributes"/>
-                <xsl:apply-templates select="tracks" mode="form"/>
-                <xsl:for-each select="present/event">
-                    <xsl:comment>
+            <xsl:apply-templates select="//events" mode="body"/>
+        </html>
+    </xsl:template>
+    
+    <xsl:template match="events" mode="body">
+           <body>
+               <xsl:apply-templates select="tracks" mode="attributes"/>
+               <xsl:apply-templates select="tracks" mode="form"/>
+               <xsl:for-each select="present/event">
+                   <xsl:comment>
 Liebe Computerspielwissenschaftler*innen!
 :joystick:~<xsl:value-of select="position() + count(//past/event)"/>. Historische Spieleabend~:joystick:
 
@@ -235,7 +240,6 @@ Zukünftigen Termine: https://calendar.google.com/calendar?cid=aGhrc3FxNDFsamlqY
                     -->
                 </div>
             </body>
-        </html>
     </xsl:template>
     
     <xsl:template match="resource" mode="style">
@@ -249,6 +253,7 @@ Zukünftigen Termine: https://calendar.google.com/calendar?cid=aGhrc3FxNDFsamlqY
             </xsl:for-each>
         </style>
     </xsl:template>
+    
     <xsl:template match="tracks" mode="style">
         <style type="text/css">
             <xsl:for-each select="track">
