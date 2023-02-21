@@ -59,7 +59,7 @@
                 
                 <xsl:apply-templates select="//tracks" mode="style"/>
                 
-                <xsl:copy-of select="."/>
+                <!-- <xsl:copy-of select="."/> -->
             </head>
             <xsl:apply-templates select="//events" mode="body"/>
         </html>
@@ -128,7 +128,7 @@ Zukünftigen Termine: https://calendar.google.com/calendar?cid=aGhrc3FxNDFsamlqY
                                 </xsl:for-each>
                             </ul>
                         </div>
-                        <img class="gil" src="/getResource.php/slothsoft/HistorischerSpieleabendIcons/GIL.png"/>
+                        <img class="gil" src="/slothsoft@historischer-spieleabend.slothsoft.net/gfx/GIL.png"/>
                         <h3>
                             <span class="box">
                                 <span>
@@ -160,19 +160,6 @@ Zukünftigen Termine: https://calendar.google.com/calendar?cid=aGhrc3FxNDFsamlqY
                         </div>
                     </details>
                     <hr/>
-                    <!--
-                    <details class="future">
-                        <summary class="h2">
-                            Potentielle Themen (Corona-konform)
-                        </summary>
-                        <div class="flex">
-                            <xsl:apply-templates select="streamable/event">
-                                <xsl:sort select="count(@xml:id)"/>
-                            </xsl:apply-templates>
-                        </div>
-                    </details>
-                    <hr/>
-                    -->
                     <details class="future" open="open">
                         <summary class="h2">
                             Potentielle Themen
@@ -353,7 +340,7 @@ Zukünftigen Termine: https://calendar.google.com/calendar?cid=aGhrc3FxNDFsamlqY
             <div class="tabled-content">
                 <xsl:if test="@gfx">
                     <div>
-                        <img class="icon" src="/getResource.php/slothsoft/HistorischerSpieleabendIcons/{@gfx}"/>
+                        <img class="icon" src="/slothsoft@historischer-spieleabend.slothsoft.net/gfx/{@gfx}"/>
                     </div>
                 </xsl:if>
                 <div>
@@ -545,7 +532,7 @@ Zukünftigen Termine: https://calendar.google.com/calendar?cid=aGhrc3FxNDFsamlqY
         </xsl:choose>
         <xsl:text>. </xsl:text>
         <xsl:if test="string-length(@manual)">
-            <a class="manual" href="/getResource.php/slothsoft/HistorischerSpieleabend/{@manual}" target="_blank">📕</a>
+            <a class="manual" href="/slothsoft@historischer-spieleabend.slothsoft.net/manuals/{@manual}" target="_blank">📕</a>
         </xsl:if>
     </xsl:template>
     
