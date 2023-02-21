@@ -62,9 +62,23 @@
 	</tracks>
 
 	<present>
+		<event xml:id="RPG107" date="02.03.2023" theme="Wizardry" type="series" gfx="wizardry.png" moderator="Daniel">
+			<game name="Wizardry: Proving Grounds of the Mad Overlord" from="1981" by="Sir-Tech" on="C64" country="CA" />
+			<game name="Wizardry IV: The Return of Werdna" from="1987" by="Sir-Tech" on="MS-DOS" country="CA" />
+			<game name="Wizardry VI: Bane of the Cosmic Forge" from="1990" by="Sir-Tech" on="MS-DOS" country="CA" />
+			<game name="Wizardry 8" from="2001" by="Sir-Tech Canada" on="Windows" country="CA" />
+			<game name="Adventure Academia: The Fractured Continent" from="2022" by="Zero Div" on="Windows" country="JP" wanted="Demo" />
+		</event>
 	</present>
 
 	<past>
+		<event xml:id="ADV202" date="16.02.2023" theme="History of Visual Novels" type="genre" gfx="" moderator="Ruben">
+			<game name="Lolita: Yakyuken" from="1982" by="PSK" on="PC-88" country="JP" />
+			<game name="The Portopia Serial Murder Case" from="1983" by="Chunsoft" on="NES" country="JP" />
+			<game name="Snatcher" from="1988" by="Konami" country="JP" on="SegaCD" />
+            <game name="Tokimeki Memorial" from="1994" by="Riverhillsoft" on="SNES" country="JP" />
+			<game name="Phoenix Wright: Ace Attorney" from="2001" by="Capcom Production Studio 4" on="NDS" country="JP" />
+		</event>
 		<event xml:id="JNR202" date="19.01.2023 19:00" theme="3D Platformers II" type="genre" moderator="Daniel" gfx="rayman.gif">
 			<game name="Gex: Enter the Gecko" from="1998" by="Crystal Dynamics" on="Windows" country="US" />
 			<game name="Spyro the Dragon" from="1998" by="Insomniac Games" on="PSX" country="US" />
@@ -844,12 +858,6 @@
 			<game name="Shadow of the Colossus" from="2005" by="SCE Japan Studio" on="PS3" country="JP" wanted="Gil" />
 			<game name="The Last Guardian" from="2016" by="SIE Japan Studio" on="PS4" country="JP" wanted="Kadda" />
 		</event>
-		<event xml:id="ADV202" date="" theme="History of Visual Novels" type="genre" gfx="" moderator="Ruben">
-			<game name="J.B. Harold Murder Club" from="1986" by="Riverhillsoft" on="MS-DOS" country="JP" />
-			<game name="Phoenix Wright: Ace Attorney" from="2001" by="Capcom Production Studio 4" on="Wii" country="JP" />
-			<game name="428: Shibuya Scramble" from="2008" by="Chunsoft" on="Windows" country="JP" wanted="Ruben" />
-			<game name="Steins;Gate" from="2009" by="5pb." on="Windows" country="JP" wanted="" />
-		</event>
 		<event xml:id="ACT110" date="" theme="Remedy Entertainment" type="author" moderator="Kadda" gfx="remedy.png">
 			<game name="Death Rally" from="1996" by="Remedy Entertainment" on="MS-DOS" country="FI" />
 			<game name="Max Payne" from="2001" by="Remedy Entertainment" on="Windows" country="FI" />
@@ -862,13 +870,6 @@
 			<game name="Marvel vs Capcom 2" from="2000" by="Capcom" on="Dreamcast" country="JP" />
 			<game name="GuiltyGear Strive" from="2021" by="Arc System Works" on="Windows" country="JP" />
 			<game name="Street Fighter III: 3rd Strike" from="1999" by="Capcom" on="Arcade" country="JP" />
-		</event>
-		<event xml:id="RPG107" date="" theme="Wizardry" type="series" gfx="wizardry.png" moderator="Daniel">
-			<game name="Wizardry: Proving Grounds of the Mad Overlord" from="1981" by="Sir-Tech" on="C64" country="CA" />
-			<game name="Wizardry IV: The Return of Werdna" from="1987" by="Sir-Tech" on="MS-DOS" country="CA" />
-			<game name="Wizardry VI: Bane of the Cosmic Forge" from="1990" by="Sir-Tech" on="MS-DOS" country="CA" />
-			<game name="Wizardry 8" from="2001" by="Sir-Tech Canada" on="Windows" country="CA" />
-			<game name="Adventure Academia: The Fractured Continent" from="2022" by="Zero Div" on="Windows" country="JP" wanted="Demo" />
 		</event>
 		<event xml:id="RPG110" date="" theme="Ultima" type="series" gfx="Ultima.png" moderator="Daniel" rerun="RPG102">
 			<req ref="RPG101" />
@@ -1010,6 +1011,10 @@
 	</unfinished>
 	<unsorted>
 		<event theme="Historische Sockenkiste" type="special">
+			<game name="J.B. Harold Murder Club" from="1986" by="Riverhillsoft" on="MS-DOS" country="JP" />
+			<game name="428: Shibuya Scramble" from="2008" by="Chunsoft" on="Windows" country="JP" wanted="Ruben" />
+			<game name="Steins;Gate" from="2009" by="5pb." on="Windows" country="JP" wanted="" />
+
 			<game name="Lemmings 2: The Tribes" from="1993" by="DMA Design" on="Amiga" country="GB" />
 			<game name="Lego The Lord of the Rings" from="2012" by="Traveller's Tales" on="Windows" country="GB" />
 			<game name="The Missing: J.J. Macfield and the Island of Memories" from="2018" by="White Owls Inc." on="Windows" country="JP" wanted="Ruben" />
