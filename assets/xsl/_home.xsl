@@ -532,7 +532,7 @@ Zukünftigen Termine: https://calendar.google.com/calendar?cid=aGhrc3FxNDFsamlqY
         </xsl:choose>
         <xsl:text>. </xsl:text>
         <xsl:if test="string-length(@manual)">
-            <a class="manual" href="/slothsoft@historischer-spieleabend.slothsoft.net/manuals/{@manual}" target="_blank">📕</a>
+            <a class="manual" href="/Manual/{@manual}" target="_blank">📕</a>
         </xsl:if>
     </xsl:template>
     

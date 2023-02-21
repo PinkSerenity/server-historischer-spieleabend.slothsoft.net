@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <assets xmlns="http://schema.slothsoft.net/farah/module">
 	<resource name="manifest" type="application/xml" />
-    <resource name="index" type="application/xml" />
+	<resource name="index" type="application/xml" />
 
 	<resource-directory name="css" type="text/css" />
 	<resource-directory name="js" type="application/javascript" />
@@ -10,6 +10,7 @@
 
 	<directory name="sitemap">
 		<resource use="template" name="template" type="application/xslt+xml" />
+		<use-document ref="/index" />
 	</directory>
 
 	<resource-directory name="manuals" path="manuals" type="application/pdf" />
@@ -20,7 +21,7 @@
 		<fragment name="home">
 			<use-template ref="/xsl/_home" />
 			<import ref="/api/default" />
-            <use-document ref="/index" />
+			<use-document ref="/index" />
 		</fragment>
 	</fragment>
 

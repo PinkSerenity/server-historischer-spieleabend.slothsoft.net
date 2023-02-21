@@ -8,6 +8,12 @@
 			<page name="sitemap" ref="//slothsoft@farah/sitemap-generator" status-active="" />
 
 			<file name="favicon.ico" ref="logos/logo-small.png" />
+
+			<page name="Manual" redirect="/">
+				<xsl:for-each select="//@manual">
+					<file name="{.}" ref="/manuals/{.}" />
+				</xsl:for-each>
+			</page>
 		</domain>
 	</xsl:template>
 </xsl:stylesheet>
