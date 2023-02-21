@@ -24,7 +24,7 @@
 			<page name="Event" redirect="/" status-active="">
 				<xsl:for-each select="//event[@xml:id != '']">
 					<xsl:sort select="@xml:id" />
-					<file name="{@xml:id}" ref="/pages/event?name={@xml:id}" status-active="" />
+					<page name="{@xml:id}" ref="/pages/event?name={@xml:id}" status-active="" />
 				</xsl:for-each>
 			</page>
 
