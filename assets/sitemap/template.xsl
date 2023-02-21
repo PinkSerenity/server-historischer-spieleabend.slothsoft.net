@@ -7,22 +7,29 @@
 
 			<page name="sitemap" ref="//slothsoft@farah/sitemap-generator" status-active="" />
 
-			<file name="favicon.ico" ref="/logos/logo-small.png" />
+			<file name="favicon.ico" ref="/logos/logo-small.png" status-active="" />
 
-			<page name="Manual" redirect="/">
+			<page name="Manual" redirect="/" status-active="">
 				<xsl:for-each select="//@manual[. != '']">
-					<file name="{.}" ref="/manuals/{.}" />
+					<file name="{.}" ref="/manuals/{.}" status-active="" />
 				</xsl:for-each>
 			</page>
 
-			<page name="GFX" redirect="/">
+			<page name="GFX" redirect="/" status-active="">
 				<xsl:for-each select="//@gfx[. != '']">
-					<file name="{.}" ref="/gfx/{.}" />
+					<file name="{.}" ref="/gfx/{.}" status-active="" />
 				</xsl:for-each>
 			</page>
 
-            <page name="logo-small.svg" ref="/logos/logo-small.svg" />
-            <page name="logo-gil.png" ref="/logos/GIL.png" />
+			<page name="Event" redirect="/" status-active="">
+				<xsl:for-each select="//event[@xml:id != '']">
+					<xsl:sort select="@xml:id" />
+					<file name="{@xml:id}" ref="/pages/event?name={@xml:id}" status-active="" />
+				</xsl:for-each>
+			</page>
+
+			<page name="logo-small.svg" ref="/logos/logo-small.svg" status-active="" />
+			<page name="logo-gil.png" ref="/logos/GIL.png" status-active="" />
 		</domain>
 	</xsl:template>
 </xsl:stylesheet>
