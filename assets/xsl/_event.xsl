@@ -2,7 +2,7 @@
 <xsl:stylesheet version="1.0" xmlns="http://www.w3.org/1999/xhtml" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
 	xmlns:php="http://php.net/xsl" xmlns:lio="http://slothsoft.net" xmlns:func="http://exslt.org/functions" extension-element-prefixes="func">
 
-	<xsl:variable name="eventId" select="//page[@current]/@name" />
+	<xsl:variable name="eventId" select="//sfs:page[@current]/@name" />
 	<xsl:variable name="event" select="id($eventId)" />
 
 	<xsl:template match="/*">
