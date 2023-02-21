@@ -4,24 +4,18 @@
 	<resource name="index" type="application/xml" />
 
 	<resource-directory name="css" type="text/css" />
-	<resource-directory name="js"
-		type="application/javascript" />
-	<resource-directory name="xsl"
-		type="application/xslt+xml" />
-	<resource-directory name="dictionary"
-		type="application/xml" />
+	<resource-directory name="js" type="application/javascript" />
+	<resource-directory name="xsl" type="application/xslt+xml" />
+	<resource-directory name="dictionary" type="application/xml" />
 
 	<directory name="sitemap">
-		<resource use="template" name="template"
-			type="application/xslt+xml" />
+		<resource use="template" name="template" type="application/xslt+xml" />
 	</directory>
 
 	<directory name="static">
-		<resource-directory name="images" path="images"
-			type="image/*" />
+		<resource-directory name="images" path="images" type="image/*" />
 
-		<resource name="favicon" path="logo-small.png"
-			type="image/png" />
+		<resource name="favicon" path="logo-small.png" type="image/png" />
 	</directory>
 
 	<fragment name="pages">

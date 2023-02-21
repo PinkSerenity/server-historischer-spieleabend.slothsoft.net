@@ -12,8 +12,8 @@
 
 			<page name="sitemap" ref="//slothsoft@farah/sitemap-generator"
 				status-active="" />
-				
-			<file name="favicon.ico" ref="static/favicon"/>
+
+			<file name="favicon.ico" ref="static/favicon" />
 		</domain>
 	</xsl:template>
 </xsl:stylesheet>

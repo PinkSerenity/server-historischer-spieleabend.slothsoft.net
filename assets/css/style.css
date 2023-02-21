@@ -1,167 +1,188 @@
 /* https://coolors.co/c1ecfc-d4efb0-f9cbfa-274060-fafaff */
-
 hr {
-    margin: 0;
+	margin: 0;
 }
-h1, h2, h3,
-.h1, .h2, .h3 {
-    padding-left: 0.5rem;
-    text-align: center;
+
+h1, h2, h3, .h1, .h2, .h3 {
+	padding-left: 0.5rem;
+	text-align: center;
 }
 
 html {
-    overflow-y: scroll;
+	overflow-y: scroll;
 }
+
 body {
-    background: #fafaff; /*background 1*/
-    /*background: #C2F48B; /*background 2*/
-    /*background: #C9ECF2; /*background 3*/
-    font-family: Calibri, sans-serif;
-    color: #262c1b;
+	background: #fafaff; /*background 1*/
+	/*background: #C2F48B; /*background 2*/
+	/*background: #C9ECF2; /*background 3*/
+	font-family: Calibri, sans-serif;
+	color: #262c1b;
 }
 
 .info {
-    max-width: 40em;
-    text-align: center;
-    margin: auto;
+	max-width: 40em;
+	text-align: center;
+	margin: auto;
 }
-
 
 .flex {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
 }
+
 .columns .event {
-    width: max-content;
-    display: block;
-    margin: 1em auto;
+	width: max-content;
+	display: block;
+	margin: 1em auto;
 }
 
 details {
+	
 }
-
 
 .tracks {
-    font-size: 0.8em;
-    position: fixed;
-    right: 0.5em;
-    top: 0.5em;
-    padding: 0.5em;
-    border-radius: 0.5em;
-    background-color: white;
-    border: 1px solid silver;
-    opacity: 0.9;
+	font-size: 0.8em;
+	position: fixed;
+	right: 0.5em;
+	top: 0.5em;
+	padding: 0.5em;
+	border-radius: 0.5em;
+	background-color: white;
+	border: 1px solid silver;
+	opacity: 0.9;
 }
+
 .tracks label {
-    margin: 0;
+	margin: 0;
 }
+
 .tracks input {
-    display: inline-block;
-    width: 1.5rem;
+	display: inline-block;
+	width: 1.5rem;
 }
+
 .subtracks {
-    margin: 0;
-    padding-left: 1.5rem;
+	margin: 0;
+	padding-left: 1.5rem;
 }
+
 .subtracks li {
-    list-style-type: none;
-    font-size: smaller;
+	list-style-type: none;
+	font-size: smaller;
 }
 
 .header {
-    margin: 0.25em;
+	margin: 0.25em;
 }
+
 .event {
-    width: 30em;
-    margin: 0.5em;
-    padding: 0 0 1em 0.5em;
-    background-color: #d7dbda;
-    box-shadow: 0.25em 0.25em 0.25em rgba(0, 0, 0, 0.5) !important;
+	width: 30em;
+	margin: 0.5em;
+	padding: 0 0 1em 0.5em;
+	background-color: #d7dbda;
+	box-shadow: 0.25em 0.25em 0.25em rgba(0, 0, 0, 0.5) !important;
 }
+
 .theme {
-    font-weight: bold;
-    color: #fafaff;
-    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.75) !important;
+	font-weight: bold;
+	color: #fafaff;
+	text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.75) !important;
 }
+
 .rerun {
-    font-size: 0.5em;
+	font-size: 0.5em;
 }
+
 .course-id {
-    font-size: 0.7em;
-    display: block;
-    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.75) !important;
+	font-size: 0.7em;
+	display: block;
+	text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.75) !important;
 }
+
 .id {
-    /*
+	/*
     font-family: monospace;
     background-color: rgba(255, 255, 127, 0.2);
     border-radius: 0.25em;
     padding: 0.25em;
     */
+	
 }
+
 .prereqs, .moderator, .reading {
-    font-size: 0.8rem;
-    padding-left: 1.5rem;
+	font-size: 0.8rem;
+	padding-left: 1.5rem;
 }
+
 .prereqs a, .reading a {
-    display: list-item;
-    margin-left: 2em;
+	display: list-item;
+	margin-left: 2em;
 }
+
 *[data-prereq]::after {
-    content: "✔";
-    color: darkgreen;
-    font-weight: bold;
-    font-size: 0.8em;
-    line-height: 1;
-    vertical-align: text-top;
+	content: "✔";
+	color: darkgreen;
+	font-weight: bold;
+	font-size: 0.8em;
+	line-height: 1;
+	vertical-align: text-top;
 }
+
 *[data-prereq="missing"]::after {
-    content: "❌";
-    color: brown;
+	content: "❌";
+	color: brown;
 }
+
 *[data-wanted]::after, *[data-moderator=""]::after {
-    font-size: 0.8em;
-    content: attr(data-wanted);
-    line-height: 1;
-    vertical-align: text-top;
-    color: darkgreen;
-    background-color: rgba(255, 255, 255, 0.5);
-    border-radius: 0.5em;
-    padding: 0.25em;
-    opacity: 0.7;
+	font-size: 0.8em;
+	content: attr(data-wanted);
+	line-height: 1;
+	vertical-align: text-top;
+	color: darkgreen;
+	background-color: rgba(255, 255, 255, 0.5);
+	border-radius: 0.5em;
+	padding: 0.25em;
+	opacity: 0.7;
 }
+
 *[data-moderator=""]::after {
-    vertical-align: baseline;
+	vertical-align: baseline;
 }
+
 *[data-wanted=""]::after, *[data-moderator=""]::after {
-    content: "WANTED";
-    color: brown;
+	content: "WANTED";
+	color: brown;
 }
+
 *[data-todo] .course-id::before {
-    content: "(todo)";
-    color: brown;
-    font-size: 0.6em;
-    line-height: 1;
-    vertical-align: text-top;
-    background-color: rgba(255, 255, 255, 0.5);
-    border-radius: 0.5em;
-    padding: 0.25em;
-    display: block;
+	content: "(todo)";
+	color: brown;
+	font-size: 0.6em;
+	line-height: 1;
+	vertical-align: text-top;
+	background-color: rgba(255, 255, 255, 0.5);
+	border-radius: 0.5em;
+	padding: 0.25em;
+	display: block;
 }
+
 *[data-unavailable] {
-    opacity: 0.7;
+	opacity: 0.7;
 }
 
 .footer {
-    text-align: center;
-    line-height: 2em;
+	text-align: center;
+	line-height: 2em;
 }
+
 .url {
-    padding: 0.5em;
+	padding: 0.5em;
 }
+
 .qr {
-    height: 2em;
+	height: 2em;
 }
 
 /* http://paletton.com/#uid=32W0X0k7UUa3cZA5wXlaiQ5cFL3 */
@@ -272,243 +293,277 @@ https://lospec.com/palette-list/cloudy-28
     color: #8C99D7;
 }
 */
-
 article {
-    border-color: silver;
-    border-style: ridge;
-    border-width: 2px;
-    border-radius: 0.5em 0.5em 2em 0.5em;
+	border-color: silver;
+	border-style: ridge;
+	border-width: 2px;
+	border-radius: 0.5em 0.5em 2em 0.5em;
 }
+
 .ludography {
-    padding-left: 1.5em;
-    list-style-type: none;
+	padding-left: 1.5em;
+	list-style-type: none;
 }
+
 .country {
-    display: inline-block;
-    width: 1.5em;
-    margin-left: -1.5em;
-    vertical-align: top;
-    text-align: center;
+	display: inline-block;
+	width: 1.5em;
+	margin-left: -1.5em;
+	vertical-align: top;
+	text-align: center;
 }
+
 .country img {
-    display: inline;
-    width: 1.5em;
+	display: inline;
+	width: 1.5em;
 }
+
 .dev {
+	
 }
+
 .year {
+	
 }
+
 .title {
-    font-style: italic;
+	font-style: italic;
 }
-*[data-type="series"] .theme,
-*[data-type="longplay"] .theme {
-    font-style: italic;
+
+*[data-type="series"] .theme, *[data-type="longplay"] .theme {
+	font-style: italic;
 }
+
 *[data-type="special"] .theme {
-    font-variant: small-caps;
+	font-variant: small-caps;
 }
+
 *[data-type="author"] .theme::before {
-    content: "© ";
+	content: "© ";
 }
+
 *[data-type="longplay"] .theme::before {
-    content: "Let's Play: ";
-    font-style: normal;
+	content: "Let's Play: ";
+	font-style: normal;
 }
+
 .version {
+	
 }
+
 .platform {
-    font-family: monospace;
+	font-family: monospace;
 }
 
 .date {
-    text-align: center;
-    padding: 0;
-    font-size: 1.2em;
+	text-align: center;
+	padding: 0;
+	font-size: 1.2em;
 }
+
 .icon {
-    image-rendering: crisp-edges;
-    image-rendering: pixelated;
-    display: block;
-    height: 10em;
-    margin: 0 0.5em 0 0;
+	image-rendering: crisp-edges;
+	image-rendering: pixelated;
+	display: block;
+	height: 10em;
+	margin: 0 0.5em 0 0;
 }
+
 .past .icon, .future .icon, .unfinished .icon {
-    display: none;
+	display: none;
 }
 
-
-@media (min-width:30em) {
-    .tabled-content {
-        display: table;
-    }
-    .tabled-content > * {
-        display: table-cell;
-        vertical-align: middle;
-    }
+@media ( min-width :30em) {
+	.tabled-content {
+		display: table;
+	}
+	.tabled-content>* {
+		display: table-cell;
+		vertical-align: middle;
+	}
 }
 
 .poster {
-    position: relative;
-    width: 277mm;
-    height: 190mm;
-    overflow: clip;
-    font-family: Bahnschrift;
-    font-weight: bold;
-    top: 1cm;
-    left: 1cm;
-    page-break-after: always;
-}
-.poster * {
-    margin: 0;
-    padding: 0;
-    text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.5) !important;
-}
-.poster h1 {
-    position: relative;
-    width: 17cm;
-    text-align: left;
-    font-size: 3cm;
-    line-height: 3cm;
-}
-.poster h4 {
-    position: relative;
-    width: 17cm;
-    text-align: center;
-    font-size: 0.75cm;
-    line-height: 0.75cm;
-    color: #666;
-}
-.poster h2 {
-    position: relative;
-    width: 20cm;
-    text-align: left;
-    font-size: 1.5cm;
-    line-height: 1.5cm;
-    top: 1cm;
-}
-.poster h3 {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    text-align: left;
-    font-size: 1cm;
-    color: #666;
-}
-.poster h3 > span {
-    vertical-align: middle;
-}
-.poster .box {
-    display: inline-block;
-    position: relative;
-    border-radius: 0.5cm;
-    background: #666;
-    padding: 0.25cm;
-}
-.poster .box > * {
-    display: inline-block;
-    position: relative;
-    border-radius: 0.5cm;
-    background: white;
-    text-align: center;
-    padding: 0.25cm 0.5cm;
-}
-.poster .box large {
-    display: block;
-    font-size: 2cm;
-    line-height: 2cm;
-}
-.poster .box small {
-    display: block;
-    font-size: 0.25cm;
-    line-height: 0.5cm;
-    margin-top: -0.5cm;
-}
-.poster .ludography {
-    position: relative;
-    padding-left: 1cm;
-    font-size: 0.75cm;
-    line-height: 1cm;
-    list-style-type: upper-roman;
-}
-.poster img {
-    position: absolute;
-    display: block;
-}
-.poster img.logo {
-    top: 0;
-    right: 0;
-    width: 9cm;
-    border-radius: 0.5cm;
-}
-.poster .event-left {
-    position: absolute;
-    top: 10cm;
-    left: 0;
-    width: 9cm;
-}
-.poster .event-right {
-    position: absolute;
-    top: 10cm;
-    left: 10cm;
-    font-size: 1cm;
-}
-.poster img.icon {
-    position: relative;
-    top: 0;
-    right: 0;
-    width: auto;
-    height: 5cm;
-    margin-left: auto;
-    border: 0.125cm solid black;
-    border-radius: 0.125cm;
-    background: black;
-    -moz-box-shadow: 1cm 1cm 2cm red;
-    -webkit-box-shadow: 1cm 1cm 2cm red;
-}
-.poster img.gil {
-    bottom: 0;
-    left: 0;
-    height: 3cm;
+	position: relative;
+	width: 277mm;
+	height: 190mm;
+	overflow: clip;
+	font-family: Bahnschrift;
+	font-weight: bold;
+	top: 1cm;
+	left: 1cm;
+	page-break-after: always;
 }
 
+.poster * {
+	margin: 0;
+	padding: 0;
+	text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.5) !important;
+}
+
+.poster h1 {
+	position: relative;
+	width: 17cm;
+	text-align: left;
+	font-size: 3cm;
+	line-height: 3cm;
+}
+
+.poster h4 {
+	position: relative;
+	width: 17cm;
+	text-align: center;
+	font-size: 0.75cm;
+	line-height: 0.75cm;
+	color: #666;
+}
+
+.poster h2 {
+	position: relative;
+	width: 20cm;
+	text-align: left;
+	font-size: 1.5cm;
+	line-height: 1.5cm;
+	top: 1cm;
+}
+
+.poster h3 {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	text-align: left;
+	font-size: 1cm;
+	color: #666;
+}
+
+.poster h3>span {
+	vertical-align: middle;
+}
+
+.poster .box {
+	display: inline-block;
+	position: relative;
+	border-radius: 0.5cm;
+	background: #666;
+	padding: 0.25cm;
+}
+
+.poster .box>* {
+	display: inline-block;
+	position: relative;
+	border-radius: 0.5cm;
+	background: white;
+	text-align: center;
+	padding: 0.25cm 0.5cm;
+}
+
+.poster .box large {
+	display: block;
+	font-size: 2cm;
+	line-height: 2cm;
+}
+
+.poster .box small {
+	display: block;
+	font-size: 0.25cm;
+	line-height: 0.5cm;
+	margin-top: -0.5cm;
+}
+
+.poster .ludography {
+	position: relative;
+	padding-left: 1cm;
+	font-size: 0.75cm;
+	line-height: 1cm;
+	list-style-type: upper-roman;
+}
+
+.poster img {
+	position: absolute;
+	display: block;
+}
+
+.poster img.logo {
+	top: 0;
+	right: 0;
+	width: 9cm;
+	border-radius: 0.5cm;
+}
+
+.poster .event-left {
+	position: absolute;
+	top: 10cm;
+	left: 0;
+	width: 9cm;
+}
+
+.poster .event-right {
+	position: absolute;
+	top: 10cm;
+	left: 10cm;
+	font-size: 1cm;
+}
+
+.poster img.icon {
+	position: relative;
+	top: 0;
+	right: 0;
+	width: auto;
+	height: 5cm;
+	margin-left: auto;
+	border: 0.125cm solid black;
+	border-radius: 0.125cm;
+	background: black;
+	-moz-box-shadow: 1cm 1cm 2cm red;
+	-webkit-box-shadow: 1cm 1cm 2cm red;
+}
+
+.poster img.gil {
+	bottom: 0;
+	left: 0;
+	height: 3cm;
+}
 
 .print {
-    display: none;
+	display: none;
 }
+
 .noprint {
-    display: block;
+	display: block;
 }
+
 @media print {
-    @page {
-        size: 297mm 210mm;
-    }
-    .print {
-        display: block;
-    }
-    .noprint {
-        display: none;
-    }
-    .course-id::before {
-        content: attr(data-course);
-    }
-    .course-id::after {
-        content: ":";
-    }
-    .id {
-        display: none;
-    }
-    html {
-    }
-    body {
-        background: transparent;
-    }
-    h1 {
-    }
-    a:link {
-        text-decoration: none;
-    }
-    a:link::after {
-        display: none;
-    }
+	@page {
+		size: 297mm 210mm;
+	}
+	.print {
+		display: block;
+	}
+	.noprint {
+		display: none;
+	}
+	.course-id::before {
+		content: attr(data-course);
+	}
+	.course-id::after {
+		content: ":";
+	}
+	.id {
+		display: none;
+	}
+	html {
+		
+	}
+	body {
+		background: transparent;
+	}
+	h1 {
+		
+	}
+	a:link {
+		text-decoration: none;
+	}
+	a:link::after {
+		display: none;
+	}
 }
