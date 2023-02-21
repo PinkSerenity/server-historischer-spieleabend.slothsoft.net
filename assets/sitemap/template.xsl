@@ -21,7 +21,8 @@
 				</xsl:for-each>
 			</page>
 
-			<page name="logo-small.svg" ref="/logos/logo-small.svg" />
+            <page name="logo-small.svg" ref="/logos/logo-small.svg" />
+            <page name="logo-gil.png" ref="/logos/GIL.png" />
 		</domain>
 	</xsl:template>
 </xsl:stylesheet>

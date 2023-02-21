@@ -128,7 +128,7 @@ Zukünftigen Termine: https://calendar.google.com/calendar?cid=aGhrc3FxNDFsamlqY
                                 </xsl:for-each>
                             </ul>
                         </div>
-                        <img class="gil" src="/GFX/GIL.png"/>
+                        <img class="gil" src="/logo-gil.png"/>
                         <h3>
                             <span class="box">
                                 <span>
