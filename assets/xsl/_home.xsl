@@ -52,7 +52,7 @@
     <xsl:template match="/*">
         <html>
             <head>
-                <title>Historischer Spieleabend</title>
+                <title data-dict="">title</title>
                 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes"/>
                 <link rel="icon" href="/favicon.ico"/>
                 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous"/>
@@ -140,7 +140,7 @@ Zukünftigen Termine: https://calendar.google.com/calendar?cid=aGhrc3FxNDFsamlqY
                     </div>
                 </xsl:for-each>
                 <div class="noprint">
-                    <h1 class="myBody">Historischer Spieleabend im GIL</h1>
+                    <h1 class="myBody" data-dict="">title</h1>
                     <hr/>
                     <details class="present" open="open">
                         <summary class="h2">

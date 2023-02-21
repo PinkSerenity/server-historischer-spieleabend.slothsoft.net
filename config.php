@@ -18,4 +18,4 @@ ServerEnvironment::setDataDirectory(__DIR__ . DIRECTORY_SEPARATOR . 'data');
 
 Kernel::setCurrentSitemap('farah://slothsoft@historischer-spieleabend.slothsoft.net/sitemap');
 Kernel::setTrackingEnabled(false);
-Dictionary::setSupportedLanguages('en-us');
+Dictionary::setSupportedLanguages('de-de');
