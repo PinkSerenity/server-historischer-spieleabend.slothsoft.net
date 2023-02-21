@@ -3,6 +3,8 @@
 	xmlns:sfd="http://schema.slothsoft.net/farah/dictionary" xmlns:sfm="http://schema.slothsoft.net/farah/module" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
 	xmlns:php="http://php.net/xsl" xmlns:lio="http://slothsoft.net" xmlns:func="http://exslt.org/functions" extension-element-prefixes="func">
 
+	<xsl:import href="farah://slothsoft@historischer-spieleabend.slothsoft.net/xsl/functions" />
+
 	<xsl:variable name="eventId" select="//sfs:page[@current]/@name" />
 	<xsl:variable name="event" select="id($eventId)" />
 
@@ -36,7 +38,7 @@
 
 	<xsl:template match="event">
 		<h1>
-			<xsl:value-of select="@theme" />
+			<xsl:apply-templates select="." mode="link" />
 		</h1>
 	</xsl:template>
 </xsl:stylesheet>
