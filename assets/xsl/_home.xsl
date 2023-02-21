@@ -48,7 +48,7 @@ Wir spielen:
 </xsl:for-each>
 Ihr seid alle herzlich eingeladen, aber lasst bitte ein :joystick: hier wenn ihr kommen möchtet! :reblob:
 
-Zukünftige Themen: http://slothsoft.net/HistorischerSpieleabend/?d
+Zukünftige Themen: <xsl:value-of select="//sfs:domain/@url"/>?d
 Zukünftigen Termine: https://calendar.google.com/calendar?cid=aGhrc3FxNDFsamlqYTJmYnZiZHVkcHEyOG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
 </xsl:comment>
 			</xsl:for-each>
