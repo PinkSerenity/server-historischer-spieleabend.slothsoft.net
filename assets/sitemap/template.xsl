@@ -7,13 +7,21 @@
 
 			<page name="sitemap" ref="//slothsoft@farah/sitemap-generator" status-active="" />
 
-			<file name="favicon.ico" ref="logos/logo-small.png" />
+			<file name="favicon.ico" ref="/logos/logo-small.png" />
 
 			<page name="Manual" redirect="/">
-				<xsl:for-each select="//@manual">
+				<xsl:for-each select="//@manual[. != '']">
 					<file name="{.}" ref="/manuals/{.}" />
 				</xsl:for-each>
 			</page>
+
+			<page name="GFX" redirect="/">
+				<xsl:for-each select="//@gfx[. != '']">
+					<file name="{.}" ref="/gfx/{.}" />
+				</xsl:for-each>
+			</page>
+
+			<page name="logo-small.svg" ref="/logos/logo-small.svg" />
 		</domain>
 	</xsl:template>
 </xsl:stylesheet>

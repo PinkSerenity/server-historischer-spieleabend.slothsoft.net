@@ -100,10 +100,10 @@ Zukünftigen Termine: https://calendar.google.com/calendar?cid=aGhrc3FxNDFsamlqY
                     <div class="print poster">
                         <h1>Historischer Spieleabend</h1>
                         <h4><xsl:value-of select="@theme"/></h4>
-                        <img class="logo" src="/slothsoft@historischer-spieleabend.slothsoft.net/logos/logo-small.svg"/>
+                        <img class="logo" src="/logo-small.svg"/>
                         <h2><xsl:value-of select="@date"/> im GIL</h2>
                         <div class="event-left">
-                            <img class="icon" src="/slothsoft@historischer-spieleabend.slothsoft.net/gfx/{@gfx}"/>
+                            <img class="icon" src="/GFX/{@gfx}"/>
                         </div>
                         <div class="event-right">
                             <ul class="ludography">
@@ -128,7 +128,7 @@ Zukünftigen Termine: https://calendar.google.com/calendar?cid=aGhrc3FxNDFsamlqY
                                 </xsl:for-each>
                             </ul>
                         </div>
-                        <img class="gil" src="/slothsoft@historischer-spieleabend.slothsoft.net/gfx/GIL.png"/>
+                        <img class="gil" src="/GFX/GIL.png"/>
                         <h3>
                             <span class="box">
                                 <span>
@@ -340,7 +340,7 @@ Zukünftigen Termine: https://calendar.google.com/calendar?cid=aGhrc3FxNDFsamlqY
             <div class="tabled-content">
                 <xsl:if test="@gfx">
                     <div>
-                        <img class="icon" src="/slothsoft@historischer-spieleabend.slothsoft.net/gfx/{@gfx}"/>
+                        <img class="icon" src="/GFX/{@gfx}"/>
                     </div>
                 </xsl:if>
                 <div>
