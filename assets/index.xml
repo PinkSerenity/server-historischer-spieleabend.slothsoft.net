@@ -63,11 +63,11 @@
 
 	<present>
 		<event xml:id="RPG107" date="Do, 02.03.2023 19:00" theme="Wizardry" type="series" gfx="wizardry.png" moderator="Daniel">
+			<game name="Class of Heroes 2" from="2009" by="Zero Div" on="PSP" country="JP" />
 			<game name="Wizardry: Proving Grounds of the Mad Overlord" from="1981" by="Sir-Tech" on="C64" country="CA" />
 			<game name="Wizardry IV: The Return of Werdna" from="1987" by="Sir-Tech" on="MS-DOS" country="CA" />
 			<game name="Wizardry VI: Bane of the Cosmic Forge" from="1990" by="Sir-Tech" on="MS-DOS" country="CA" />
 			<game name="Wizardry 8" from="2001" by="Sir-Tech Canada" on="Windows" country="CA" />
-			<game name="Adventure Academia: The Fractured Continent" from="2022" by="Zero Div" on="Windows" country="JP" wanted="Demo" />
 		</event>
 	</present>
 
@@ -76,7 +76,7 @@
 			<game name="Lolita: Yakyuken" from="1982" by="PSK" on="PC-88" country="JP" />
 			<game name="The Portopia Serial Murder Case" from="1983" by="Chunsoft" on="NES" country="JP" />
 			<game name="Snatcher" from="1988" by="Konami" country="JP" on="SegaCD" />
-            <game name="Tokimeki Memorial" from="1994" by="Riverhillsoft" on="SNES" country="JP" />
+			<game name="Tokimeki Memorial" from="1994" by="Riverhillsoft" on="SNES" country="JP" />
 			<game name="Phoenix Wright: Ace Attorney" from="2001" by="Capcom Production Studio 4" on="NDS" country="JP" />
 		</event>
 		<event xml:id="JNR202" date="Do, 19.01.2023 19:00" theme="3D Platformers II" type="genre" moderator="Daniel" gfx="rayman.gif">
