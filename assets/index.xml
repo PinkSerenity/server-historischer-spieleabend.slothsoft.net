@@ -64,7 +64,7 @@
 	<present>
 		<event xml:id="RPG107" date="Do, 02.03.2023 19:00" theme="Wizardry" type="series" gfx="wizardry.png" moderator="Daniel">
 			<game name="Class of Heroes 2" from="2009" by="Zero Div" on="PSP" country="JP" />
-			<game name="Wizardry: Proving Grounds of the Mad Overlord" from="1981" by="Sir-Tech" on="C64" country="CA" />
+			<game name="Wizardry: Proving Grounds of the Mad Overlord" from="1981" by="Sir-Tech" on="MS-DOS" country="CA" />
 			<game name="Wizardry IV: The Return of Werdna" from="1987" by="Sir-Tech" on="MS-DOS" country="CA" />
 			<game name="Wizardry VI: Bane of the Cosmic Forge" from="1990" by="Sir-Tech" on="MS-DOS" country="CA" />
 			<game name="Wizardry 8" from="2001" by="Sir-Tech Canada" on="Windows" country="CA" />
