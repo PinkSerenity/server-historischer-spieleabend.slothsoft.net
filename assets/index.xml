@@ -62,7 +62,7 @@
 	</tracks>
 
 	<present>
-		<event xml:id="ACT205" date="Do, 30.03.2023 19:00" theme="History of Stealth Games" type="genre" moderator="Daniel">
+		<event xml:id="ACT205" date="Do, 30.03.2023 19:00" theme="History of Stealth Games" type="genre" moderator="Daniel" gfx="Snake.gif">
 			<game name="Castle Wolfenstein" from="1981" by="Muse Software" on="C64" country="US" />
 			<game name="Metal Gear" from="1987" by="Konami" on="PS2" country="JP" />
 			<game name="Thief: The Dark Project" from="1998" by="Looking Glass Studios" on="Windows" country="US" />
