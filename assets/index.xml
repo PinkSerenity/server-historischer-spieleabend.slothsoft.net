@@ -62,6 +62,16 @@
 	</tracks>
 
 	<present>
+		<event xml:id="ACT506" date="Do, 13.04.2023 19:00" theme="History of Fighting Games" type="genre" gfx="ryu.gif" moderator="Ruben">
+			<game name="Street Fighter II Turbo: Hyper Fighting" from="1992" by="Capcom" on="SNES" country="JP" />
+			<game name="Virtua Fighter" from="1993" by="Sega" on="Arcade" country="JP" />
+			<game name="Marvel vs Capcom 2" from="2000" by="Capcom" on="Dreamcast" country="JP" />
+			<game name="GuiltyGear Strive" from="2021" by="Arc System Works" on="Windows" country="JP" />
+			<game name="Street Fighter III: 3rd Strike" from="1999" by="Capcom" on="Arcade" country="JP" />
+		</event>
+	</present>
+
+	<past>
 		<event xml:id="ACT205" date="Do, 30.03.2023 19:00" theme="History of Stealth Games" type="genre" moderator="Daniel" gfx="Snake.gif">
 			<game name="Castle Wolfenstein" from="1981" by="Muse Software" on="C64" country="US" />
 			<game name="Metal Gear" from="1987" by="Konami" on="PS2" country="JP" />
@@ -69,9 +79,6 @@
 			<game name="Tom Clancy's Splinter Cell" from="2002" by="Ubi Soft Montreal" on="Windows" country="CA" />
 			<game name="Dishonored" from="2012" by="Arkane Studios" on="Windows" country="FR" />
 		</event>
-	</present>
-
-	<past>
 		<event xml:id="RPG107" date="Do, 02.03.2023 19:00" theme="Wizardry" type="series" gfx="wizardry.png" moderator="Daniel">
 			<game name="Class of Heroes 2" from="2009" by="Zero Div" on="PSP" country="JP" />
 			<game name="Wizardry: Proving Grounds of the Mad Overlord" from="1981" by="Sir-Tech" on="MS-DOS" country="CA" />
@@ -870,13 +877,6 @@
 			<game name="Max Payne" from="2001" by="Remedy Entertainment" on="Windows" country="FI" />
 			<game name="Alan Wake" from="2010" by="Remedy Entertainment" on="XBox360" country="FI" />
 			<game name="Quantum Break" from="2016" by="Remedy Entertainment" on="Windows" country="FI" />
-		</event>
-		<event xml:id="ACT506" date="" theme="History of Fighting Games" type="genre" gfx="ryu.gif" moderator="Ruben">
-			<game name="Street Fighter 2" from="1991" by="Capcom" on="SNES" country="JP" />
-			<game name="Virtua Fighter" from="1993" by="Sega" on="Arcade" country="JP" />
-			<game name="Marvel vs Capcom 2" from="2000" by="Capcom" on="Dreamcast" country="JP" />
-			<game name="GuiltyGear Strive" from="2021" by="Arc System Works" on="Windows" country="JP" />
-			<game name="Street Fighter III: 3rd Strike" from="1999" by="Capcom" on="Arcade" country="JP" />
 		</event>
 		<event xml:id="RPG110" date="" theme="Ultima" type="series" gfx="Ultima.png" moderator="Daniel" rerun="RPG102">
 			<req ref="RPG101" />
