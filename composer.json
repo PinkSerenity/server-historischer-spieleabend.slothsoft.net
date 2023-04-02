@@ -2,7 +2,7 @@
 	"name" : "slothsoft/historischer-spieleabend.slothsoft.net",
 	"type" : "project",
 	"description" : "historischer-spieleabend.slothsoft.net",
-	"license" : "WTFPL",
+	"license" : "MIT",
 	"keywords" : [
 		"farah-module",
 		"farah-server"
