@@ -54,6 +54,7 @@
 			<subtrack name="Player's&#160;Choice" />
 			<subtrack name="Einführungsveranstaltungen" />
 			<subtrack name="Games&#160;Industry" />
+			<subtrack name="Special&#160;Interest" />
 		</track>
 		<track xml:id="LAN" action="2" adventure="3" strategy="4" name="Historische LAN-Party" color="a6c87b">
 			<subtrack name="MMOs" />
@@ -901,12 +902,15 @@
 			<game name="Castlevania: Symphony of the Night" from="1997" by="Konami Computer Entertainment Tokyo" on="PS1" country="JP" />
 			<game name="Hollow Knight" from="2017" by="Team Cherry" on="Windows" country="AU" />
 		</event>
+		<event xml:id="MIS802" date="" theme="Pferdespiele" type="genre" moderator="Gregor" gfx="">
+			<game name="Barbie: Zauberhafte Pferdewelt" from="1998" by="Human Code, Inc." on="Windows" country="US" />
+		</event>
 		<event xml:id="SPO303" date="" theme="YOU are the hero! (Diegese x Hardware)" type="genre" moderator="Kadda">
 			<game name="The Legend of Zelda: Phantom Hourglass" from="2007" by="Nintendo Entertainment Analysis &amp; Development" on="NDS" country="JP" />
 			<game name="Tearaway" from="2013" by="Media Molecule" on="PSVita" country="GB" />
 			<game name="Superhot VR" from="2016" by="Superhot Team" on="Windows" country="PL" />
 		</event>
-		<event xml:id="MIS303" date="" theme="Games that Killed (a Studio)" type="special" gfx="superman.gif" moderator="Ruben">
+		<event xml:id="MIS303" date="" theme="Games that Killed a Studio" type="special" gfx="superman.gif" moderator="Ruben">
 			<game name="E.T. the Extra-Terrestrial" from="1982" by="Atari, Inc." on="Atari2600" country="US" href="https://www.retrogames.cz/play_083-Atari2600.php" />
 			<game name="The Last Express" from="1997" by="Smoking Car Productions" on="Windows" country="US" wanted="" />
 			<game name="Lair" from="2007" by="Factor 5" on="PS3" country="DE" wanted="" />
@@ -916,9 +920,9 @@
 		<event xml:id="RPG109" date="" theme="History of Roguelikes" type="genre" gfx="" moderator="Sascha">
 			<game name="Rogue" from="1980" by="A.I. Design" on="Amiga" country="US" />
 		</event>
-		<event xml:id="MIS210" date="" theme="One-Man-Gamedev" type="author" gfx="" moderator="Ruben">
+		<event xml:id="MIS703" date="" theme="One-Man-Gamedev" type="author" gfx="" moderator="Ruben">
 		</event>
-		<event xml:id="MIS304" date="" theme="Casual Games" type="genre" gfx="" moderator="Kadda">
+		<event xml:id="MIS801" date="" theme="Casual Games" type="genre" gfx="" moderator="Kadda">
 			<game name="Candy Crush Saga" from="2012" by="King" on="Browser" country="MT" />
 			<game name="Diner Dash" from="2003" by="Gamelab" on="Windows" country="US" />
 			<game name="Angry Birds" from="2009" by="Rovio Entertainment" on="Android" country="FI" />
@@ -988,7 +992,7 @@
 		</event>
 		<event xml:id="STR402" date="" theme="Manager-Simulationen" type="genre" moderator="">
 		</event>
-		<event xml:id="MIS206" date="" theme="Deutsche Lokalisierungen" type="genre" moderator="">
+		<event xml:id="MIS705" date="" theme="Deutsche Lokalisierungen" type="genre" moderator="">
 			<game name="Terranigma" from="1995" by="Quintet" on="SNES" country="JP" />
 		</event>
 		<event xml:id="MIS701" date="" theme="India" type="genre" moderator="">
