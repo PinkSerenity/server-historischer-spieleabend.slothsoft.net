@@ -16,7 +16,7 @@
 
 				<xsl:apply-templates select="//tracks" mode="style" />
 
-				<xsl:copy-of select="." />
+				<!-- <xsl:copy-of select="." /> -->
 			</head>
 			<xsl:apply-templates select="//events" mode="body" />
 		</html>
