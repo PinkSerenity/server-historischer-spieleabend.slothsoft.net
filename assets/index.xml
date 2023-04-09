@@ -64,7 +64,7 @@
 
 	<present>
 		<event xml:id="ACT506" date="Do, 13.04.2023 19:00" theme="History of Fighting Games" type="genre" gfx="ryu.gif" moderator="Ruben">
-			<game name="Street Fighter II" from="1991" by="Capcom" on="SNES" country="JP" />
+			<game name="Street Fighter II: The World Warrior" from="1991" by="Capcom" on="SNES" country="JP" />
 			<game name="Street Fighter II Turbo: Hyper Fighting" from="1992" by="Capcom" on="SNES" country="JP" />
 			<game name="Virtua Fighter" from="1993" by="Sega" on="Arcade" country="JP" />
 			<game name="Marvel vs Capcom 2" from="2000" by="Capcom" on="Dreamcast" country="JP" />
