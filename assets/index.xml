@@ -63,6 +63,12 @@
 	</tracks>
 
 	<present>
+		<event xml:id="MIS802" date="Do, 27.04.2023 19:00" theme="Pferdespiele" type="genre" moderator="Gregor" gfx="horse.gif">
+			<game name="Barbie: Zauberhafte Pferdewelt" from="1998" by="Human Code, Inc." on="Windows" country="US" />
+		</event>
+	</present>
+
+	<past>
 		<event xml:id="ACT506" date="Do, 13.04.2023 19:00" theme="History of Fighting Games" type="genre" gfx="ryu.gif" moderator="Ruben">
 			<game name="Street Fighter II: The World Warrior" from="1991" by="Capcom" on="SNES" country="JP" />
 			<game name="Street Fighter II Turbo: Hyper Fighting" from="1992" by="Capcom" on="SNES" country="JP" />
@@ -71,9 +77,6 @@
 			<game name="Marvel vs Capcom 2" from="2000" by="Capcom" on="Dreamcast" country="JP" />
 			<game name="GuiltyGear Strive" from="2021" by="Arc System Works" on="Windows" country="JP" />
 		</event>
-	</present>
-
-	<past>
 		<event xml:id="ACT205" date="Do, 30.03.2023 19:00" theme="History of Stealth Games" type="genre" moderator="Daniel" gfx="Snake.gif">
 			<game name="Castle Wolfenstein" from="1981" by="Muse Software" on="C64" country="US" />
 			<game name="Metal Gear" from="1987" by="Konami" on="PS2" country="JP" />
@@ -902,9 +905,6 @@
 			<game name="Super Metroid" from="1994" by="Nintendo R&amp;D1" on="SNES" country="JP" />
 			<game name="Castlevania: Symphony of the Night" from="1997" by="Konami Computer Entertainment Tokyo" on="PS1" country="JP" />
 			<game name="Hollow Knight" from="2017" by="Team Cherry" on="Windows" country="AU" />
-		</event>
-		<event xml:id="MIS802" date="" theme="Pferdespiele" type="genre" moderator="Gregor" gfx="">
-			<game name="Barbie: Zauberhafte Pferdewelt" from="1998" by="Human Code, Inc." on="Windows" country="US" />
 		</event>
 		<event xml:id="SPO303" date="" theme="YOU are the hero! (Diegese x Hardware)" type="genre" moderator="Kadda">
 			<game name="The Legend of Zelda: Phantom Hourglass" from="2007" by="Nintendo Entertainment Analysis &amp; Development" on="NDS" country="JP" />
