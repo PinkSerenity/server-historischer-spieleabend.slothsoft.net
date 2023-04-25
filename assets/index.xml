@@ -64,7 +64,8 @@
 
 	<present>
 		<event xml:id="MIS802" date="Do, 27.04.2023 19:00" theme="Pferdespiele" type="genre" moderator="Gregor" gfx="horse.gif">
-			<game name="Barbie: Zauberhafte Pferdewelt" from="1998" by="Human Code, Inc." on="Windows" country="US" />
+			<game name="Barbie: Zauberhafte Pferdewelt" from="1998" by="Human Code" on="Windows" country="US" />
+			<game name="Abenteuer auf dem Reiterhof" from="2002" by="Digital Illusions" on="Windows" country="SE" />
 		</event>
 	</present>
 
