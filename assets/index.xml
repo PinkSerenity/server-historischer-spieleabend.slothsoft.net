@@ -66,7 +66,7 @@
 		<event xml:id="MIS802" date="Do, 27.04.2023 19:00" theme="Pferdespiele" type="genre" moderator="Gregor" gfx="horse.gif">
 			<game name="Summer Games II" from="1986" by="Epyx" on="C64" country="US" />
 			<game name="Barbie Adventure: Riding Club" from="1998" by="Human Code" on="Windows" country="US" />
-			<game name="Abenteuer auf dem Reiterhof" from="2002" by="Digital Illusions" on="Windows" country="SE" />
+			<game name="Abenteuer auf dem Reiterhof: Das Abenteuer rund ums Pferd" from="2002" by="Digital Illusions" on="Windows" country="SE" />
 			<game name="Star Stable" from="2011" by="Star Stable Entertainment" on="Windows" country="SE" />
 			<game name="Ostwind - Das Spiel" from="2017" by="Aesir Interactive" on="Windows" country="DE" />
 		</event>
