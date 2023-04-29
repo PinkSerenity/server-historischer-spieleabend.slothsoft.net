@@ -66,7 +66,7 @@
 		<event xml:id="ACT508" date="Do, 11.05.2023 19:00" theme="History of Smash" type="series" moderator="John" gfx="smash.gif">
 			<game name="Super Smash Bros." from="1999" by="HAL Laboratory" on="N64" country="JP" />
 			<game name="Super Smash Bros. Melee" from="2001" by="HAL Laboratory" on="GCN" country="JP" />
-			<game name="Super Smash Bros. Brawl" from="2008" by="Sora Ltd." on="N64" country="Wii" />
+			<game name="Super Smash Bros. Brawl" from="2008" by="Sora Ltd." on="Wii" country="JP" />
 			<game name="Super Smash Bros. for Wii U" from="2014" by="Bandai Namco Studios" on="WiiU" country="JP" />
 			<game name="Super Smash Bros. Ultimate" from="2018" by="Bandai Namco Studios" on="Switch" country="JP" />
 		</event>
