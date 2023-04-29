@@ -63,6 +63,16 @@
 	</tracks>
 
 	<present>
+		<event xml:id="ACT508" date="Do, 11.05.2023 19:00" theme="History of Smash" type="series" moderator="John" gfx="smash.gif">
+			<game name="Super Smash Bros." from="1999" by="HAL Laboratory" on="N64" country="JP" />
+			<game name="Super Smash Bros. Melee" from="2001" by="HAL Laboratory" on="GCN" country="JP" />
+			<game name="Super Smash Bros. Brawl" from="2008" by="Sora Ltd." on="N64" country="Wii" />
+			<game name="Super Smash Bros. for Wii U" from="2014" by="Bandai Namco Studios" on="WiiU" country="JP" />
+			<game name="Super Smash Bros. Ultimate" from="2018" by="Bandai Namco Studios" on="Switch" country="JP" />
+		</event>
+	</present>
+
+	<past>
 		<event xml:id="MIS802" date="Do, 27.04.2023 19:00" theme="Pferdespiele" type="genre" moderator="Gregor" gfx="horse.gif">
 			<game name="Summer Games II" from="1986" by="Epyx" on="C64" country="US" />
 			<game name="Barbie Adventure: Riding Club" from="1998" by="Human Code" on="Windows" country="US" />
@@ -70,9 +80,6 @@
 			<game name="Star Stable" from="2011" by="Star Stable Entertainment" on="Windows" country="SE" />
 			<game name="Ostwind - Das Spiel" from="2017" by="Aesir Interactive" on="Windows" country="DE" />
 		</event>
-	</present>
-
-	<past>
 		<event xml:id="ACT506" date="Do, 13.04.2023 19:00" theme="History of Fighting Games" type="genre" gfx="ryu.gif" moderator="Ruben">
 			<game name="Street Fighter II: The World Warrior" from="1991" by="Capcom" on="SNES" country="JP" />
 			<game name="Street Fighter II Turbo: Hyper Fighting" from="1992" by="Capcom" on="SNES" country="JP" />
