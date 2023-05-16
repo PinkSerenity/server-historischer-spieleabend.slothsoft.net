@@ -63,18 +63,26 @@
 	</tracks>
 
 	<present>
+		<event xml:id="RPG110" date="Do, 18.05.2023 19:00" theme="Ultima" type="series" gfx="Ultima.png" moderator="Daniel" rerun="RPG102">
+			<req ref="RPG101" />
+			<game name="Ultima I: The First Age of Darkness" from="1981" by="Origin Systems" on="AppleII" country="US" />
+			<game name="Ultima IV: Quest of the Avatar" from="1985" by="Origin Systems" on="Amiga" country="US" />
+			<game name="Ultima VII: The Black Gate" from="1992" by="Origin Systems" on="MS-DOS" country="US" />
+			<game name="Ultima IX: Ascension" from="1999" by="Origin Systems" on="Windows" country="US" />
+		</event>
+	</present>
+
+	<past>
 		<event xml:id="ACT508" date="Do, 11.05.2023 19:00" theme="History of Smash" type="series" moderator="John" gfx="smash.gif">
 			<game name="Super Smash Bros." from="1999" by="HAL Laboratory" on="N64" country="JP" />
 			<game name="Super Smash Bros. Melee" from="2001" by="HAL Laboratory" on="GCN" country="JP" />
 			<game name="Super Smash Bros. Brawl" from="2008" by="Sora Ltd." on="Wii" country="JP" />
 			<game name="Super Smash Bros. for Wii U" from="2014" by="Bandai Namco Studios" on="WiiU" country="JP" />
 			<game name="Super Smash Bros. Ultimate" from="2018" by="Bandai Namco Studios" on="Switch" country="JP" />
-			
-			<read href="https://www.youtube.com/watch?v=i3IOWaVDbx0&amp;list=PLgKCjZ2WsVLTbEJdN9Rs6FWnOjlIj4Tdt&amp;index=5" title="SMASHING Beginnings" year="2022" author="Masahiro Sakurai" />
-		</event>
-	</present>
 
-	<past>
+			<read href="https://www.youtube.com/watch?v=i3IOWaVDbx0&amp;list=PLgKCjZ2WsVLTbEJdN9Rs6FWnOjlIj4Tdt&amp;index=5" title="SMASHING Beginnings" year="2022"
+				author="Masahiro Sakurai" />
+		</event>
 		<event xml:id="MIS802" date="Do, 27.04.2023 19:00" theme="Pferdespiele" type="genre" moderator="Gregor" gfx="horse.gif">
 			<game name="Summer Games II" from="1986" by="Epyx" on="C64" country="US" />
 			<game name="Barbie Adventure: Riding Club" from="1998" by="Human Code" on="Windows" country="US" />
@@ -895,13 +903,6 @@
 			<game name="Max Payne" from="2001" by="Remedy Entertainment" on="Windows" country="FI" />
 			<game name="Alan Wake" from="2010" by="Remedy Entertainment" on="XBox360" country="FI" />
 			<game name="Quantum Break" from="2016" by="Remedy Entertainment" on="Windows" country="FI" />
-		</event>
-		<event xml:id="RPG110" date="" theme="Ultima" type="series" gfx="Ultima.png" moderator="Daniel" rerun="RPG102">
-			<req ref="RPG101" />
-			<game name="Ultima I: The First Age of Darkness" from="1981" by="Origin Systems" on="AppleII" country="US" />
-			<game name="Ultima III: Exodus" from="1983" by="Origin Systems" on="Amiga" country="US" />
-			<game name="Ultima IV: Quest of the Avatar" from="1985" by="Origin Systems" on="Amiga" country="US" />
-			<game name="Ultima VII: The Black Gate" from="1992" by="Origin Systems" on="MS-DOS" country="US" />
 		</event>
 		<event xml:id="FPS109" date="" theme="History of Immersive Sims" type="genre" gfx="" moderator="MICHAEL!">
 			<game name="System Shock 2" from="1999" by="Irrational Games" on="Windows" country="US" wanted="" />
