@@ -972,10 +972,16 @@
 		<event xml:id="MIS401" date="" theme="Sexy Spiele" type="genre" moderator="">
 			<game name="Genital Jousting" from="2018" by="Free Lives" on="Windows" country="ZA" />
 		</event>
-		<event xml:id="MIS402" date="" theme="Pornöse Spiele" type="genre" moderator="">
-			<game name="RapeLay" from="2006" by="Illusion Soft" on="Windows" country="JP" />
-			<game name="House Party" from="2017" by="Eek! Games" on="Windows" country="US" />
-		</event>
+		
+        <event xml:id="MIS402" date="" theme="Pornöse Spiele" type="genre" moderator="">
+            <game name="RapeLay" from="2006" by="Illusion Soft" on="Windows" country="JP" />
+            <game name="House Party" from="2017" by="Eek! Games" on="Windows" country="US" />
+        </event>
+        <event xml:id="MIS404" date="" theme="Japan Why??" type="genre" moderator="">
+            <game name="Princess Maker 2" from="1993" by="Gainax" on="Windows" country="JP" />
+            <game name="Sengoku Rance" from="2006" by="Alice Soft" on="Windows" country="JP" />
+            <game name="Senran Kagura: Estival Versus" from="2015" by="Tamsoft" on="Windows" country="JP" />
+        </event>
 		<event xml:id="JNR302" date="" theme="The GameCube Link Cable Category" type="genre" moderator="">
 			<game name="Final Fantasy Crystal Chronicles" from="2003" by="The Game Designers Studio" on="GCN" country="JP" />
 			<game name="The Legend of Zelda: Four Swords Adventures" from="2004" by="Nintendo Entertainment Analysis &amp; Development" on="GCN" country="JP" />
