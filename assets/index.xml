@@ -873,6 +873,14 @@
 	</past>
 
 	<future>
+        <event xml:id="MIS303" date="" theme="Games that Killed a Studio" type="special" gfx="superman.gif" moderator="Ruben">
+            <game name="E.T. the Extra-Terrestrial" from="1982" by="Atari, Inc." on="Atari2600" country="US" href="https://www.retrogames.cz/play_083-Atari2600.php" />
+            <game name="The Last Express" from="1997" by="Smoking Car Productions" on="Windows" country="US" wanted="" />
+            <game name="Lair" from="2007" by="Factor 5" on="PS3" country="DE" wanted="" />
+            <game name="Too Human" from="2008" by="Silicon Knights" on="XBox360" country="CA" wanted="" />
+            <game name="Duke Nukem Forever" from="2011" by="3D Realms" on="Windows" country="US" wanted="" />
+            <game name="Sim City" from="2013" by="Maxis Emeryville" on="Windows" country="US" wanted="" />
+        </event>
 		<event xml:id="ACT111" date="" theme="Fumito Ueda" type="author" moderator="Kadda" rerun="ACT104" gfx="sotc.gif">
 			<read href="https://www.youtube.com/watch?v=7Nl1oHy3zlw" title="Game Masters: Fumito Ueda Interview" year="2016" author="Australian Centre for the Moving Image" />
 			<read href="https://www.youtube.com/watch?v=NLphTtVZfvw" title="The Architecture of Fumito Ueda" year="2018" author="Jacob Geller" />
@@ -914,13 +922,6 @@
 			<game name="The Legend of Zelda: Phantom Hourglass" from="2007" by="Nintendo Entertainment Analysis &amp; Development" on="NDS" country="JP" />
 			<game name="Tearaway" from="2013" by="Media Molecule" on="PSVita" country="GB" />
 			<game name="Superhot VR" from="2016" by="Superhot Team" on="Windows" country="PL" />
-		</event>
-		<event xml:id="MIS303" date="" theme="Games that Killed a Studio" type="special" gfx="superman.gif" moderator="Ruben">
-			<game name="E.T. the Extra-Terrestrial" from="1982" by="Atari, Inc." on="Atari2600" country="US" href="https://www.retrogames.cz/play_083-Atari2600.php" />
-			<game name="The Last Express" from="1997" by="Smoking Car Productions" on="Windows" country="US" wanted="" />
-			<game name="Lair" from="2007" by="Factor 5" on="PS3" country="DE" wanted="" />
-			<game name="Too Human" from="2008" by="Silicon Knights" on="XBox360" country="CA" wanted="" />
-			<game name="Duke Nukem Forever" from="2011" by="3D Realms" on="Windows" country="US" wanted="" />
 		</event>
 		<event xml:id="RPG109" date="" theme="History of Roguelikes" type="genre" gfx="" moderator="Sascha">
 			<game name="Rogue" from="1980" by="A.I. Design" on="Amiga" country="US" />
