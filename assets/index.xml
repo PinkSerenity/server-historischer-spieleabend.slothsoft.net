@@ -873,14 +873,15 @@
 	</past>
 
 	<future>
-        <event xml:id="MIS303" date="" theme="Games that Killed a Studio" type="special" gfx="superman.gif" moderator="Ruben">
-            <game name="E.T. the Extra-Terrestrial" from="1982" by="Atari, Inc." on="Atari2600" country="US" href="https://www.retrogames.cz/play_083-Atari2600.php" />
-            <game name="The Last Express" from="1997" by="Smoking Car Productions" on="Windows" country="US" wanted="" />
-            <game name="Lair" from="2007" by="Factor 5" on="PS3" country="DE" wanted="" />
-            <game name="Too Human" from="2008" by="Silicon Knights" on="XBox360" country="CA" wanted="" />
-            <game name="Duke Nukem Forever" from="2011" by="3D Realms" on="Windows" country="US" wanted="" />
-            <game name="Sim City" from="2013" by="Maxis Emeryville" on="Windows" country="US" wanted="" />
-        </event>
+		<event xml:id="MIS303" date="" theme="Games that Killed a Studio" type="special" gfx="superman.gif" moderator="Ruben">
+			<game name="E.T. the Extra-Terrestrial" from="1982" by="Atari, Inc." on="Atari2600" country="US" href="https://www.retrogames.cz/play_083-Atari2600.php" />
+			<game name="The Last Express" from="1997" by="Smoking Car Productions" on="Windows" country="US" wanted="" />
+			<game name="Lair" from="2007" by="Factor 5" on="PS3" country="DE" wanted="" />
+			<game name="Too Human" from="2008" by="Silicon Knights" on="XBox360" country="CA" wanted="" />
+			<game name="Duke Nukem Forever" from="2011" by="3D Realms" on="Windows" country="US" wanted="" />
+			<game name="Sim City" from="2013" by="Maxis Emeryville" on="Windows" country="US" wanted="" />
+			<game name="Haze" from="2013" by="Free Radical Design" on="Windows" country="UK" wanted="" />
+		</event>
 		<event xml:id="ACT111" date="" theme="Fumito Ueda" type="author" moderator="Kadda" rerun="ACT104" gfx="sotc.gif">
 			<read href="https://www.youtube.com/watch?v=7Nl1oHy3zlw" title="Game Masters: Fumito Ueda Interview" year="2016" author="Australian Centre for the Moving Image" />
 			<read href="https://www.youtube.com/watch?v=NLphTtVZfvw" title="The Architecture of Fumito Ueda" year="2018" author="Jacob Geller" />
@@ -935,7 +936,10 @@
 		</event>
 		<event xml:id="ACT507" date="" theme="Musou Games" type="genre" gfx="" moderator="Ruben">
 		</event>
-		<event xml:id="MIS302" date="" theme="Games That Killed The Studio" type="special" gfx="" moderator="Ruben">
+		<event xml:id="MIS302" date="" theme="Good Games That Killed A Studio Anyway" type="special" gfx="" moderator="Ruben">
+			<game name="L.A. Noire" from="2011" by="Team Bondi" on="PS3" country="AU" />
+			<game name="Ōkami" from="2006" by="Clover Studio" on="Wii" country="JP" />
+			<game name="Vampire: The Masquerade – Bloodlines" from="2004" by="Troika Games" on="Windows" country="US" />
 		</event>
 		<event xml:id="ADV108" date="" theme="History of FMV Games" type="genre" gfx="" moderator="Ruben">
 		</event>
@@ -973,16 +977,16 @@
 		<event xml:id="MIS401" date="" theme="Sexy Spiele" type="genre" moderator="">
 			<game name="Genital Jousting" from="2018" by="Free Lives" on="Windows" country="ZA" />
 		</event>
-		
-        <event xml:id="MIS402" date="" theme="Pornöse Spiele" type="genre" moderator="">
-            <game name="RapeLay" from="2006" by="Illusion Soft" on="Windows" country="JP" />
-            <game name="House Party" from="2017" by="Eek! Games" on="Windows" country="US" />
-        </event>
-        <event xml:id="MIS404" date="" theme="Japan Why??" type="genre" moderator="">
-            <game name="Princess Maker 2" from="1993" by="Gainax" on="Windows" country="JP" />
-            <game name="Sengoku Rance" from="2006" by="Alice Soft" on="Windows" country="JP" />
-            <game name="Senran Kagura: Estival Versus" from="2015" by="Tamsoft" on="Windows" country="JP" />
-        </event>
+
+		<event xml:id="MIS402" date="" theme="Pornöse Spiele" type="genre" moderator="">
+			<game name="RapeLay" from="2006" by="Illusion Soft" on="Windows" country="JP" />
+			<game name="House Party" from="2017" by="Eek! Games" on="Windows" country="US" />
+		</event>
+		<event xml:id="MIS404" date="" theme="Japan Why??" type="genre" moderator="">
+			<game name="Princess Maker 2" from="1993" by="Gainax" on="Windows" country="JP" />
+			<game name="Sengoku Rance" from="2006" by="Alice Soft" on="Windows" country="JP" />
+			<game name="Senran Kagura: Estival Versus" from="2015" by="Tamsoft" on="Windows" country="JP" />
+		</event>
 		<event xml:id="JNR302" date="" theme="The GameCube Link Cable Category" type="genre" moderator="">
 			<game name="Final Fantasy Crystal Chronicles" from="2003" by="The Game Designers Studio" on="GCN" country="JP" />
 			<game name="The Legend of Zelda: Four Swords Adventures" from="2004" by="Nintendo Entertainment Analysis &amp; Development" on="GCN" country="JP" />
