@@ -18,16 +18,16 @@
 	<resource-directory name="logos" path="logos" type="image/*" />
 
 	<fragment name="pages">
-        <fragment name="home">
-            <use-template ref="/xsl/_home" />
-            <import ref="/api/default" />
-            <use-document ref="/index" />
-        </fragment>
-        <fragment name="event">
-            <use-template ref="/xsl/_event" />
-            <import ref="/api/default" />
-            <use-document ref="/index" />
-        </fragment>
+		<fragment name="home">
+			<use-template ref="/xsl/_home" />
+			<import ref="/api/default" />
+			<use-document ref="/index" />
+		</fragment>
+		<fragment name="event">
+			<use-template ref="/xsl/_event" />
+			<import ref="/api/default" />
+			<use-document ref="/index" />
+		</fragment>
 	</fragment>
 
 	<fragment name="api">
