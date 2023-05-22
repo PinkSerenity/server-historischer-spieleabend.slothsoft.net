@@ -895,6 +895,12 @@
 			<game name="Metal Gear Solid 4: Guns of the Patriots" from="2008" by="Kojima Productions" on="PS3" country="JP" />
 			<game name="Metal Gear Solid V: The Phantom Pain" from="2015" by="Kojima Productions" on="PS4" country="JP" />
 		</event>
+		<event xml:id="MIS705" date="" theme="Cooking" type="genre" moderator="Kadda" gfx="overcooked.gif">
+			<game name="Pizza Connection" from="1994" by="Cybernetic Corporation" on="Windows" country="DE" wanted="Kadda" />
+			<game name="Cooking Mama" from="2006" by="Office Create" on="iOS" country="JP" wanted="GIL" />
+			<game name="Overcooked" from="2016" by="Ghost Town Games" on="Windows" country="GB" wanted="Kadda" />
+			<game name="Cooking Simulator" from="2019" by="Big Cheese Studio" on="Windows" country="PL" wanted="" />
+		</event>
 		<event xml:id="MIS303" date="" theme="Games that Killed a Studio" type="special" gfx="superman.gif" moderator="Ruben">
 			<game name="E.T. the Extra-Terrestrial" from="1982" by="Atari, Inc." on="Atari2600" country="US" href="https://www.retrogames.cz/play_083-Atari2600.php" />
 			<game name="The Last Express" from="1997" by="Smoking Car Productions" on="Windows" country="US" wanted="" />
