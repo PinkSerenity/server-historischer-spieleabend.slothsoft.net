@@ -922,10 +922,17 @@
 		</event>
 	</future>
 	<unfinished>
+		<event xml:id="ADV302" date="" theme="Bau- und Bastelspiele" type="genre" moderator="Gregor">
+			<game name="Autos bauen mit Willy Werkel" from="ELD Interaktiv Produktion" by="1998" on="Windows" country="US" />
+			<game name="Lego Racers" from="1999" by="High Voltage Software" on="N64" country="US" />
+			<game name="Banjo-Kazooie: Nuts & Bolts" from="2008" by="Rare" on="Xbox360" country="GB" />
+		</event>
 		<event xml:id="MIS803" date="" theme="Contemporary Japan" type="genre" moderator="MICHAEL!" gfx="">
 			<game name="Yakuza 0" from="2018" by="Ryu Ga Gotoku Studio" on="Windows" country="JP" wanted="MICHAEL!" />
 			<game name="Persona 4" from="2009" by="Atlus" on="PS2" country="JP" />
 			<game name="Ghostwire Tokyo" from="2022" by="Tango Gameworks" on="Windows" country="JP" wanted="" />
+		</event>
+		<event xml:id="MIS804" date="" theme="Mecha Games" type="genre" moderator="John" gfx="">
 		</event>
 		<event xml:id="ACT110" date="" theme="Remedy Entertainment" type="author" moderator="Kadda" gfx="remedy.png">
 			<game name="Death Rally" from="1996" by="Remedy Entertainment" on="MS-DOS" country="FI" />
