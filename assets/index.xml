@@ -60,7 +60,7 @@
             <subtrack name="MMOs" />
             <subtrack name="MUDs" />
         </track>
-        <track xml:id="BIZ" action="2" adventure="3" strategy="4" name="Games Industry" color="457bb4">
+        <track xml:id="BIZ" action="2" adventure="3" strategy="4" name="Games Industry" color="6ba9b4">
             <subtrack name="Studios" />
             <subtrack name="VIPs" />
             <subtrack name="Countries" />
