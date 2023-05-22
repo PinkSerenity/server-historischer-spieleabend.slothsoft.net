@@ -53,7 +53,6 @@
 			<subtrack name="Sexy&#160;Stuff" />
 			<subtrack name="Player's&#160;Choice" />
 			<subtrack name="Einführungsveranstaltungen" />
-			<subtrack name="Games&#160;Industry" />
 			<subtrack name="Special&#160;Interest" />
 		</track>
         <track xml:id="LAN" action="2" adventure="3" strategy="4" name="Historische LAN-Party" color="a6c87b">
@@ -105,7 +104,7 @@
 
 			<read href="https://www.youtube.com/watch?v=i3IOWaVDbx0&amp;list=PLgKCjZ2WsVLTbEJdN9Rs6FWnOjlIj4Tdt&amp;index=5" title="SMASHING Beginnings" year="2022" author="Masahiro Sakurai" />
 		</event>
-		<event xml:id="MIS802" date="Do, 27.04.2023 19:00" theme="Pferdespiele" type="genre" moderator="Gregor" gfx="horse.gif">
+		<event xml:id="MIS701" date="Do, 27.04.2023 19:00" theme="Pferdespiele" type="genre" moderator="Gregor" gfx="horse.gif">
 			<game name="Summer Games II" from="1986" by="Epyx" on="C64" country="US" />
 			<game name="Barbie Adventure: Riding Club" from="1998" by="Human Code" on="Windows" country="US" />
 			<game name="Abenteuer auf dem Reiterhof: Das Abenteuer rund ums Pferd" from="2002" by="Digital Illusions CE" on="Windows" country="SE" />
@@ -933,12 +932,12 @@
 			<game name="Lego Racers" from="1999" by="High Voltage Software" on="N64" country="US" />
 			<game name="Banjo-Kazooie: Nuts &amp; Bolts" from="2008" by="Rare" on="Xbox360" country="GB" />
 		</event>
-		<event xml:id="MIS803" date="" theme="Contemporary Japan" type="genre" moderator="MICHAEL!" gfx="">
+		<event xml:id="MIS703" date="" theme="Contemporary Japan" type="genre" moderator="MICHAEL!" gfx="">
 			<game name="Yakuza 0" from="2018" by="Ryu Ga Gotoku Studio" on="Windows" country="JP" wanted="MICHAEL!" />
 			<game name="Persona 4" from="2009" by="Atlus" on="PS2" country="JP" />
 			<game name="Ghostwire Tokyo" from="2022" by="Tango Gameworks" on="Windows" country="JP" wanted="" />
 		</event>
-		<event xml:id="MIS804" date="" theme="Mecha Games" type="genre" moderator="John" gfx="">
+		<event xml:id="MIS704" date="" theme="Mecha Games" type="genre" moderator="John" gfx="">
 		</event>
 		<event xml:id="BIZ102" date="" theme="Remedy Entertainment" type="author" moderator="Kadda" gfx="remedy.png">
 			<game name="Death Rally" from="1996" by="Remedy Entertainment" on="MS-DOS" country="FI" />
@@ -964,7 +963,7 @@
 		</event>
 		<event xml:id="BIZ401" date="" theme="One-Man-Gamedev" type="author" gfx="" moderator="Ruben">
 		</event>
-		<event xml:id="MIS801" date="" theme="Casual Games" type="genre" gfx="" moderator="Kadda">
+		<event xml:id="MIS702" date="" theme="Casual Games" type="genre" gfx="" moderator="Kadda">
 			<game name="Candy Crush Saga" from="2012" by="King" on="Browser" country="MT" />
 			<game name="Diner Dash" from="2003" by="Gamelab" on="Windows" country="US" />
 			<game name="Angry Birds" from="2009" by="Rovio Entertainment" on="Android" country="FI" />
