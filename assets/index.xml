@@ -883,6 +883,13 @@
 	</past>
 
 	<future>
+		<event xml:id="ACT204" date="" theme="Metal Gear Solid" type="series" gfx="Snake.gif" moderator="MICHAEL!">
+			<game name="Metal Gear Solid" from="1998" by="Konami" on="PS1" country="JP" />
+			<game name="Metal Gear Solid 2: Sons of Liberty" from="2001" by="Konami" on="PS2" country="JP" />
+			<game name="Metal Gear Solid 3: Snake Eater" from="2004" by="Konami" on="PS2" country="JP" />
+			<game name="Metal Gear Solid 4: Guns of the Patriots" from="2008" by="Konami" on="PS3" country="JP" />
+			<game name="Metal Gear Solid V: The Phantom Pain" from="2015" by="Konami" on="PS1" country="JP" />
+		</event>
 		<event xml:id="MIS303" date="" theme="Games that Killed a Studio" type="special" gfx="superman.gif" moderator="Ruben">
 			<game name="E.T. the Extra-Terrestrial" from="1982" by="Atari, Inc." on="Atari2600" country="US" href="https://www.retrogames.cz/play_083-Atari2600.php" />
 			<game name="The Last Express" from="1997" by="Smoking Car Productions" on="Windows" country="US" wanted="" />
@@ -1015,13 +1022,6 @@
 		</event>
 		<event xml:id="MIS701" date="" theme="India" type="genre" moderator="">
 			<game name="Raji: An Ancient Epic" from="2020" by="Nodding Heads Games" on="Windows" country="IN" />
-		</event>
-		<event xml:id="ACT204" date="" theme="Metal Gear Solid" type="series" gfx="Snake.gif" moderator="MICHAEL!">
-			<game name="Metal Gear Solid" from="1998" by="Konami" on="PS1" country="JP" />
-			<game name="Metal Gear Solid 2: Sons of Liberty" from="2001" by="Konami" on="PS2" country="JP" />
-			<game name="Metal Gear Solid 3: Snake Eater" from="2004" by="Konami" on="PS2" country="JP" />
-			<game name="Metal Gear Solid 4: Guns of the Patriots" from="2008" by="Konami" on="PS3" country="JP" />
-			<game name="Metal Gear Solid V: The Phantom Pain" from="2015" by="Konami" on="PS1" country="JP" />
 		</event>
 		<event xml:id="JNR203" date="" theme="3D Platformers III: Homages" type="genre" moderator="Daniel" gfx="rayman.gif">
 			<game name="Jumping Flash!" from="1994" by="Exact" on="Windows" country="JP" />
