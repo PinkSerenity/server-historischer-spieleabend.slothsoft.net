@@ -56,10 +56,14 @@
 			<subtrack name="Games&#160;Industry" />
 			<subtrack name="Special&#160;Interest" />
 		</track>
-		<track xml:id="LAN" action="2" adventure="3" strategy="4" name="Historische LAN-Party" color="a6c87b">
-			<subtrack name="MMOs" />
-			<subtrack name="MUDs" />
-		</track>
+        <track xml:id="LAN" action="2" adventure="3" strategy="4" name="Historische LAN-Party" color="a6c87b">
+            <subtrack name="MMOs" />
+            <subtrack name="MUDs" />
+        </track>
+        <track xml:id="BIZ" action="2" adventure="3" strategy="4" name="Games Industry" color="457bb4">
+            <subtrack name="Studios" />
+            <subtrack name="Devs" />
+        </track>
 	</tracks>
 
 	<present>
