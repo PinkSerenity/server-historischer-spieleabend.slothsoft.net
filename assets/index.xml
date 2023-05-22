@@ -63,7 +63,7 @@
 	</tracks>
 
 	<present>
-		<event xml:id="ADV108" date="Do, 08.06.2023" theme="Tim Schafer" type="author" gfx="tentacle.gif" moderator="Gregor" rerun="ADV103">
+		<event xml:id="ADV109" date="Do, 08.06.2023" theme="Tim Schafer" type="author" gfx="tentacle.gif" moderator="Gregor" rerun="ADV103">
 			<game name="Day of the Tentacle" from="1993" by="Lucasfilm Games" on="MS-DOS" country="US" wanted="Kadda (remastered)" />
 			<game name="Grim Fandango" from="1998" by="Lucasfilm Games" on="MS-DOS" country="US" wanted="Kadda" />
 			<game name="Brütal Legend" from="2009" by="Double Fine Productions" on="Windows" country="US" wanted="Daniel" />
@@ -1016,9 +1016,12 @@
 		<event xml:id="MIS701" date="" theme="India" type="genre" moderator="">
 			<game name="Raji: An Ancient Epic" from="2020" by="Nodding Heads Games" on="Windows" country="IN" />
 		</event>
-		<event xml:id="ACT204" date="" theme="Metal Gear" type="series" gfx="Snake.gif" moderator="MICHAEL!">
-			<game name="Metal Gear" from="1987" by="Konami" on="PS2" country="JP" />
+		<event xml:id="ACT204" date="" theme="Metal Gear Solid" type="series" gfx="Snake.gif" moderator="MICHAEL!">
 			<game name="Metal Gear Solid" from="1998" by="Konami" on="PS1" country="JP" />
+			<game name="Metal Gear Solid 2: Sons of Liberty" from="2001" by="Konami" on="PS2" country="JP" />
+			<game name="Metal Gear Solid 3: Snake Eater" from="2004" by="Konami" on="PS2" country="JP" />
+			<game name="Metal Gear Solid 4: Guns of the Patriots" from="2008" by="Konami" on="PS3" country="JP" />
+			<game name="Metal Gear Solid V: The Phantom Pain" from="2015" by="Konami" on="PS1" country="JP" />
 		</event>
 		<event xml:id="JNR203" date="" theme="3D Platformers III: Homages" type="genre" moderator="Daniel" gfx="rayman.gif">
 			<game name="Jumping Flash!" from="1994" by="Exact" on="Windows" country="JP" />
