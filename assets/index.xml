@@ -897,7 +897,7 @@
 		</event>
 		<event xml:id="MIS705" date="" theme="Cooking" type="genre" moderator="Kadda" gfx="overcooked.gif">
 			<game name="Pizza Connection" from="1994" by="Cybernetic Corporation" on="Windows" country="DE" wanted="Kadda" />
-			<game name="Cooking Mama" from="2006" by="Office Create" on="iOS" country="JP" wanted="GIL" />
+			<game name="Cooking Mama" from="2006" by="Office Create" on="iOS" country="JP" wanted="Kadda" />
 			<game name="Overcooked" from="2016" by="Ghost Town Games" on="Windows" country="GB" wanted="Kadda" />
 			<game name="Cooking Simulator" from="2019" by="Big Cheese Studio" on="Windows" country="PL" wanted="" />
 		</event>
