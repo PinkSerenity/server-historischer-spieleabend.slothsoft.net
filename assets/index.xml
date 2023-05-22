@@ -887,8 +887,8 @@
 			<game name="Metal Gear Solid" from="1998" by="Konami" on="PS1" country="JP" />
 			<game name="Metal Gear Solid 2: Sons of Liberty" from="2001" by="Konami" on="PS2" country="JP" />
 			<game name="Metal Gear Solid 3: Snake Eater" from="2004" by="Konami" on="PS2" country="JP" />
-			<game name="Metal Gear Solid 4: Guns of the Patriots" from="2008" by="Konami" on="PS3" country="JP" />
-			<game name="Metal Gear Solid V: The Phantom Pain" from="2015" by="Konami" on="PS1" country="JP" />
+			<game name="Metal Gear Solid 4: Guns of the Patriots" from="2008" by="Kojima Productions" on="PS3" country="JP" />
+			<game name="Metal Gear Solid V: The Phantom Pain" from="2015" by="Kojima Productions" on="PS4" country="JP" />
 		</event>
 		<event xml:id="MIS303" date="" theme="Games that Killed a Studio" type="special" gfx="superman.gif" moderator="Ruben">
 			<game name="E.T. the Extra-Terrestrial" from="1982" by="Atari, Inc." on="Atari2600" country="US" href="https://www.retrogames.cz/play_083-Atari2600.php" />
@@ -922,6 +922,11 @@
 		</event>
 	</future>
 	<unfinished>
+		<event xml:id="MIS803" date="" theme="Contemporary Japan" type="genre" moderator="MICHAEL!" gfx="">
+			<game name="Yakuza 0" from="2018" by="Ryu Ga Gotoku Studio" on="Windows" country="JP" wanted="MICHAEL!" />
+			<game name="Persona 4" from="2009" by="Atlus" on="PS2" country="JP" />
+			<game name="Ghostwire Tokyo" from="2022" by="Tango Gameworks" on="Windows" country="JP" wanted="" />
+		</event>
 		<event xml:id="ACT110" date="" theme="Remedy Entertainment" type="author" moderator="Kadda" gfx="remedy.png">
 			<game name="Death Rally" from="1996" by="Remedy Entertainment" on="MS-DOS" country="FI" />
 			<game name="Max Payne" from="2001" by="Remedy Entertainment" on="Windows" country="FI" />
