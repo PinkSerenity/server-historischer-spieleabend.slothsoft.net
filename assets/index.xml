@@ -930,6 +930,7 @@
 			<game name="Submachine Series" from="2005" by="Mateusz Skutnik" on="Flash" wanted="Kadda" country="PL" href="https://www.mateuszskutnik.com/submachine/sub_buy.php?id=1" />
 			<game name="Wattam" from="2019" by="Funomena" on="Windows" country="JP" wanted="Ruben" />
 			<game name="ParaWorld" from="2006" by="Spieleentwicklungskombinat GmbH" on="Windows" country="DE" wanted="John" />
+			<game name="Starship Titanic" from="1998" by="the Digital Village" on="Windows" country="GB" wanted="Nadine" />
 		</event>
 	</future>
 	<unfinished>
@@ -1072,7 +1073,6 @@
 
 			<game name="50 Cent: Blood on the Sand" from="2009" by="Swordfish Studios" on="Windows" country="GB" />
 			<game name="The Chronicles of Riddick: Escape from Butcher Bay" from="2004" by="Starbreeze Studios" on="Windows" country="GB" />
-			<game name="Starship Titanic" from="1998" by="the Digital Village" on="Windows" country="GB" wanted="Nadine" />
 
 			<game name="Saints Row: The Third" from="2011" by="Volition" on="Windows" country="US" />
 			<game name="Dino Crisis" from="1999" by="Capcom Production Studio 4" on="Windows" country="JP" />
