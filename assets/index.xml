@@ -55,16 +55,16 @@
 			<subtrack name="Einführungsveranstaltungen" />
 			<subtrack name="Special&#160;Interest" />
 		</track>
-        <track xml:id="LAN" action="2" adventure="3" strategy="4" name="Historische LAN-Party" color="a6c87b">
-            <subtrack name="MMOs" />
-            <subtrack name="MUDs" />
-        </track>
-        <track xml:id="BIZ" action="2" adventure="3" strategy="4" name="Games Industry" color="6ba9b4">
-            <subtrack name="Studios" />
-            <subtrack name="VIPs" />
-            <subtrack name="Countries" />
-            <subtrack name="Miscellaneous" />
-        </track>
+		<track xml:id="LAN" action="2" adventure="3" strategy="4" name="Historische LAN-Party" color="a6c87b">
+			<subtrack name="MMOs" />
+			<subtrack name="MUDs" />
+		</track>
+		<track xml:id="BIZ" action="2" adventure="3" strategy="4" name="Games Industry" color="6ba9b4">
+			<subtrack name="Studios" />
+			<subtrack name="VIPs" />
+			<subtrack name="Countries" />
+			<subtrack name="Miscellaneous" />
+		</track>
 	</tracks>
 
 	<present>
@@ -74,9 +74,9 @@
 			<game name="Brütal Legend" from="2009" by="Double Fine Productions" on="Windows" country="US" wanted="Daniel" />
 			<game name="The Cave" from="2013" by="Double Fine Productions" on="Windows" country="US" wanted="Daniel" />
 			<game name="Psychonauts 2" from="2021" by="Double Fine Productions" on="Windows" country="US" wanted="Gregor" />
-			<read href="https://youtube.com/playlist?list=PLIhLvue17Sd70y34zh2erWWpMyOnh4UN_" title="Double Fine PsychOdyssey (32-teilige Documentary) (23:16:53)" year="2023" author="Double Fine Productions, 2 Player Productions" />
-			<read href="https://www.youtube.com/watch?v=gddBHzy5ByU" title="Cookie Monster chews over a new video game idea (00:02:35)" year="2011" author="Warner Bros. Games" />
-			<read href="https://www.youtube.com/watch?v=-8pgNUkjrYA" title="Tim Schafer Breaks Down 20 Years of Double Fine Games (00:52:07)" year="2020" author="Noclip" />
+			<read href="https://youtube.com/playlist?list=PLIhLvue17Sd70y34zh2erWWpMyOnh4UN_" title="Double Fine PsychOdyssey" year="2023" author="Paul Owens" />
+			<read href="https://www.youtube.com/watch?v=gddBHzy5ByU" title="Cookie Monster chews over a new video game idea" year="2011" author="Warner Bros. Games" />
+			<read href="https://www.youtube.com/watch?v=-8pgNUkjrYA" title="Tim Schafer Breaks Down 20 Years of Double Fine Games" year="2020" author="Noclip" />
 		</event>
 		<event xml:id="SPO401" date="Do, 22.06.2023 19:00" theme="Sim Racing" type="genre" moderator="C-P">
 			<game name="Pole Position" from="1982" by="Namco" on="C64" country="JP" />
