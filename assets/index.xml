@@ -68,7 +68,7 @@
 	</tracks>
 
 	<present>
-		<event xml:id="BIZ214" date="Fr, 09.06.2023" theme="Tim Schafer" type="author" gfx="tentacle.gif" moderator="Gregor" rerun="ADV103">
+		<event xml:id="BIZ214" date="Fr, 09.06.2023 19:00" theme="Tim Schafer" type="author" gfx="tentacle.gif" moderator="Gregor" rerun="ADV103">
 			<game name="Day of the Tentacle" from="1993" by="Lucasfilm Games" on="MS-DOS" country="US" wanted="Daniel" />
 			<game name="Grim Fandango" from="1998" by="Lucasfilm Games" on="MS-DOS" country="US" wanted="Kadda" />
 			<game name="Brütal Legend" from="2009" by="Double Fine Productions" on="Windows" country="US" wanted="Daniel" />
