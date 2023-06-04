@@ -2,8 +2,8 @@
 <xsl:stylesheet version="1.0" xmlns="http://schema.slothsoft.net/farah/sitemap" xmlns:sfd="http://schema.slothsoft.net/farah/dictionary"
 	xmlns:sfm="http://schema.slothsoft.net/farah/module" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 	<xsl:template match="/*">
-		<domain name="historischer-spieleabend.slothsoft.net" vendor="slothsoft" module="historischer-spieleabend.slothsoft.net" ref="pages/home"
-			status-active="" status-public="" sfd:languages="de-de" version="1.1">
+		<domain name="historischer-spieleabend.slothsoft.net" vendor="slothsoft" module="historischer-spieleabend.slothsoft.net" ref="pages/home" status-active="" status-public=""
+			sfd:languages="de-de" version="1.1">
 
 			<page name="sitemap" ref="//slothsoft@farah/sitemap-generator" status-active="" />
 
@@ -27,6 +27,8 @@
 					<page name="{@xml:id}" ref="/pages/event?name={@xml:id}" status-active="" />
 				</xsl:for-each>
 			</page>
+
+			<page name="Backend" ref="/backend" status-active="" />
 
 			<page name="logo-small.svg" ref="/logos/logo-small.svg" status-active="" />
 			<page name="logo-gil.png" ref="/logos/GIL.png" status-active="" />
