@@ -23,11 +23,16 @@
 			<import ref="/api/default" />
 			<use-document ref="/index" />
 		</fragment>
-		<fragment name="event">
-			<use-template ref="/xsl/_event" />
-			<import ref="/api/default" />
-			<use-document ref="/index" />
-		</fragment>
+        <fragment name="event">
+            <use-template ref="/xsl/_event" />
+            <import ref="/api/default" />
+            <use-document ref="/index" />
+        </fragment>
+        <fragment name="backend">
+            <use-template ref="/xsl/_backend" />
+            <import ref="/api/default" />
+            <use-document ref="/index" />
+        </fragment>
 	</fragment>
 
 	<fragment name="api">

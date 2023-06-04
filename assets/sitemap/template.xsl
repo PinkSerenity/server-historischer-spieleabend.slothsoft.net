@@ -28,7 +28,7 @@
 				</xsl:for-each>
 			</page>
 
-			<page name="Backend" ref="/backend" status-active="" />
+			<page name="Backend" ref="/pages/backend" status-active="" />
 
 			<page name="logo-small.svg" ref="/logos/logo-small.svg" status-active="" />
 			<page name="logo-gil.png" ref="/logos/GIL.png" status-active="" />
