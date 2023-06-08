@@ -71,8 +71,8 @@
 		<event xml:id="BIZ214" date="Fr, 09.06.2023 19:00" theme="Tim Schafer" type="author" gfx="tentacle.gif" moderator="Gregor" rerun="ADV103">
 			<game name="Day of the Tentacle" from="1993" by="Lucasfilm Games" on="MS-DOS" country="US" wanted="Daniel" />
 			<game name="Grim Fandango" from="1998" by="Lucasfilm Games" on="MS-DOS" country="US" wanted="Kadda" />
+			<game name="Psychonauts" from="2005" by="Double Fine Productions" on="Windows" country="US" wanted="Kadda" />
 			<game name="Brütal Legend" from="2009" by="Double Fine Productions" on="Windows" country="US" wanted="Daniel" />
-			<game name="The Cave" from="2013" by="Double Fine Productions" on="Windows" country="US" wanted="Daniel" />
 			<game name="Psychonauts 2" from="2021" by="Double Fine Productions" on="Windows" country="US" wanted="Gregor" />
 			<read href="https://youtube.com/playlist?list=PLIhLvue17Sd70y34zh2erWWpMyOnh4UN_" title="Double Fine PsychOdyssey" year="2023" author="Paul Owens" />
 			<read href="https://www.youtube.com/watch?v=gddBHzy5ByU" title="Cookie Monster chews over a new video game idea" year="2011" author="Warner Bros. Games" />
