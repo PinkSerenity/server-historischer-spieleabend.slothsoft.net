@@ -68,6 +68,16 @@
 	</tracks>
 
 	<present>
+		<event xml:id="SPO401" date="Do, 22.06.2023 19:00" theme="Sim Racing" type="genre" moderator="C-P" gfx="car.gif">
+			<game name="Pole Position" from="1982" by="Namco" on="C64" country="JP" />
+			<game name="Gran Turismo 3: A-Spec" from="2001" by="Polyphony Digital" on="PS2" country="JP" />
+			<game name="Assetto Corsa" from="2014" by="Kunos Simulazioni" on="Windows" country="GB" wanted="C-P" />
+			<game name="Dirt Rally 2.0" from="2019" by="Codemasters" on="Windows" country="GB" wanted="C-P" />
+			<game name="Assetto Corsa Competizione" from="2019" by="Kunos Simulazioni s.r.l." on="Windows" country="IT" wanted="C-P" />
+		</event>
+	</present>
+
+	<past>
 		<event xml:id="BIZ214" date="Fr, 09.06.2023 19:00" theme="Tim Schafer" type="author" gfx="tentacle.gif" moderator="Gregor" rerun="ADV103">
 			<game name="Day of the Tentacle" from="1993" by="Lucasfilm Games" on="MS-DOS" country="US" wanted="Daniel" />
 			<game name="Grim Fandango" from="1998" by="Lucasfilm Games" on="MS-DOS" country="US" wanted="Kadda" />
@@ -78,16 +88,6 @@
 			<read href="https://www.youtube.com/watch?v=gddBHzy5ByU" title="Cookie Monster chews over a new video game idea" year="2011" author="Warner Bros. Games" />
 			<read href="https://www.youtube.com/watch?v=-8pgNUkjrYA" title="Tim Schafer Breaks Down 20 Years of Double Fine Games" year="2020" author="Noclip" />
 		</event>
-		<event xml:id="SPO401" date="Do, 22.06.2023 19:00" theme="Sim Racing" type="genre" moderator="C-P">
-			<game name="Pole Position" from="1982" by="Namco" on="C64" country="JP" />
-			<game name="Gran Turismo 3: A-Spec" from="2001" by="Polyphony Digital" on="PS2" country="JP" />
-			<game name="Assetto Corsa" from="2014" by="Kunos Simulazioni" on="Windows" country="GB" wanted="C-P" />
-			<game name="Dirt Rally 2.0" from="2019" by="Codemasters" on="Windows" country="GB" wanted="C-P" />
-			<game name="Assetto Corsa Competizione" from="2019" by="Kunos Simulazioni s.r.l." on="Windows" country="IT" wanted="C-P" />
-		</event>
-	</present>
-
-	<past>
 		<event xml:id="RPG110" date="Do, 18.05.2023 19:00" theme="Ultima" type="series" gfx="Ultima.png" moderator="Daniel" rerun="RPG102">
 			<req ref="RPG101" />
 			<game name="Ultima I: The First Age of Darkness" from="1981" by="Origin Systems" on="AppleII" country="US" />
