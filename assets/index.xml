@@ -70,7 +70,6 @@
 	<present>
 		<event xml:id="MIS504" date="Do, 06.07.2023 19:00" theme="Player's Choice IV" type="special" gfx="tos.png">
 			<game name="Disco Elysium" from="2019" by="ZA/UM" on="Windows" country="GB" wanted="Gregor" />
-			<game name="Submachine Series" from="2005" by="Mateusz Skutnik" on="Flash" wanted="Kadda" country="PL" href="https://www.mateuszskutnik.com/submachine/sub_buy.php?id=1" />
 			<game name="Wattam" from="2019" by="Funomena" on="Windows" country="JP" wanted="Ruben" />
 			<game name="ParaWorld" from="2006" by="Spieleentwicklungskombinat GmbH" on="Windows" country="DE" wanted="John" />
 			<game name="Starship Titanic" from="1998" by="the Digital Village" on="Windows" country="GB" wanted="Nadine" />
@@ -1111,6 +1110,7 @@
 			<game name="Doodle Jump" from="2009" by="Lima Sky" on="Android" country="US" />
 			<game name="Alan Wake" from="2010" by="Remedy Entertainment" on="Windows" country="FI" wanted="Ruben" />
 			<game name="Grand Theft Auto II" from="1999" by="DMA Design" on="Windows" country="GB" />
+			<game name="Submachine Series" from="2005" by="Mateusz Skutnik" on="Flash" wanted="Kadda" country="PL" href="https://www.mateuszskutnik.com/submachine/sub_buy.php?id=1" />
 		</event>
 		<event date="" theme="JRPG Sockenkiste" type="special">
 			<game name="Baten Kaitos: Eternal Wings and the Lost Ocean" from="2003" by="Monolith Soft" on="GCN" country="JP" />
