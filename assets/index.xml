@@ -910,9 +910,9 @@
 		<event xml:id="MIS303" date="" theme="Games that Killed a Studio" type="special" gfx="superman.gif" moderator="Ruben">
 			<game name="E.T. the Extra-Terrestrial" from="1982" by="Atari, Inc." on="Atari2600" country="US" href="https://www.retrogames.cz/play_083-Atari2600.php" />
 			<game name="The Last Express" from="1997" by="Smoking Car Productions" on="Windows" country="US" wanted="" />
-			<game name="Lair" from="2007" by="Factor 5" on="PS3" country="DE" wanted="" />
-			<game name="Too Human" from="2008" by="Silicon Knights" on="XBox360" country="CA" wanted="" />
-			<game name="Duke Nukem Forever" from="2011" by="3D Realms" on="Windows" country="US" wanted="" />
+			<game name="Lair" from="2007" by="Factor 5" on="PS3" country="DE" wanted="Gil" />
+			<game name="Too Human" from="2008" by="Silicon Knights" on="XBox360" country="CA" wanted="Gil" />
+			<game name="Duke Nukem Forever" from="2011" by="3D Realms" on="Windows" country="US" wanted="Tom" />
 			<game name="Sim City" from="2013" by="Maxis Emeryville" on="Windows" country="US" wanted="" />
 			<game name="Haze" from="2013" by="Free Radical Design" on="Windows" country="GB" wanted="" />
 			<game name="The Lord of the Rings: Gollum" from="2023" by="Daedalic Entertainment" on="Windows" country="DE" wanted="" />
