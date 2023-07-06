@@ -69,6 +69,7 @@
 
 	<present>
 		<event xml:id="MIS504" date="Do, 06.07.2023 19:00" theme="Player's Choice IV" type="special" gfx="tos.png">
+			<game name="Full Tilt! Pinball" from="1995" by="Cinematronics, LLC" on="Windows" country="US" wanted="Tom" />
 			<game name="Starship Titanic" from="1998" by="the Digital Village" on="Windows" country="GB" wanted="Nadine" />
 			<game name="ParaWorld" from="2006" by="Spieleentwicklungskombinat GmbH" on="Windows" country="DE" wanted="John" />
 			<game name="Wattam" from="2019" by="Funomena" on="Windows" country="JP" wanted="Ruben" />
