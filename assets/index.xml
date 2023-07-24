@@ -68,10 +68,8 @@
 	</tracks>
 
 	<present>
-		<event xml:id="MIS303" date="Do, 27.07.2023 19:00" theme="Games that Killed a Studio" type="special" gfx="superman.gif" moderator="Ruben">
-			<game name="E.T. the Extra-Terrestrial" from="1982" by="Atari, Inc." on="Atari2600" country="US" href="https://www.retrogames.cz/play_083-Atari2600.php" />
+		<event xml:id="MIS303" date="Do, 27.07.2023 19:00" theme="Games that Killed a Studio" type="special" gfx="gollum.png" moderator="Ruben">
 			<game name="The Last Express" from="1997" by="Smoking Car Productions" on="Windows" country="US" wanted="Daniel" />
-			<game name="Tomb Raider: The Angel of Darkness" from="2003" by="Core Design" on="Windows" country="GB" wanted="Kadda" />
 			<game name="Lair" from="2007" by="Factor 5" on="PS3" country="DE" wanted="Gil" />
 			<game name="Too Human" from="2008" by="Silicon Knights" on="XBox360" country="CA" wanted="Gil" />
 			<game name="Duke Nukem Forever" from="2011" by="3D Realms" on="Windows" country="US" wanted="Tom" />
