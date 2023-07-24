@@ -68,6 +68,19 @@
 	</tracks>
 
 	<present>
+		<event xml:id="MIS303" date="Do, 27.07.2023 19:00" theme="Games that Killed a Studio" type="special" gfx="superman.gif" moderator="Ruben">
+			<game name="E.T. the Extra-Terrestrial" from="1982" by="Atari, Inc." on="Atari2600" country="US" href="https://www.retrogames.cz/play_083-Atari2600.php" />
+			<game name="The Last Express" from="1997" by="Smoking Car Productions" on="Windows" country="US" wanted="Daniel" />
+			<game name="Tomb Raider: The Angel of Darkness" from="2003" by="Core Design" on="Windows" country="GB" wanted="Kadda" />
+			<game name="Lair" from="2007" by="Factor 5" on="PS3" country="DE" wanted="Gil" />
+			<game name="Too Human" from="2008" by="Silicon Knights" on="XBox360" country="CA" wanted="Gil" />
+			<game name="Duke Nukem Forever" from="2011" by="3D Realms" on="Windows" country="US" wanted="Tom" />
+			<game name="Sim City" from="2013" by="Maxis Emeryville" on="Windows" country="US" wanted="Daniel" />
+			<game name="The Lord of the Rings: Gollum" from="2023" by="Daedalic Entertainment" on="Windows" country="DE" wanted="Daniel" />
+		</event>
+	</present>
+
+	<past>
 		<event xml:id="MIS504" date="Do, 06.07.2023 19:00" theme="Player's Choice IV" type="special" gfx="tos.png">
 			<game name="Full Tilt! Pinball" from="1995" by="Cinematronics, LLC" on="Windows" country="US" wanted="Tom" />
 			<game name="Starship Titanic" from="1998" by="the Digital Village" on="Windows" country="GB" wanted="Nadine" />
@@ -75,9 +88,6 @@
 			<game name="Wattam" from="2019" by="Funomena" on="Windows" country="JP" wanted="Ruben" />
 			<game name="Disco Elysium" from="2019" by="ZA/UM" on="Windows" country="GB" wanted="Gregor" />
 		</event>
-	</present>
-
-	<past>
 		<event xml:id="SPO401" date="Do, 22.06.2023 19:00" theme="Sim Racing" type="genre" moderator="C-P" gfx="car.gif">
 			<game name="Pole Position" from="1982" by="Namco" on="C64" country="JP" />
 			<game name="Gran Turismo 3: A-Spec" from="2001" by="Polyphony Digital" on="PS2" country="JP" />
@@ -907,16 +917,6 @@
 			<game name="Cooking Mama" from="2006" by="Office Create" on="iOS" country="JP" wanted="Kadda" />
 			<game name="Overcooked" from="2016" by="Ghost Town Games" on="Windows" country="GB" wanted="Kadda" />
 			<game name="Cooking Simulator" from="2019" by="Big Cheese Studio" on="Windows" country="PL" wanted="" />
-		</event>
-		<event xml:id="MIS303" date="" theme="Games that Killed a Studio" type="special" gfx="superman.gif" moderator="Ruben">
-			<game name="E.T. the Extra-Terrestrial" from="1982" by="Atari, Inc." on="Atari2600" country="US" href="https://www.retrogames.cz/play_083-Atari2600.php" />
-			<game name="The Last Express" from="1997" by="Smoking Car Productions" on="Windows" country="US" wanted="" />
-			<game name="Lair" from="2007" by="Factor 5" on="PS3" country="DE" wanted="Gil" />
-			<game name="Too Human" from="2008" by="Silicon Knights" on="XBox360" country="CA" wanted="Gil" />
-			<game name="Duke Nukem Forever" from="2011" by="3D Realms" on="Windows" country="US" wanted="Tom" />
-			<game name="Sim City" from="2013" by="Maxis Emeryville" on="Windows" country="US" wanted="" />
-			<game name="Haze" from="2013" by="Free Radical Design" on="Windows" country="GB" wanted="" />
-			<game name="The Lord of the Rings: Gollum" from="2023" by="Daedalic Entertainment" on="Windows" country="DE" wanted="" />
 		</event>
 		<event xml:id="BIZ215" date="" theme="Fumito Ueda" type="author" moderator="Kadda" rerun="ACT104" gfx="sotc.gif">
 			<read href="https://www.youtube.com/watch?v=7Nl1oHy3zlw" title="Game Masters: Fumito Ueda Interview" year="2016" author="Australian Centre for the Moving Image" />
