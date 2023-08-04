@@ -73,9 +73,9 @@
 			<read href="https://www.youtube.com/watch?v=NLphTtVZfvw" title="The Architecture of Fumito Ueda" year="2018" author="Jacob Geller" />
 			<read href="https://www.youtube.com/watch?v=jQNeYbBiCKw" title="The Decade-Long Quest For Shadow of the Colossus’ Last Secret" year="2019" author="Jacob Geller" />
 
-			<game name="Ico" from="2001" by="SCE Japan Studio" on="PS3" country="JP" wanted="Gil" />
-			<game name="Shadow of the Colossus" from="2005" by="SCE Japan Studio" on="PS3" country="JP" wanted="Gil" />
-			<game name="The Last Guardian" from="2016" by="SIE Japan Studio" on="PS4" country="JP" wanted="Kadda" />
+			<game name="Ico" from="2001" by="Team Ico" on="PS3" country="JP" wanted="Gil" />
+			<game name="Shadow of the Colossus" from="2005" by="Team Ico" on="PS3" country="JP" wanted="Gil" />
+			<game name="The Last Guardian" from="2016" by="GenDESIGN" on="PS4" country="JP" wanted="Kadda" />
 		</event>
 	</present>
 
