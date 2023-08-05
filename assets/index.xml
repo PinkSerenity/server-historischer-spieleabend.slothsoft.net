@@ -68,6 +68,15 @@
 	</tracks>
 
 	<present>
+		<event xml:id="MIS705" date="17.08.2023" theme="Cooking" type="genre" moderator="Kadda" gfx="overcooked.gif">
+			<game name="Pizza Connection" from="1994" by="Cybernetic Corporation" on="Windows" country="DE" wanted="Kadda" />
+			<game name="Cooking Mama" from="2006" by="Office Create" on="iOS" country="JP" wanted="Kadda" />
+			<game name="Overcooked" from="2016" by="Ghost Town Games" on="Windows" country="GB" wanted="Kadda" />
+			<game name="Cooking Simulator" from="2019" by="Big Cheese Studio" on="Windows" country="PL" wanted="Kadda" />
+		</event>
+	</present>
+
+	<past>
 		<event xml:id="BIZ215" date="" theme="Fumito Ueda" type="author" moderator="Kadda" rerun="ACT104" gfx="sotc.gif">
 			<read href="https://www.youtube.com/watch?v=7Nl1oHy3zlw" title="Game Masters: Fumito Ueda Interview" year="2016" author="Australian Centre for the Moving Image" />
 			<read href="https://www.youtube.com/watch?v=NLphTtVZfvw" title="The Architecture of Fumito Ueda" year="2018" author="Jacob Geller" />
@@ -77,9 +86,6 @@
 			<game name="Shadow of the Colossus" from="2005" by="Team Ico" on="PS3" country="JP" wanted="Gil" />
 			<game name="The Last Guardian" from="2016" by="GenDESIGN" on="PS4" country="JP" wanted="Kadda" />
 		</event>
-	</present>
-
-	<past>
 		<event xml:id="MIS303" date="Do, 27.07.2023 19:00" theme="Games that Killed a Studio" type="special" gfx="gollum.png" moderator="Ruben">
 			<game name="The Last Express" from="1997" by="Smoking Car Productions" on="Windows" country="US" wanted="Daniel" />
 			<game name="Lair" from="2007" by="Factor 5" on="PS3" country="DE" wanted="Gil" />
@@ -919,17 +925,17 @@
 			<game name="Metal Gear Solid 4: Guns of the Patriots" from="2008" by="Kojima Productions" on="PS3" country="JP" />
 			<game name="Metal Gear Solid V: The Phantom Pain" from="2015" by="Kojima Productions" on="PS4" country="JP" />
 		</event>
-		<event xml:id="MIS705" date="" theme="Cooking" type="genre" moderator="Kadda" gfx="overcooked.gif">
-			<game name="Pizza Connection" from="1994" by="Cybernetic Corporation" on="Windows" country="DE" wanted="Kadda" />
-			<game name="Cooking Mama" from="2006" by="Office Create" on="iOS" country="JP" wanted="Kadda" />
-			<game name="Overcooked" from="2016" by="Ghost Town Games" on="Windows" country="GB" wanted="Kadda" />
-			<game name="Cooking Simulator" from="2019" by="Big Cheese Studio" on="Windows" country="PL" wanted="" />
-		</event>
 		<event xml:id="FPS109" date="" theme="History of Immersive Sims" type="genre" gfx="" moderator="MICHAEL!">
 			<game name="System Shock 2" from="1999" by="Irrational Games" on="Windows" country="US" wanted="" />
 			<game name="Deus Ex" from="2000" by="Ion Storm" on="Windows" country="US" wanted="Kadda" />
 			<game name="BioShock" from="2007" by="Irrational Games" on="Windows" country="US" wanted="Ruben" />
 			<game name="Prey" from="2017" by="Arkane Studios" on="Windows" country="FR" wanted="Kadda" />
+		</event>
+		<event xml:id="BIZ102" date="" theme="Remedy Entertainment" type="author" moderator="Kadda" gfx="remedy.png">
+			<game name="Death Rally" from="1996" by="Remedy Entertainment" on="MS-DOS" country="FI" />
+			<game name="Max Payne" from="2001" by="Remedy Entertainment" on="Windows" country="FI" />
+			<game name="Alan Wake" from="2010" by="Remedy Entertainment" on="XBox360" country="FI" />
+			<game name="Quantum Break" from="2016" by="Remedy Entertainment" on="Windows" country="FI" />
 		</event>
 	</future>
 	<unfinished>
@@ -944,12 +950,6 @@
 			<game name="Ghostwire Tokyo" from="2022" by="Tango Gameworks" on="Windows" country="JP" wanted="" />
 		</event>
 		<event xml:id="MIS704" date="" theme="Mecha Games" type="genre" moderator="John" gfx="">
-		</event>
-		<event xml:id="BIZ102" date="" theme="Remedy Entertainment" type="author" moderator="Kadda" gfx="remedy.png">
-			<game name="Death Rally" from="1996" by="Remedy Entertainment" on="MS-DOS" country="FI" />
-			<game name="Max Payne" from="2001" by="Remedy Entertainment" on="Windows" country="FI" />
-			<game name="Alan Wake" from="2010" by="Remedy Entertainment" on="XBox360" country="FI" />
-			<game name="Quantum Break" from="2016" by="Remedy Entertainment" on="Windows" country="FI" />
 		</event>
 		<event xml:id="JNR108" date="" theme="Metroidvanias" type="genre" moderator="Kadda" rerun="JNR103" gfx="metroid.png">
 			<req ref="JNR101" />
@@ -994,7 +994,7 @@
 			<game name="Dys4ia" from="2012" by="Anna Anthropy" on="Windows" country="US" />
 			<game name="A Normal Lost Phone" from="2017" by="Accidental Queens" on="Android" country="FR" />
 		</event>
-		<event xml:id="BIZ103" date="" theme="Yoko Taro" type="author" moderator="Kadda" gfx="nier.png">
+		<event xml:id="BIZ103" date="" theme="Yoko Taro" type="author" moderator="Ruben" gfx="nier.png">
 			<game name="Nier" from="2010" by="Cavia" on="PS3" country="JP" />
 			<game name="Drakengard 3" from="2013" by="Access Games" on="PS3" country="JP" />
 			<game name="Nier: Automata" from="2017" by="PlatinumGames" on="PS4" country="JP" />
