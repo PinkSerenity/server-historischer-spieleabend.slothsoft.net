@@ -68,7 +68,7 @@
 	</tracks>
 
 	<present>
-		<event xml:id="MIS705" date="17.08.2023" theme="Cooking" type="genre" moderator="Kadda" gfx="overcooked.gif">
+		<event xml:id="MIS705" date="Do, 31.08.2023 19:00" theme="Cooking" type="genre" moderator="Kadda" gfx="overcooked.gif">
 			<game name="Pizza Connection" from="1994" by="Cybernetic Corporation" on="Windows" country="DE" wanted="Kadda" />
 			<game name="Cooking Mama" from="2006" by="Office Create" on="iOS" country="JP" wanted="Kadda" />
 			<game name="Overcooked" from="2016" by="Ghost Town Games" on="Windows" country="GB" wanted="Kadda" />
@@ -77,7 +77,7 @@
 	</present>
 
 	<past>
-		<event xml:id="BIZ215" date="" theme="Fumito Ueda" type="author" moderator="Kadda" rerun="ACT104" gfx="sotc.gif">
+		<event xml:id="BIZ215" date="Fr, 04.08.2023 19:00" theme="Fumito Ueda" type="author" moderator="Kadda" rerun="ACT104" gfx="sotc.gif">
 			<read href="https://www.youtube.com/watch?v=7Nl1oHy3zlw" title="Game Masters: Fumito Ueda Interview" year="2016" author="Australian Centre for the Moving Image" />
 			<read href="https://www.youtube.com/watch?v=NLphTtVZfvw" title="The Architecture of Fumito Ueda" year="2018" author="Jacob Geller" />
 			<read href="https://www.youtube.com/watch?v=jQNeYbBiCKw" title="The Decade-Long Quest For Shadow of the Colossus’ Last Secret" year="2019" author="Jacob Geller" />
