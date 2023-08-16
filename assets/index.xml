@@ -937,6 +937,13 @@
 			<game name="Alan Wake" from="2010" by="Remedy Entertainment" on="XBox360" country="FI" />
 			<game name="Quantum Break" from="2016" by="Remedy Entertainment" on="Windows" country="FI" />
 		</event>
+		<event xml:id="MIS706" date="" theme="Girl Games" type="special" moderator="Elli" gfx="">
+			<game name="Hawaii High - The Mystery of the Tiki" from="1994" by="Sanctuary Woods" on="Windows" country="CA" />
+			<game name="Barbie Fashion Designer" from="1996" by="Digital Domain" on="Windows" country="US" />
+			<game name="Rockett's Camp Adventures" from="1999" by="Addictive Media" on="Windows" country="" />
+			<game name="Hamtaro: Ham-Ham Heartbreak" from="2002" by="Pax Softnica" on="GBA" country="JP" />
+			<game name="Super Princess Peach" from="2005" by="Tose" on="NDS" country="JP" />
+		</event>
 	</future>
 	<unfinished>
 		<event xml:id="ACT207" date="" theme="Rhythm Action Games" type="genre" moderator="Kadda">
