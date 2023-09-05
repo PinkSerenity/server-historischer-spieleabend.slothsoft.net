@@ -68,15 +68,21 @@
 	</tracks>
 
 	<present>
+		<event xml:id="BIZ102" date="Do, 14.09.2023 19:00" theme="Remedy Entertainment" type="author" moderator="Kadda" gfx="remedy.png">
+			<game name="Death Rally" from="1996" by="Remedy Entertainment" on="MS-DOS" country="FI" />
+			<game name="Max Payne" from="2001" by="Remedy Entertainment" on="Windows" country="FI" />
+			<game name="Alan Wake" from="2010" by="Remedy Entertainment" on="XBox360" country="FI" />
+			<game name="Quantum Break" from="2016" by="Remedy Entertainment" on="Windows" country="FI" />
+		</event>
+	</present>
+
+	<past>
 		<event xml:id="MIS705" date="Do, 31.08.2023 19:00" theme="Cooking" type="genre" moderator="Kadda" gfx="overcooked.gif">
 			<game name="Pizza Connection" from="1994" by="Cybernetic Corporation" on="Windows" country="DE" wanted="Kadda" />
 			<game name="Cooking Mama" from="2006" by="Office Create" on="iOS" country="JP" wanted="Kadda" />
 			<game name="Overcooked" from="2016" by="Ghost Town Games" on="Windows" country="GB" wanted="Kadda" />
 			<game name="Cooking Simulator" from="2019" by="Big Cheese Studio" on="Windows" country="PL" wanted="Kadda" />
 		</event>
-	</present>
-
-	<past>
 		<event xml:id="BIZ215" date="Fr, 04.08.2023 19:00" theme="Fumito Ueda" type="author" moderator="Kadda" rerun="ACT104" gfx="sotc.gif">
 			<read href="https://www.youtube.com/watch?v=7Nl1oHy3zlw" title="Game Masters: Fumito Ueda Interview" year="2016" author="Australian Centre for the Moving Image" />
 			<read href="https://www.youtube.com/watch?v=NLphTtVZfvw" title="The Architecture of Fumito Ueda" year="2018" author="Jacob Geller" />
@@ -930,12 +936,6 @@
 			<game name="Deus Ex" from="2000" by="Ion Storm" on="Windows" country="US" wanted="Kadda" />
 			<game name="BioShock" from="2007" by="Irrational Games" on="Windows" country="US" wanted="Ruben" />
 			<game name="Prey" from="2017" by="Arkane Studios" on="Windows" country="FR" wanted="Kadda" />
-		</event>
-		<event xml:id="BIZ102" date="" theme="Remedy Entertainment" type="author" moderator="Kadda" gfx="remedy.png">
-			<game name="Death Rally" from="1996" by="Remedy Entertainment" on="MS-DOS" country="FI" />
-			<game name="Max Payne" from="2001" by="Remedy Entertainment" on="Windows" country="FI" />
-			<game name="Alan Wake" from="2010" by="Remedy Entertainment" on="XBox360" country="FI" />
-			<game name="Quantum Break" from="2016" by="Remedy Entertainment" on="Windows" country="FI" />
 		</event>
 		<event xml:id="MIS706" date="" theme="Girl Games" type="special" moderator="Elli" gfx="">
 			<game name="Hawaii High - The Mystery of the Tiki" from="1994" by="Sanctuary Woods" on="Windows" country="CA" />
