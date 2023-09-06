@@ -68,7 +68,7 @@
 	</tracks>
 
 	<present>
-		<event xml:id="BIZ102" date="Do, 14.09.2023 19:00" theme="Remedy Entertainment" type="author" moderator="Kadda" gfx="remedy.jpg">
+		<event xml:id="BIZ102" date="Do, 14.09.2023 19:00" theme="Remedy Entertainment" type="author" moderator="Kadda" gfx="remedy.png">
 			<game name="Death Rally" from="1996" by="Remedy Entertainment" on="MS-DOS" country="FI" />
 			<game name="Max Payne" from="2001" by="Remedy Entertainment" on="Windows" country="FI" />
 			<game name="Alan Wake" from="2010" by="Remedy Entertainment" on="XBox360" country="FI" />
