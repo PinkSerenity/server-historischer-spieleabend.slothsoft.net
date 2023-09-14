@@ -950,6 +950,10 @@
 			<game name="Magic: The Gathering – Battlegrounds" from="2003" by="Secret Level" on="Windows" country="US" />
 			<game name="Magic: The Gathering Arena" from="2019" by="Wizards Digital Games Studio" on="Windows" country="US" />
 		</event>
+		<event xml:id="ACT305" date="" theme="Deadly Premonition" type="series" moderator="Ruben" gfx="">
+			<game name="Deadly Premonition" from="2010" by="Access Games" on="Windows" country="JP" />
+			<game name="Deadly Premonition 2: A Blessing in Disguise" from="2020" by="Toybox, White Owls" on="Windows" country="JP" />
+		</event>
 	</future>
 	<unfinished>
 		<event xml:id="ACT207" date="" theme="Rhythm Action Games" type="genre" moderator="Kadda">
