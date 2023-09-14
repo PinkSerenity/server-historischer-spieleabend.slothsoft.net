@@ -945,6 +945,11 @@
 			<game name="Hamtaro: Ham-Ham Heartbreak" from="2002" by="Pax Softnica" on="GBA" country="JP" />
 			<game name="Super Princess Peach" from="2005" by="Tose" on="NDS" country="JP" />
 		</event>
+		<event xml:id="STR106" date="" theme="Magic: The Gathering" type="series" moderator="Daniel" gfx="">
+			<game name="Magic: The Gathering" from="1997" by="MicroProse" on="Windows" country="US" />
+			<game name="Magic: The Gathering – Battlegrounds" from="2003" by="Secret Level" on="Windows" country="US" />
+			<game name="Magic: The Gathering Arena" from="2019" by="Wizards Digital Games Studio" on="Windows" country="US" />
+		</event>
 	</future>
 	<unfinished>
 		<event xml:id="ACT207" date="" theme="Rhythm Action Games" type="genre" moderator="Kadda">
@@ -1124,7 +1129,6 @@
 			<game name="Ōkami" from="2006" by="Clover Studio" on="Wii" country="JP" />
 			<game name="Evoland" from="2013" by="Shiro Games" on="Windows" country="FR" wanted="Kadda" />
 			<game name="Thomas Was Alone" from="2017" by="Mike Bithell" on="Windows" country="GB" />
-			<game name="Magic: The Gathering" from="1997" by="MicroProse" on="Windows" country="US" />
 			<game name="All Quiet in the Trenches" from="2019" by="Totally Not Aliens" on="Windows" country="DE" wanted="" />
 			<game name="Silence: The Whispered World 2" from="2016" by="Daedalic Entertainment" on="Windows" country="DE" wanted="Kadda" />
 			<game name="Dragon's Lair" from="1983" by="Advanced Microcomputer Systems" country="US" on="Arcade" />
