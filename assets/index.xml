@@ -68,6 +68,23 @@
 	</tracks>
 
 	<present>
+		<event xml:id="MIS706" date="Do, 28.09.2023 19:00" theme="Girl Games" type="special" moderator="Elli" gfx="peach.jpg">
+			<game name="Hawaii High - The Mystery of the Tiki" from="1994" by="Sanctuary Woods" on="Windows" country="CA" />
+			<game name="Barbie Fashion Designer" from="1996" by="Digital Domain" on="Windows" country="US" />
+			<game name="Rockett's Camp Adventures" from="1999" by="Addictive Media" on="Windows" country="" />
+			<game name="Hamtaro: Ham-Ham Heartbreak" from="2002" by="Pax Softnica" on="GBA" country="JP" />
+			<game name="Super Princess Peach" from="2005" by="Tose" on="NDS" country="JP" />
+		</event>
+		<event xml:id="ACT204" date="Do, 09.11.2023 19:00" theme="Metal Gear Solid" type="series" gfx="Snake.gif" moderator="MICHAEL!">
+			<game name="Metal Gear Solid" from="1998" by="Konami" on="PS1" country="JP" />
+			<game name="Metal Gear Solid 2: Sons of Liberty" from="2001" by="Konami" on="PS2" country="JP" />
+			<game name="Metal Gear Solid 3: Snake Eater" from="2004" by="Konami" on="PS2" country="JP" />
+			<game name="Metal Gear Solid 4: Guns of the Patriots" from="2008" by="Kojima Productions" on="PS3" country="JP" />
+			<game name="Metal Gear Solid V: The Phantom Pain" from="2015" by="Kojima Productions" on="PS4" country="JP" />
+		</event>
+	</present>
+
+	<past>
 		<event xml:id="BIZ102" date="Do, 14.09.2023 19:00" theme="Remedy Entertainment" type="author" moderator="Kadda" gfx="remedy.png">
 			<game name="Death Rally" from="1996" by="Remedy Entertainment" on="MS-DOS" country="FI" />
 			<game name="Max Payne" from="2001" by="Remedy Entertainment" on="Windows" country="FI" />
@@ -75,9 +92,6 @@
 			<game name="Quantum Break" from="2016" by="Remedy Entertainment" on="Windows" country="FI" />
 			<game name="Control" from="2019" by="Remedy Entertainment" on="Windows" country="FI" />
 		</event>
-	</present>
-
-	<past>
 		<event xml:id="MIS705" date="Do, 31.08.2023 19:00" theme="Cooking" type="genre" moderator="Kadda" gfx="overcooked.gif">
 			<game name="Pizza Connection" from="1994" by="Cybernetic Corporation" on="Windows" country="DE" wanted="Kadda" />
 			<game name="Cooking Mama" from="2006" by="Office Create" on="iOS" country="JP" wanted="Kadda" />
@@ -925,25 +939,11 @@
 	</past>
 
 	<future>
-		<event xml:id="ACT204" date="" theme="Metal Gear Solid" type="series" gfx="Snake.gif" moderator="MICHAEL!">
-			<game name="Metal Gear Solid" from="1998" by="Konami" on="PS1" country="JP" />
-			<game name="Metal Gear Solid 2: Sons of Liberty" from="2001" by="Konami" on="PS2" country="JP" />
-			<game name="Metal Gear Solid 3: Snake Eater" from="2004" by="Konami" on="PS2" country="JP" />
-			<game name="Metal Gear Solid 4: Guns of the Patriots" from="2008" by="Kojima Productions" on="PS3" country="JP" />
-			<game name="Metal Gear Solid V: The Phantom Pain" from="2015" by="Kojima Productions" on="PS4" country="JP" />
-		</event>
 		<event xml:id="FPS109" date="" theme="History of Immersive Sims" type="genre" gfx="" moderator="MICHAEL!">
 			<game name="System Shock 2" from="1999" by="Irrational Games" on="Windows" country="US" wanted="" />
 			<game name="Deus Ex" from="2000" by="Ion Storm" on="Windows" country="US" wanted="Kadda" />
 			<game name="BioShock" from="2007" by="Irrational Games" on="Windows" country="US" wanted="Ruben" />
 			<game name="Prey" from="2017" by="Arkane Studios" on="Windows" country="FR" wanted="Kadda" />
-		</event>
-		<event xml:id="MIS706" date="" theme="Girl Games" type="special" moderator="Elli" gfx="">
-			<game name="Hawaii High - The Mystery of the Tiki" from="1994" by="Sanctuary Woods" on="Windows" country="CA" />
-			<game name="Barbie Fashion Designer" from="1996" by="Digital Domain" on="Windows" country="US" />
-			<game name="Rockett's Camp Adventures" from="1999" by="Addictive Media" on="Windows" country="" />
-			<game name="Hamtaro: Ham-Ham Heartbreak" from="2002" by="Pax Softnica" on="GBA" country="JP" />
-			<game name="Super Princess Peach" from="2005" by="Tose" on="NDS" country="JP" />
 		</event>
 		<event xml:id="STR106" date="" theme="Magic: The Gathering" type="series" moderator="Daniel" gfx="">
 			<game name="Magic: The Gathering" from="1997" by="MicroProse" on="Windows" country="US" />
