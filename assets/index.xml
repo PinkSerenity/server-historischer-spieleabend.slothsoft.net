@@ -71,7 +71,7 @@
 		<event xml:id="MIS706" date="Do, 28.09.2023 19:00" theme="Girl Games" type="special" moderator="Elli" gfx="peach.jpg">
 			<game name="Hawaii High - The Mystery of the Tiki" from="1994" by="Sanctuary Woods" on="Windows" country="CA" />
 			<game name="Barbie Fashion Designer" from="1996" by="Digital Domain" on="Windows" country="US" />
-			<game name="Rockett's Camp Adventures" from="1999" by="Addictive Media" on="Windows" country="" />
+			<game name="Rockett's Camp Adventures" from="1999" by="Addictive Media" on="Windows" country="US" />
 			<game name="Hamtaro: Ham-Ham Heartbreak" from="2002" by="Pax Softnica" on="GBA" country="JP" />
 			<game name="Super Princess Peach" from="2005" by="Tose" on="NDS" country="JP" />
 		</event>
