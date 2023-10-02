@@ -68,12 +68,17 @@
 	</tracks>
 
 	<present>
-		<event xml:id="MIS706" date="Do, 28.09.2023 19:00" theme="Girl Games" type="special" moderator="Elli" gfx="peach.jpg">
-			<game name="Hawaii High - The Mystery of the Tiki" from="1994" by="Sanctuary Woods" on="Windows" country="CA" />
-			<game name="Barbie Fashion Designer" from="1996" by="Digital Domain" on="Windows" country="US" />
-			<game name="Rockett's Camp Adventures" from="1999" by="Addictive Media" on="Windows" country="US" />
-			<game name="Hamtaro: Ham-Ham Heartbreak" from="2002" by="Pax Softnica" on="GBA" country="JP" />
-			<game name="Super Princess Peach" from="2005" by="Tose" on="NDS" country="JP" />
+		<event xml:id="ACT306" date="Sa, 11.10.2023 19:00" theme="Survival Horror" type="genre" moderator="?" rerun="ACT301">
+			<game name="Sweet Home" from="1989" by="Capcom" on="NES" country="JP" manual="SweetHome" />
+			<game name="Alone in the Dark" from="1992" by="Infogrames" on="MS-DOS" country="FR" manual="AloneInTheDark" />
+			<game name="Resident Evil" from="1996" by="Capcom" on="PS1" country="JP" />
+			<game name="Silent Hill 2" from="2001" by="Konami Computer Entertainment Tokyo" on="PS2" country="JP" />
+			<game name="Lifeline" from="2003" by="Sony Computer Entertainment Inc" on="PS2" country="JP" />
+		</event>
+		<event xml:id="MIS603" date="Fr, 25.10.2023 19:00" theme="Ersti-Abend 2023" type="special" gfx="mariolution.gif" moderator="Daniel">
+			<game name="Super Mario Bros.: The Lost Levels" from="1986" by="Nintendo R&D4" on="SNES" country="JP" />
+			<game name="King's Quest VI: Heir Today, Gone Tomorrow" from="1992" by="Sierra On-Line" on="MS-DOS" country="US" />
+			<game name="Tony Hawk's Pro Skater 2" from="2000" by="Neversoft" on="Windows" country="US" />
 		</event>
 		<event xml:id="ACT204" date="Do, 09.11.2023 19:00" theme="Metal Gear Solid" type="series" gfx="Snake.gif" moderator="MICHAEL!">
 			<game name="Metal Gear Solid" from="1998" by="Konami" on="PS1" country="JP" />
@@ -85,6 +90,13 @@
 	</present>
 
 	<past>
+		<event xml:id="MIS706" date="Do, 28.09.2023 19:00" theme="Girl Games" type="special" moderator="Elli" gfx="peach.jpg">
+			<game name="Hawaii High - The Mystery of the Tiki" from="1994" by="Sanctuary Woods" on="Windows" country="CA" />
+			<game name="Barbie Fashion Designer" from="1996" by="Digital Domain" on="Windows" country="US" />
+			<game name="Rockett's Camp Adventures" from="1999" by="Addictive Media" on="Windows" country="US" />
+			<game name="Hamtaro: Ham-Ham Heartbreak" from="2002" by="Pax Softnica" on="GBA" country="JP" />
+			<game name="Super Princess Peach" from="2005" by="Tose" on="NDS" country="JP" />
+		</event>
 		<event xml:id="BIZ102" date="Do, 14.09.2023 19:00" theme="Remedy Entertainment" type="author" moderator="Kadda" gfx="remedy.png">
 			<game name="Death Rally" from="1996" by="Remedy Entertainment" on="MS-DOS" country="FI" />
 			<game name="Max Payne" from="2001" by="Remedy Entertainment" on="Windows" country="FI" />
@@ -928,7 +940,7 @@
 		</event>
 		<event xml:id="ADV101" date="Do, 13.12.2018 19:00" theme="Fantasy-Adventures" type="genre">
 			<game name="Zork: The Great Underground Empire" from="1980" by="Infocom" on="MS-DOS" country="US" manual="Zork (1980, Infocom)" />
-			<game name="King’s Quest IV: The Perils of Rosella" from="1988" by="Sierra On-Line" on="MS-DOS" country="US" manual="Kings Quest IV (1988, Sierra On-Line)" />
+			<game name="King's Quest IV: The Perils of Rosella" from="1988" by="Sierra On-Line" on="MS-DOS" country="US" manual="Kings Quest IV (1988, Sierra On-Line)" />
 			<game name="Loom" from="1990" by="Lucasfilm Games" on="Amiga" country="US" manual="Loom (1990, Lucasfilm Games)" />
 		</event>
 		<event xml:id="STR101" date="Do, 22.11.2018 19:00" theme="Feudal Strategy Games" type="genre">
