@@ -76,7 +76,7 @@
 			<game name="Lifeline" from="2003" by="Sony Computer Entertainment Inc" on="PS2" country="JP" />
 		</event>
 		<event xml:id="MIS603" date="Fr, 25.10.2023 19:00" theme="Ersti-Abend 2023" type="special" gfx="mariolution.gif" moderator="Daniel">
-			<game name="Super Mario Bros.: The Lost Levels" from="1986" by="Nintendo R&D4" on="SNES" country="JP" />
+			<game name="Super Mario Bros.: The Lost Levels" from="1986" by="Nintendo R&amp;D4" on="SNES" country="JP" />
 			<game name="King's Quest VI: Heir Today, Gone Tomorrow" from="1992" by="Sierra On-Line" on="MS-DOS" country="US" />
 			<game name="Tony Hawk's Pro Skater 2" from="2000" by="Neversoft" on="Windows" country="US" />
 		</event>
