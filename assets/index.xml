@@ -74,13 +74,6 @@
 			<game name="Final Fantasy" from="1987" by="Square" on="NES" country="JP" />
 			<game name="Tony Hawk's Pro Skater 2" from="2000" by="Neversoft" on="Windows" country="US" />
 		</event>
-		<event xml:id="ACT204" date="Do, 02.11.2023 19:00" theme="Metal Gear Solid" type="series" gfx="Snake.gif" moderator="MICHAEL!">
-			<game name="Metal Gear Solid" from="1998" by="Konami" on="PS1" country="JP" />
-			<game name="Metal Gear Solid 2: Sons of Liberty" from="2001" by="Konami" on="PS2" country="JP" />
-			<game name="Metal Gear Solid 3: Snake Eater" from="2004" by="Konami" on="PS2" country="JP" />
-			<game name="Metal Gear Solid 4: Guns of the Patriots" from="2008" by="Kojima Productions" on="PS3" country="JP" />
-			<game name="Metal Gear Solid V: The Phantom Pain" from="2015" by="Kojima Productions" on="PS4" country="JP" />
-		</event>
 	</present>
 
 	<past>
@@ -966,6 +959,13 @@
 		<event xml:id="ACT305" date="" theme="Deadly Premonition" type="series" moderator="Ruben" gfx="">
 			<game name="Deadly Premonition" from="2010" by="Access Games" on="Windows" country="JP" />
 			<game name="Deadly Premonition 2: A Blessing in Disguise" from="2020" by="Toybox, White Owls" on="Windows" country="JP" />
+		</event>
+		<event xml:id="ACT204" date="" theme="Metal Gear Solid" type="series" gfx="Snake.gif" moderator="MICHAEL!">
+			<game name="Metal Gear Solid" from="1998" by="Konami" on="PS1" country="JP" />
+			<game name="Metal Gear Solid 2: Sons of Liberty" from="2001" by="Konami" on="PS2" country="JP" />
+			<game name="Metal Gear Solid 3: Snake Eater" from="2004" by="Konami" on="PS2" country="JP" />
+			<game name="Metal Gear Solid 4: Guns of the Patriots" from="2008" by="Kojima Productions" on="PS3" country="JP" />
+			<game name="Metal Gear Solid V: The Phantom Pain" from="2015" by="Kojima Productions" on="PS4" country="JP" />
 		</event>
 	</future>
 	<unfinished>
