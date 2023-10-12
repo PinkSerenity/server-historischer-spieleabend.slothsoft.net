@@ -68,19 +68,13 @@
 	</tracks>
 
 	<present>
-		<event xml:id="ACT306" date="Sa, 11.10.2023 19:00" theme="Survival Horror" type="genre" moderator="?" rerun="ACT301">
-			<game name="Sweet Home" from="1989" by="Capcom" on="NES" country="JP" manual="SweetHome" />
-			<game name="Alone in the Dark" from="1992" by="Infogrames" on="MS-DOS" country="FR" manual="AloneInTheDark" />
-			<game name="Resident Evil" from="1996" by="Capcom" on="PS1" country="JP" />
-			<game name="Silent Hill 2" from="2001" by="Konami Computer Entertainment Tokyo" on="PS2" country="JP" />
-			<game name="Lifeline" from="2003" by="Sony Computer Entertainment Inc" on="PS2" country="JP" />
-		</event>
-		<event xml:id="MIS603" date="Fr, 25.10.2023 19:00" theme="Ersti-Abend 2023" type="special" gfx="mariolution.gif" moderator="Daniel">
+		<event xml:id="MIS603" date="Do, 26.10.2023 19:00" theme="Ersti-Abend 2023" type="special" gfx="mariolution.gif" moderator="Daniel">
+			<game name="The Hitchhiker's Guide to the Galaxy" from="1984" by="Infocom" on="Amiga" country="GB" />
 			<game name="Super Mario Bros.: The Lost Levels" from="1986" by="Nintendo R&amp;D4" on="SNES" country="JP" />
-			<game name="King's Quest VI: Heir Today, Gone Tomorrow" from="1992" by="Sierra On-Line" on="MS-DOS" country="US" />
+			<game name="Final Fantasy" from="1987" by="Square" on="NES" country="JP" />
 			<game name="Tony Hawk's Pro Skater 2" from="2000" by="Neversoft" on="Windows" country="US" />
 		</event>
-		<event xml:id="ACT204" date="Do, 09.11.2023 19:00" theme="Metal Gear Solid" type="series" gfx="Snake.gif" moderator="MICHAEL!">
+		<event xml:id="ACT204" date="Do, 02.11.2023 19:00" theme="Metal Gear Solid" type="series" gfx="Snake.gif" moderator="MICHAEL!">
 			<game name="Metal Gear Solid" from="1998" by="Konami" on="PS1" country="JP" />
 			<game name="Metal Gear Solid 2: Sons of Liberty" from="2001" by="Konami" on="PS2" country="JP" />
 			<game name="Metal Gear Solid 3: Snake Eater" from="2004" by="Konami" on="PS2" country="JP" />
@@ -90,6 +84,13 @@
 	</present>
 
 	<past>
+		<event xml:id="ACT306" date="Do, 12.10.2023 19:00" theme="Survival Horror" type="genre" moderator="Ruben" rerun="ACT301">
+			<game name="Sweet Home" from="1989" by="Capcom" on="NES" country="JP" manual="SweetHome" />
+			<game name="Project Firestart" from="1989" by="Dynamix" on="C64" country="US" />
+			<game name="Resident Evil" from="1996" by="Capcom" on="PS1" country="JP" />
+			<game name="Silent Hill 2" from="2001" by="Konami Computer Entertainment Tokyo" on="PS2" country="JP" />
+			<game name="Lifeline" from="2003" by="Sony Computer Entertainment Inc" on="PS2" country="JP" />
+		</event>
 		<event xml:id="MIS706" date="Do, 28.09.2023 19:00" theme="Girl Games" type="special" moderator="Elli" gfx="peach.jpg">
 			<game name="Hawaii High - The Mystery of the Tiki" from="1994" by="Sanctuary Woods" on="Windows" country="CA" />
 			<game name="Barbie Fashion Designer" from="1996" by="Digital Domain" on="Windows" country="US" />
@@ -1165,6 +1166,8 @@
 			<game name="Alan Wake" from="2010" by="Remedy Entertainment" on="Windows" country="FI" wanted="Ruben" />
 			<game name="Grand Theft Auto II" from="1999" by="DMA Design" on="Windows" country="GB" />
 			<game name="Submachine Series" from="2005" by="Mateusz Skutnik" on="Flash" wanted="Kadda" country="PL" href="https://www.mateuszskutnik.com/submachine/sub_buy.php?id=1" />
+			<game name="King's Quest VI: Heir Today, Gone Tomorrow" from="1992" by="Sierra On-Line" on="MS-DOS" country="US" />
+			<game name="Conker's Bad Fur Day" from="2001" by="Rare" on="N64" country="GB" />
 		</event>
 		<event date="" theme="JRPG Sockenkiste" type="special">
 			<game name="Baten Kaitos: Eternal Wings and the Lost Ocean" from="2003" by="Monolith Soft" on="GCN" country="JP" />
