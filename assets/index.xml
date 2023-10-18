@@ -1004,7 +1004,7 @@
 			<game name="Kirby's Dreamland 2" from="1995" by="HAL Laboratory" on="Game Boy" country="JP" />
 			<game name="Donald Duck in Maui Mallard" from="1996" by="Eurocom Entertainment Software" on="SNES" country="GB" />
 		</event>
-		<event xml:id="ADV302" date="" theme="Bau- und Bastelspiele" type="genre" moderator="Gregor">
+		<event xml:id="SPO404" date="" theme="Bau- und Bastelspiele" type="genre" moderator="Gregor">
 			<game name="Autos bauen mit Willy Werkel" from="ELD Interaktiv Produktion" by="1998" on="Windows" country="US" />
 			<game name="Lego Racers" from="1999" by="High Voltage Software" on="N64" country="US" />
 			<game name="Banjo-Kazooie: Nuts &amp; Bolts" from="2008" by="Rare" on="Xbox360" country="GB" />
