@@ -199,7 +199,7 @@
 		</event>
 		<event xml:id="JNR202" date="Do, 19.01.2023 19:00" theme="3D Platformers II" type="genre" moderator="Daniel" gfx="rayman.gif">
 			<game name="Gex: Enter the Gecko" from="1998" by="Crystal Dynamics" on="Windows" country="US" />
-			<game name="Spyro the Dragon" from="1998" by="Insomniac Games" on="PSX" country="US" />
+			<game name="Spyro the Dragon" from="1998" by="Insomniac Games" on="PS1" country="US" />
 			<game name="Donkey Kong 64" from="1999" by="Rare" on="N64" country="GB" />
 			<game name="Rayman 2: The Great Escape" from="1999" by="Ubi Pictures" on="Dreamcast" country="FR" />
 		</event>
@@ -514,7 +514,7 @@
 		<event xml:id="RPG205" date="Do, 08.04.2021 19:00" theme="Final Fantasy" type="series" gfx="lightning.gif">
 			<game name="Final Fantasy" from="1987" by="Square" on="NES" country="JP" />
 			<game name="Final Fantasy IV" from="1991" by="Square" on="SNES" country="JP" />
-			<game name="Final Fantasy VII" from="1997" by="Square" on="PSX" country="JP" />
+			<game name="Final Fantasy VII" from="1997" by="Square" on="PS1" country="JP" />
 			<game name="Final Fantasy XV" from="2016" by="Square Enix Business Division 2" on="Windows" country="JP" />
 		</event>
 		<event xml:id="LAN201" date="Do, 15.03.2021 19:00" theme="Classic MUDs" type="genre" gfx="MUD2.png">
@@ -1104,7 +1104,7 @@
 		</event>
 		<event xml:id="BIZ301" date="" theme="Deutsche Lokalisierungen" type="genre" moderator="">
 			<game name="Terranigma" from="1995" by="Quintet" on="SNES" country="JP" />
-			<game name="Final Fantasy IX" from="1995" by="Square" on="PSX" country="JP" />
+			<game name="Final Fantasy IX" from="2000" by="Square" on="PS1" country="JP" />
 		</event>
 		<event xml:id="BIZ302" date="" theme="India" type="genre" moderator="">
 			<game name="Raji: An Ancient Epic" from="2020" by="Nodding Heads Games" on="Windows" country="IN" />
@@ -1115,7 +1115,7 @@
 			<game name="A Hat in Time" from="2017" by="Gears for Breakfast" on="Windows" country="DK" />
 		</event>
 		<event xml:id="JNR204" date="" theme="3D Platformers IV: The C List" type="genre" moderator="Daniel" gfx="rayman.gif">
-			<game name="Bubsy 3D" from="1996" by="Eidetic" on="PSX" country="US" />
+			<game name="Bubsy 3D" from="1996" by="Eidetic" on="PS1" country="US" />
 			<game name="Croc: Legend of the Gobbos" from="1997" by="Argonaut Games" on="Saturn" country="GB" />
 			<game name="Sonic Adventure" from="1998" by="Sonic Team" on="Dreamcast" country="JP" />
 		</event>
