@@ -956,9 +956,15 @@
 			<game name="Magic: The Gathering – Battlegrounds" from="2003" by="Secret Level" on="Windows" country="US" />
 			<game name="Magic: The Gathering Arena" from="2019" by="Wizards Digital Games Studio" on="Windows" country="US" />
 		</event>
-		<event xml:id="ACT305" date="" theme="Deadly Premonition" type="series" moderator="Ruben" gfx="">
+		<event xml:id="ACT305" date="" theme="Deadly Premonition" type="longplay" moderator="Ruben" gfx="">
 			<game name="Deadly Premonition" from="2010" by="Access Games" on="Windows" country="JP" />
 			<game name="Deadly Premonition 2: A Blessing in Disguise" from="2020" by="Toybox, White Owls" on="Windows" country="JP" />
+		</event>
+		<event xml:id="RPG210" date="" theme="Action-JRPGs II" type="genre" moderator="Daniel" gfx="">
+			<game name="Ys I: Ancient Ys Vanished" from="1987" by="Nihon Falcom" on="MasterSystem" country="JP" />
+			<game name="Tales of Phantasia" from="1995" by="Wolf Team" on="SNES" country="JP" />
+			<game name="Holy Magic Century" from="1998" by="Imagineer" on="N64" country="JP" />
+			<game name="Phantasy Star Online" from="2000" by="Sonic Team" on="Dreamcast" country="JP" />
 		</event>
 		<event xml:id="ACT204" date="" theme="Metal Gear Solid" type="series" gfx="Snake.gif" moderator="MICHAEL!">
 			<game name="Metal Gear Solid" from="1998" by="Konami" on="PS1" country="JP" />
@@ -1098,6 +1104,7 @@
 		</event>
 		<event xml:id="BIZ301" date="" theme="Deutsche Lokalisierungen" type="genre" moderator="">
 			<game name="Terranigma" from="1995" by="Quintet" on="SNES" country="JP" />
+			<game name="Final Fantasy IX" from="1995" by="Square" on="PSX" country="JP" />
 		</event>
 		<event xml:id="BIZ302" date="" theme="India" type="genre" moderator="">
 			<game name="Raji: An Ancient Epic" from="2020" by="Nodding Heads Games" on="Windows" country="IN" />
@@ -1185,6 +1192,7 @@
 			<game name="Shin Megami Tensei: Persona 4" from="2008" by="Atlus" on="PS2" country="JP" />
 			<game name="Fire Emblem: The Blazing Blade" from="2003" by="Intelligent Systems" on="GBA" country="JP" />
 			<game name="Fire Emblem: Path of Radiance" from="2005" by="Intelligent Systems" on="GCN" country="JP" />
+			<game name="Zelda II: The Adventure of Link" from="1987" by="Nintendo R&amp;D4" on="NES" country="JP" />
 		</event>
 		<event theme="Historische LAN-Party" type="special">
 			<game name="Ultima Online" from="1997" by="Origin Systems" on="Windows" country="US" />
