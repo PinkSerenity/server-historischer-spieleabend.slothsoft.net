@@ -966,6 +966,9 @@
 			<game name="Holy Magic Century" from="1998" by="Imagineer" on="N64" country="JP" />
 			<game name="Phantasy Star Online" from="2000" by="Sonic Team" on="Dreamcast" country="JP" />
 		</event>
+		<event xml:id="ADV302" date="" theme="Submachine" type="longplay" moderator="Kadda" gfx="">
+			<game name="Submachine: Legacy" from="2023" by="Mateusz Skutnik" on="Windows" country="PL" />
+		</event>
 		<event xml:id="ACT204" date="" theme="Metal Gear Solid" type="loredump" gfx="Snake.gif" moderator="MICHAEL!">
 			<game name="Metal Gear Solid" from="1998" by="Konami" on="PS1" country="JP" />
 			<game name="Metal Gear Solid 2: Sons of Liberty" from="2001" by="Konami" on="PS2" country="JP" />
