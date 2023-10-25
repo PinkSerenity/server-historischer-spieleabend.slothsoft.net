@@ -331,14 +331,14 @@
 			<game name="P.T." from="2014" by="7780s Studio" on="PS4" country="JP" wanted="Demo" />
 			<game name="Resident Evil 7: Biohazard VR" from="2017" by="Capcom" on="PS4" country="JP" wanted="Demo" />
 		</event>
-		<event xml:id="RPG208" date="Do, 31.03.2022 19:00" theme="Suikoden II" type="longplay" gfx="Pesmerga.webp">
-			<game name="Suikoden II" from="1998" by="Konami Computer Entertainment Tokyo" on="PS1" country="JP" />
-		</event>
 		<event xml:id="STR204" date="Do, 14.04.2022 19:00" theme="The Evolution of Tactical RPGs" type="genre" gfx="prinni.gif">
 			<game name="Disgaea: Hour of Darkness" from="2003" by="Nippon Ichi Software" on="PS2" country="JP" />
 			<game name="Sakura Wars: So Long, My Love" from="2005" by="Sega" on="PS2" country="JP" />
 			<game name="Valkyria Chronicles" from="2008" by="Sega" country="JP" on="PS3" />
 			<game name="Mario + Rabbids Kingdom Battle" from="2017" by="Ubisoft Milan" on="Switch" country="IT" wanted="Paul" />
+		</event>
+		<event xml:id="RPG208" date="Do, 31.03.2022 19:00" theme="Suikoden II" type="longplay" gfx="Pesmerga.webp">
+			<game name="Suikoden II" from="1998" by="Konami Computer Entertainment Tokyo" on="PS1" country="JP" />
 		</event>
 		<event xml:id="SPO403" date="Do, 17.03.2022 19:00" theme="Arcade Racing" type="genre" gfx="cars.webp">
 			<game name="Lotus III: The Ultimate Challenge" from="1992" by="Magnetic Fields" on="Amiga" country="GB" manual="LotusIII" />
@@ -451,7 +451,7 @@
 			<game name="The World Ends with You" from="2007" by="Square Enix" on="NDS" country="JP" />
 			<game name="Tales of Graces" from="2009" by="Namco Tales Studio" on="PS3" country="JP" />
 		</event>
-		<event xml:id="MIS502" date="Do, 05.08.2021 19:00" theme="Player's Choice II" type="genre" gfx="Patrick.png">
+		<event xml:id="MIS502" date="Do, 05.08.2021 19:00" theme="Player's Choice II" type="special" gfx="Patrick.png">
 			<game name="Tales of Eternia" from="2000" by="Wolf Team" on="PS1" country="JP" wanted="Daniel" />
 			<game name="Der SpongeBob Schwammkopf Film" from="2004" by="Heavy Iron Studios" on="PS2" country="US" wanted="Kadda" />
 			<game name="Super Stardust HD" from="2007" by="Housemarque" on="PS3" country="FI" wanted="MICHAEL!" />
@@ -567,7 +567,7 @@
 			<game name="Darwin Project" from="2020" by="Scavengers Studio" on="Windows" country="CA" href="https://store.steampowered.com/app/544920/Darwin_Project/" />
 			<game name="King of Crabs" from="2020" by="Robot Squid" on="Windows" country="GB" href="https://store.steampowered.com/app/1273710/King_of_Crabs/" />
 		</event>
-		<event xml:id="LAN202" date="So, 13.12.2020 10:00" theme="Stardew Valley" type="game" gfx="HarvestMoon.png">
+		<event xml:id="LAN202" date="So, 13.12.2020 10:00" theme="Stardew Valley" type="longplay" gfx="HarvestMoon.png">
 			<read href="https://docs.google.com/spreadsheets/d/1d0mxbU2_uLyvpFSTAxBcbJ3kfmD5p2SjIecoL2DVLf0/edit?usp=sharing" title="Historische LAN-Party: Stardew Valley" year="2020"
 				author="Daniel Schulz" />
 			<game name="Stardew Valley" from="2016" by="ConcernedApe" on="Windows" version="1.4" country="US" />
