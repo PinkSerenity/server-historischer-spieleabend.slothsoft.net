@@ -984,14 +984,22 @@
 			<game name="Sayonara Wild Hearts" from="2019" by="Simogo" on="Switch" country="SE" />
 			<game name="Hi-Fi Rush" from="2023" by="Tango Gameworks" on="Windows" country="JP" />
 		</event>
-	</future>
-	<unfinished>
+		<event xml:id="JNR108" date="" theme="Metroidvanias" type="genre" moderator="Kadda" rerun="JNR103" gfx="metroid.png">
+			<req ref="JNR101" />
+			<game name="Metroid" from="1986" by="Nintendo R&amp;D1" on="NES" country="JP" />
+			<game name="Wonder Boy III: The Dragon's Trap" from="1989" by="Westone" on="MasterSystem" country="JP" />
+			<game name="Super Metroid" from="1994" by="Nintendo R&amp;D1" on="SNES" country="JP" />
+			<game name="Castlevania: Symphony of the Night" from="1997" by="Konami Computer Entertainment Tokyo" on="PS1" country="JP" />
+			<game name="Hollow Knight" from="2017" by="Team Cherry" on="Windows" country="AU" />
+		</event>
 		<event xml:id="ACT206" date="" theme="2D Stealth Games" rerun="ACT201" type="genre" moderator="Kadda">
 			<game name="Castle Wolfenstein" from="1981" by="Muse Software" on="C64" country="US" />
 			<game name="Saboteur!" from="1985" by="Clive Townsend" on="C64" country="US" />
 			<game name="Metal Gear" from="1987" by="Konami" on="PS2" country="JP" />
 			<game name="Mark of the Ninja" from="2012" by="Klei Entertainment" on="Windows" country="CA" />
 		</event>
+	</future>
+	<unfinished>
 		<event xml:id="BIZ403" date="" theme="The Weird Ones" type="special" moderator="Kadda">
 			<game name="Kuri Kuri Mix" from="FromSoftware" by="2001" on="PS2" country="JP" />
 			<game name="Sonic Chronicles: The Dark Brotherhood" from="BioWare" by="2008" on="NDS" country="CA" />
@@ -1007,14 +1015,6 @@
 			<game name="Ghostwire Tokyo" from="2022" by="Tango Gameworks" on="Windows" country="JP" wanted="" />
 		</event>
 		<event xml:id="MIS704" date="" theme="Mecha Games" type="genre" moderator="John" gfx="">
-		</event>
-		<event xml:id="JNR108" date="" theme="Metroidvanias" type="genre" moderator="Kadda" rerun="JNR103" gfx="metroid.png">
-			<req ref="JNR101" />
-			<game name="Metroid" from="1986" by="Nintendo R&amp;D1" on="NES" country="JP" />
-			<game name="Wonder Boy III: The Dragon's Trap" from="1989" by="Westone" on="MasterSystem" country="JP" />
-			<game name="Super Metroid" from="1994" by="Nintendo R&amp;D1" on="SNES" country="JP" />
-			<game name="Castlevania: Symphony of the Night" from="1997" by="Konami Computer Entertainment Tokyo" on="PS1" country="JP" />
-			<game name="Hollow Knight" from="2017" by="Team Cherry" on="Windows" country="AU" />
 		</event>
 		<event xml:id="SPO303" date="" theme="YOU are the hero! (Diegese x Hardware)" type="genre" moderator="Kadda">
 			<game name="The Legend of Zelda: Phantom Hourglass" from="2007" by="Nintendo Entertainment Analysis &amp; Development" on="NDS" country="JP" />
