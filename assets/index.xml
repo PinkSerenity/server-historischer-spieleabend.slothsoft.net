@@ -993,7 +993,7 @@
 			<game name="Kuri Kuri Mix" from="FromSoftware" by="2001" on="PS2" country="JP" />
 			<game name="Sonic Chronicles: The Dark Brotherhood" from="BioWare" by="2008" on="NDS" country="CA" />
 		</event>
-		<event xml:id="SPO404" date="" theme="Bau- und Bastelspiele" type="genre" moderator="Gregor">
+		<event xml:id="ADV303" date="" theme="Bau- und Bastelspiele" type="genre" moderator="Gregor">
 			<game name="Autos bauen mit Willy Werkel" from="ELD Interaktiv Produktion" by="1998" on="Windows" country="US" />
 			<game name="Lego Racers" from="1999" by="High Voltage Software" on="N64" country="US" />
 			<game name="Banjo-Kazooie: Nuts &amp; Bolts" from="2008" by="Rare" on="Xbox360" country="GB" />
