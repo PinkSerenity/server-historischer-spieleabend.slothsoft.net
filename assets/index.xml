@@ -976,7 +976,10 @@
 			<game name="Metal Gear Solid 4: Guns of the Patriots" from="2008" by="Kojima Productions" on="PS3" country="JP" />
 			<game name="Metal Gear Solid V: The Phantom Pain" from="2015" by="Kojima Productions" on="PS4" country="JP" />
 		</event>
-		<event xml:id="ACT207" date="" theme="Rhythm Action Games" type="genre" moderator="?">
+		<event xml:id="ACT207" date="" theme="Rhythm (Action) Games" type="genre" moderator="Kadda">
+			<game name="PaRappa the Rapper" from="1996" by="NanaOn-Sha" on="PS1" country="JP" />
+			<game name="Vib-Ribbon" from="1999" by="NanaOn-Sha" on="PS1" country="JP" />
+			<game name="Patapon" from="2007" by="Pyramid" on="PSP" country="JP" />
 			<game name="Crypt of the Necrodancer" from="2015" by="Brace Yourself Games" on="Windows" country="CA" />
 			<game name="Sayonara Wild Hearts" from="2019" by="Simogo" on="Switch" country="SE" />
 			<game name="Hi-Fi Rush" from="2023" by="Tango Gameworks" on="Windows" country="JP" />
