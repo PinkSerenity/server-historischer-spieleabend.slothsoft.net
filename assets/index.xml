@@ -68,15 +68,23 @@
 	</tracks>
 
 	<present>
+		<event xml:id="JNR108" date="Do, 09.11.2023" theme="Metroidvanias" type="genre" moderator="Kadda" rerun="JNR103" gfx="metroid.png">
+			<req ref="JNR101" />
+			<game name="Metroid" from="1986" by="Nintendo R&amp;D1" on="NES" country="JP" />
+			<game name="Wonder Boy III: The Dragon's Trap" from="1989" by="Westone" on="MasterSystem" country="JP" />
+			<game name="Super Metroid" from="1994" by="Nintendo R&amp;D1" on="SNES" country="JP" />
+			<game name="Castlevania: Symphony of the Night" from="1997" by="Konami Computer Entertainment Tokyo" on="PS1" country="JP" />
+			<game name="Hollow Knight" from="2017" by="Team Cherry" on="Windows" country="AU" />
+		</event>
+	</present>
+
+	<past>
 		<event xml:id="MIS603" date="Do, 26.10.2023 19:00" theme="Ersti-Abend 2023" type="special" gfx="mariolution.gif" moderator="Daniel">
 			<game name="The Hitchhiker's Guide to the Galaxy" from="1984" by="Infocom" on="Amiga" country="GB" />
 			<game name="Super Mario Bros.: The Lost Levels" from="1986" by="Nintendo R&amp;D4" on="SNES" country="JP" />
 			<game name="Final Fantasy" from="1987" by="Square" on="NES" country="JP" />
 			<game name="Tony Hawk's Pro Skater 2" from="2000" by="Neversoft" on="Windows" country="US" />
 		</event>
-	</present>
-
-	<past>
 		<event xml:id="ACT306" date="Do, 12.10.2023 19:00" theme="Survival Horror" type="genre" moderator="Ruben" rerun="ACT301">
 			<game name="Sweet Home" from="1989" by="Capcom" on="NES" country="JP" manual="SweetHome" />
 			<game name="Project Firestart" from="1989" by="Dynamix" on="C64" country="US" />
@@ -983,14 +991,6 @@
 			<game name="Crypt of the Necrodancer" from="2015" by="Brace Yourself Games" on="Windows" country="CA" />
 			<game name="Sayonara Wild Hearts" from="2019" by="Simogo" on="Switch" country="SE" />
 			<game name="Hi-Fi Rush" from="2023" by="Tango Gameworks" on="Windows" country="JP" />
-		</event>
-		<event xml:id="JNR108" date="" theme="Metroidvanias" type="genre" moderator="Kadda" rerun="JNR103" gfx="metroid.png">
-			<req ref="JNR101" />
-			<game name="Metroid" from="1986" by="Nintendo R&amp;D1" on="NES" country="JP" />
-			<game name="Wonder Boy III: The Dragon's Trap" from="1989" by="Westone" on="MasterSystem" country="JP" />
-			<game name="Super Metroid" from="1994" by="Nintendo R&amp;D1" on="SNES" country="JP" />
-			<game name="Castlevania: Symphony of the Night" from="1997" by="Konami Computer Entertainment Tokyo" on="PS1" country="JP" />
-			<game name="Hollow Knight" from="2017" by="Team Cherry" on="Windows" country="AU" />
 		</event>
 		<event xml:id="ACT206" date="" theme="2D Stealth Games" rerun="ACT201" type="genre" moderator="Kadda">
 			<game name="Castle Wolfenstein" from="1981" by="Muse Software" on="C64" country="US" />
