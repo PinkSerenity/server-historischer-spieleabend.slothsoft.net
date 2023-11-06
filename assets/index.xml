@@ -68,7 +68,7 @@
 	</tracks>
 
 	<present>
-		<event xml:id="JNR108" date="Do, 09.11.2023" theme="Metroidvanias" type="genre" moderator="Kadda" rerun="JNR103" gfx="metroid.png">
+		<event xml:id="JNR108" date="Do, 09.11.2023 19:00" theme="Metroidvanias" type="genre" moderator="Kadda" rerun="JNR103" gfx="metroid.png">
 			<req ref="JNR101" />
 			<game name="Metroid" from="1986" by="Nintendo R&amp;D1" on="NES" country="JP" />
 			<game name="Wonder Boy III: The Dragon's Trap" from="1989" by="Westone" on="MasterSystem" country="JP" />
