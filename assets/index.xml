@@ -975,7 +975,7 @@
 			<game name="Phantasy Star Online" from="2000" by="Sonic Team" on="Dreamcast" country="JP" />
 		</event>
 		<event xml:id="ADV302" date="" theme="Submachine" type="longplay" moderator="Kadda" gfx="">
-			<game name="Submachine: Legacy" from="2023" by="Mateusz Skutnik" on="Windows" country="PL" />
+			<game name="Submachine: Legacy" from="2023" by="Mateusz Skutnik" on="Windows" country="PL" href="https://www.mateuszskutnik.com/submachine/sub_buy.php?id=1"/>
 		</event>
 		<event xml:id="ACT204" date="" theme="Metal Gear Solid" type="loredump" gfx="Snake.gif" moderator="MICHAEL!">
 			<game name="Metal Gear Solid" from="1998" by="Konami" on="PS1" country="JP" />
@@ -1027,7 +1027,7 @@
 		<event xml:id="BIZ401" date="" theme="One-Man-Gamedev" type="author" gfx="" moderator="Ruben">
 		</event>
 		<event xml:id="MIS702" date="" theme="Casual Games" type="genre" gfx="" moderator="Kadda">
-			<game name="Candy Crush Saga" from="2012" by="King" on="Browser" country="MT" />
+			<game name="Candy Crush Saga" from="2012" by="King" on="Android" country="MT" />
 			<game name="Diner Dash" from="2003" by="Gamelab" on="Windows" country="US" />
 			<game name="Angry Birds" from="2009" by="Rovio Entertainment" on="Android" country="FI" />
 		</event>
@@ -1056,7 +1056,6 @@
 		<event xml:id="MIS203" date="" theme="Artsy Flash Games" type="genre" moderator="">
 			<game name="Every Day The Same Dream" from="2009" by="Molleindustria" on="Windows" href="http://www.molleindustria.org/everydaythesamedream/everydaythesamedream.html" />
 			<game name="ImmorTall" from="2010" by="Madpixelante" on="Flash" href="https://armorgames.com/play/5355/immortall" />
-			<game name="Submachine" from="2005" by="Mateusz Skutnik" on="Flash" href="https://www.mateuszskutnik.com/submachine/sub_buy.php?id=1" />
 		</event>
 		<event xml:id="LAN205" date="" theme="Asymmetric Multiplayer (local)" type="genre" moderator="">
 			<game name="Giants: Citizen Kabuto" from="2000" by="Planet Moon Studios" on="Windows" country="US" wanted="" />
@@ -1134,10 +1133,7 @@
 
 			<game name="Lego Star Wars: The Complete Saga" from="2007" by="Traveller's Tales" on="Windows" country="GB" />
 			<game name="Lego Star Wars II: The Original Trilogy" from="2006" by="Traveller's Tales" on="Windows" country="GB" wanted="Elli" />
-
-			<game name="Grand Theft Auto III" from="2001" by="DMA Design" on="PS2" country="GB" />
 			<game name="The Lost Vikings" from="1992" by="Silicon &amp; Synapse" on="Amiga" country="US" />
-			<game name="Patapon" from="2007" by="Pyramid" on="PSP" country="JP" />
 			<game name="Vanquish" from="2010" by="PlatinumGames" on="Windows" country="JP" wanted="MICHAEL!" />
 			<game name="LocoRoco" from="2006" by="SCE Japan Studio" on="PSP" country="JP" />
 			<game name="Vampires Dawn: Reign of Blood" from="2001" by="Alexander Koch" on="Windows" country="DE" />
@@ -1157,15 +1153,11 @@
 			<game name="Simulacra" from="Kaigan Games" by="2018" on="Android" country="MY" />
 			<game name="New Super Mario Bros. Wii" from="2009" by="Nintendo EAD" on="Wii" country="JP" />
 			<game name="Miegakure" from="TBA" by="MTB Design Works" on="Windows" country="US" wanted="" />
-			<game name="Candy Crush Saga" from="2012" by="King" on="Android" country="MT" />
 			<game name="Angry Birds" from="2009" by="Rovio Entertainment" on="Android" country="FI" />
 			<game name="Lifeline" from="2015" by="Three Minute Games" on="Android" country="US" />
 			<game name="Doodle Jump" from="2009" by="Lima Sky" on="Android" country="US" />
-			<game name="Alan Wake" from="2010" by="Remedy Entertainment" on="Windows" country="FI" wanted="Ruben" />
 			<game name="Grand Theft Auto II" from="1999" by="DMA Design" on="Windows" country="GB" />
-			<game name="Submachine Series" from="2005" by="Mateusz Skutnik" on="Flash" wanted="Kadda" country="PL" href="https://www.mateuszskutnik.com/submachine/sub_buy.php?id=1" />
 			<game name="King's Quest VI: Heir Today, Gone Tomorrow" from="1992" by="Sierra On-Line" on="MS-DOS" country="US" />
-			<game name="Conker's Bad Fur Day" from="2001" by="Rare" on="N64" country="GB" />
 		</event>
 		<event date="" theme="JRPG Sockenkiste" type="special">
 			<game name="Baten Kaitos: Eternal Wings and the Lost Ocean" from="2003" by="Monolith Soft" on="GCN" country="JP" />
