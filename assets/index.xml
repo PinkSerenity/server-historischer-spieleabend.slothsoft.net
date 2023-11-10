@@ -68,6 +68,17 @@
 	</tracks>
 
 	<present>
+		<event xml:id="ACT207" date="Do, 23.11.2023 19:00" theme="Rhythm (Action) Games" type="genre" moderator="Kadda">
+			<game name="PaRappa the Rapper" from="1996" by="NanaOn-Sha" on="PS1" country="JP" />
+			<game name="Vib-Ribbon" from="1999" by="NanaOn-Sha" on="PS1" country="JP" />
+			<game name="Patapon" from="2007" by="Pyramid" on="PSP" country="JP" />
+			<game name="Crypt of the Necrodancer" from="2015" by="Brace Yourself Games" on="Windows" country="CA" />
+			<game name="Sayonara Wild Hearts" from="2019" by="Simogo" on="Switch" country="SE" />
+			<game name="Hi-Fi Rush" from="2023" by="Tango Gameworks" on="Windows" country="JP" />
+		</event>
+	</present>
+
+	<past>
 		<event xml:id="JNR108" date="Do, 09.11.2023 19:00" theme="Metroidvanias" type="genre" moderator="Kadda" rerun="JNR103" gfx="metroid.png">
 			<req ref="JNR101" />
 			<game name="Metroid" from="1986" by="Nintendo R&amp;D1" on="NES" country="JP" />
@@ -76,9 +87,6 @@
 			<game name="Castlevania: Symphony of the Night" from="1997" by="Konami Computer Entertainment Tokyo" on="PS1" country="JP" />
 			<game name="Hollow Knight" from="2017" by="Team Cherry" on="Windows" country="AU" />
 		</event>
-	</present>
-
-	<past>
 		<event xml:id="MIS603" date="Do, 26.10.2023 19:00" theme="Ersti-Abend 2023" type="special" gfx="mariolution.gif" moderator="Daniel">
 			<game name="The Hitchhiker's Guide to the Galaxy" from="1984" by="Infocom" on="Amiga" country="GB" />
 			<game name="Super Mario Bros.: The Lost Levels" from="1986" by="Nintendo R&amp;D4" on="SNES" country="JP" />
@@ -983,14 +991,6 @@
 			<game name="Metal Gear Solid 3: Snake Eater" from="2004" by="Konami" on="PS2" country="JP" />
 			<game name="Metal Gear Solid 4: Guns of the Patriots" from="2008" by="Kojima Productions" on="PS3" country="JP" />
 			<game name="Metal Gear Solid V: The Phantom Pain" from="2015" by="Kojima Productions" on="PS4" country="JP" />
-		</event>
-		<event xml:id="ACT207" date="" theme="Rhythm (Action) Games" type="genre" moderator="Kadda">
-			<game name="PaRappa the Rapper" from="1996" by="NanaOn-Sha" on="PS1" country="JP" />
-			<game name="Vib-Ribbon" from="1999" by="NanaOn-Sha" on="PS1" country="JP" />
-			<game name="Patapon" from="2007" by="Pyramid" on="PSP" country="JP" />
-			<game name="Crypt of the Necrodancer" from="2015" by="Brace Yourself Games" on="Windows" country="CA" />
-			<game name="Sayonara Wild Hearts" from="2019" by="Simogo" on="Switch" country="SE" />
-			<game name="Hi-Fi Rush" from="2023" by="Tango Gameworks" on="Windows" country="JP" />
 		</event>
 		<event xml:id="ACT206" date="" theme="2D Stealth Games" rerun="ACT201" type="genre" moderator="Kadda">
 			<game name="Castle Wolfenstein" from="1981" by="Muse Software" on="C64" country="US" />
