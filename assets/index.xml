@@ -68,7 +68,7 @@
 	</tracks>
 
 	<present>
-		<event xml:id="ACT207" date="Do, 23.11.2023 19:00" theme="Rhythm (Action) Games" type="genre" moderator="Kadda">
+		<event xml:id="ACT207" date="Do, 23.11.2023 19:00" theme="Rhythm (Action) Games" type="genre" moderator="Kadda" gfx="parappa.gif">
 			<game name="PaRappa the Rapper" from="1996" by="NanaOn-Sha" on="PS1" country="JP" />
 			<game name="Vib-Ribbon" from="1999" by="NanaOn-Sha" on="PS1" country="JP" />
 			<game name="Patapon" from="2007" by="Pyramid" on="PSP" country="JP" />
