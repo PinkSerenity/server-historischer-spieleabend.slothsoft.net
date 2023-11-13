@@ -961,6 +961,16 @@
 	</past>
 
 	<future>
+		<event xml:id="BIZ216" date="" theme="Peter Molyneux" type="author" twitter="pmolyneux" rerun="BIZ201">
+			<game name="Populous" from="1989" by="Bullfrog Productions" on="Amiga" country="GB" manual="Populous" />
+			<game name="Populous II: Trials of the Olympian Gods" from="1991" by="Bullfrog Productions" on="Amiga" country="GB" manual="Populous II (1991, Bullfrog Productions)" />
+			<game name="Syndicate" from="1993" by="Bullfrog Productions" on="MS-DOS" country="GB" />
+			<game name="Theme Park" from="1994" by="Bullfrog Productions" on="Amiga" country="GB" />
+			<game name="Dungeon Keeper" from="1997" by="Bullfrog Productions" on="MS-DOS" country="GB" manual="Dungeon Keeper (1997, Bullfrog Productions)" />
+			<game name="Black &amp; White " from="2001" by="Lionhead Studios" on="Windows" country="GB" manual="BlackAndWhite" />
+			<game name="Fable" from="2004" by="Lionhead Studios" on="Windows" country="GB" />
+			<game name="Godus" from="2013" by="22Cans" on="Windows" country="GB" />
+		</event>
 		<event xml:id="FPS109" date="" theme="History of Immersive Sims" type="genre" gfx="" moderator="MICHAEL!">
 			<game name="System Shock 2" from="1999" by="Irrational Games" on="Windows" country="US" wanted="" />
 			<game name="Deus Ex" from="2000" by="Ion Storm" on="Windows" country="US" wanted="Kadda" />
