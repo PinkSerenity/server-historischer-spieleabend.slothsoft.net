@@ -961,7 +961,7 @@
 	</past>
 
 	<future>
-		<event xml:id="BIZ216" date="" theme="Peter Molyneux" type="author" twitter="pmolyneux" rerun="BIZ201">
+		<event xml:id="BIZ216" date="" theme="Peter Molyneux" type="author" twitter="pmolyneux" rerun="BIZ201" moderator="Daniel">
 			<game name="Populous" from="1989" by="Bullfrog Productions" on="Amiga" country="GB" manual="Populous" />
 			<game name="Populous II: Trials of the Olympian Gods" from="1991" by="Bullfrog Productions" on="Amiga" country="GB" manual="Populous II (1991, Bullfrog Productions)" />
 			<game name="Syndicate" from="1993" by="Bullfrog Productions" on="MS-DOS" country="GB" />
