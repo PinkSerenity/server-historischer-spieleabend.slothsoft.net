@@ -330,7 +330,7 @@ article {
 	font-style: italic;
 }
 
-*[data-type="series"] .theme, *[data-type="longplay"] .theme {
+*[data-type="series"] .theme, *[data-type="longplay"] .theme, *[data-type="loredump"] .theme {
 	font-style: italic;
 }
 
@@ -344,6 +344,11 @@ article {
 
 *[data-type="longplay"] .theme::before {
 	content: "Let's Play: ";
+	font-style: normal;
+}
+
+*[data-type="loredump"] .theme::before {
+	content: "Lore Dump: ";
 	font-style: normal;
 }
 

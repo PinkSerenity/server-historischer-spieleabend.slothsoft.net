@@ -37,16 +37,16 @@ Wer? @<xsl:value-of select="@moderator"/> moderiert!
 Was? <xsl:value-of select="@theme"/>
 Wir spielen:
 <xsl:for-each select="game">
-    <xsl:text> - </xsl:text>
+    <xsl:text>- **</xsl:text>
     <xsl:value-of select="@name"/>
-    <xsl:text> (</xsl:text>
+    <xsl:text>** (</xsl:text>
     <xsl:value-of select="@by"/>
     <xsl:text>, </xsl:text>
     <xsl:value-of select="@from"/>
     <xsl:text>)
 </xsl:text>
 </xsl:for-each>
-Ihr seid alle herzlich eingeladen, aber lasst bitte ein :joystick: hier wenn ihr kommen möchtet! :reblob:
+Ihr seid alle herzlich eingeladen, aber lasst bitte ein :joystick: hier, wenn ihr kommen möchtet! :reblob:
 
 Zukünftige Themen: <xsl:value-of select="//sfs:domain/@url"/>?d
 Zukünftigen Termine: https://calendar.google.com/calendar?cid=aGhrc3FxNDFsamlqYTJmYnZiZHVkcHEyOG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
