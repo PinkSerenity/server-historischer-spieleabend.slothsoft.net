@@ -71,8 +71,9 @@
 		<event xml:id="FPS109" date="Sa, 09.11.2023 19:00" theme="History of Immersive Sims" type="genre" gfx="" moderator="Daniel">
 			<game name="System Shock 2" from="1999" by="Irrational Games" on="Windows" country="US" wanted="" />
 			<game name="Deus Ex" from="2000" by="Ion Storm" on="Windows" country="US" wanted="Kadda" />
-			<game name="BioShock" from="2007" by="Irrational Games" on="Windows" country="US" wanted="Ruben" />
+			<game name="BioShock" from="2007" by="Irrational Games" on="Windows" country="US" />
 			<game name="Prey" from="2017" by="Arkane Studios" on="Windows" country="FR" wanted="Kadda" />
+			<game name="Weird West" from="2023" by="WolfEye Studios" on="Windows" country="US" wanted="" />
 		</event>
 	</present>
 
