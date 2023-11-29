@@ -68,6 +68,15 @@
 	</tracks>
 
 	<present>
+		<event xml:id="FPS109" date="Sa, 09.11.2023 19:00" theme="History of Immersive Sims" type="genre" gfx="" moderator="Daniel">
+			<game name="System Shock 2" from="1999" by="Irrational Games" on="Windows" country="US" wanted="" />
+			<game name="Deus Ex" from="2000" by="Ion Storm" on="Windows" country="US" wanted="Kadda" />
+			<game name="BioShock" from="2007" by="Irrational Games" on="Windows" country="US" wanted="Ruben" />
+			<game name="Prey" from="2017" by="Arkane Studios" on="Windows" country="FR" wanted="Kadda" />
+		</event>
+	</present>
+
+	<past>
 		<event xml:id="ACT207" date="Do, 23.11.2023 19:00" theme="Rhythm (Action) Games" type="genre" moderator="Kadda" gfx="parappa.gif">
 			<game name="PaRappa the Rapper" from="1996" by="NanaOn-Sha" on="PS1" country="JP" />
 			<game name="Vib-Ribbon" from="1999" by="NanaOn-Sha" on="PS1" country="JP" />
@@ -76,9 +85,6 @@
 			<game name="Sayonara Wild Hearts" from="2019" by="Simogo" on="Switch" country="SE" />
 			<game name="Hi-Fi Rush" from="2023" by="Tango Gameworks" on="Windows" country="JP" />
 		</event>
-	</present>
-
-	<past>
 		<event xml:id="JNR108" date="Do, 09.11.2023 19:00" theme="Metroidvanias" type="genre" moderator="Kadda" rerun="JNR103" gfx="metroid.png">
 			<req ref="JNR101" />
 			<game name="Metroid" from="1986" by="Nintendo R&amp;D1" on="NES" country="JP" />
@@ -970,12 +976,6 @@
 			<game name="Black &amp; White " from="2001" by="Lionhead Studios" on="Windows" country="GB" manual="BlackAndWhite" />
 			<game name="Fable" from="2004" by="Lionhead Studios" on="Windows" country="GB" />
 			<game name="Godus" from="2013" by="22Cans" on="Windows" country="GB" />
-		</event>
-		<event xml:id="FPS109" date="" theme="History of Immersive Sims" type="genre" gfx="" moderator="MICHAEL!">
-			<game name="System Shock 2" from="1999" by="Irrational Games" on="Windows" country="US" wanted="" />
-			<game name="Deus Ex" from="2000" by="Ion Storm" on="Windows" country="US" wanted="Kadda" />
-			<game name="BioShock" from="2007" by="Irrational Games" on="Windows" country="US" wanted="Ruben" />
-			<game name="Prey" from="2017" by="Arkane Studios" on="Windows" country="FR" wanted="Kadda" />
 		</event>
 		<event xml:id="STR106" date="" theme="Magic: The Gathering" type="series" moderator="Daniel" gfx="">
 			<game name="Magic: The Gathering" from="1997" by="MicroProse" on="Windows" country="US" />
