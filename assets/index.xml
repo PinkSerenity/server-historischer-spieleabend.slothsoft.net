@@ -68,7 +68,7 @@
 	</tracks>
 
 	<present>
-		<event xml:id="FPS109" date="Sa, 09.11.2023 19:00" theme="History of Immersive Sims" type="genre" gfx="bioshock.gif" moderator="Daniel">
+		<event xml:id="FPS109" date="Fr, 08.11.2023 19:00" theme="History of Immersive Sims" type="genre" gfx="bioshock.gif" moderator="Daniel">
 			<game name="System Shock 2" from="1999" by="Irrational Games" on="Windows" country="US" wanted="" />
 			<game name="Deus Ex" from="2000" by="Ion Storm" on="Windows" country="US" wanted="Kadda" />
 			<game name="BioShock" from="2007" by="Irrational Games" on="Windows" country="US" />
