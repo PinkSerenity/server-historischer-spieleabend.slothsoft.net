@@ -72,11 +72,13 @@
 			<game name="Xmas Lemmings" from="1991" by="DMA Design" on="Amiga" country="GB" />
 			<game name="Home Alone" from="1991" by="Bethesda Softworks" on="NES" country="US" />
 			<game name="Christmas NiGHTS into Dreams" from="1996" by="Sonic Team" on="Sega Saturn" country="JP" />
-			<game name="The Polar Express" from="2004" by="Blue Tongue Entertainment" on="PS2" country="US" />
-			<game name="Christmas Shopper Simulator" from="2014" by="Freak Storm Games" on="Windows" country="GB" />
+			<game name="Hitman: Holiday Hoarders" from="2016" by="Io-Interactive" on="Windows" country="DK" />
 			<game name="Viscera Cleanup Detail: Santa's Rampage" from="2013" by="RuneStorm" on="Windows" country="US" wanted="Kadda"/>
+			<game name="Christmas Shopper Simulator" from="2014" by="Freak Storm Games" on="Windows" country="GB" />
+			<game name="Carrion: Greatest Time of the Year" from="2020" by="Phobia Game Studio" on="Windows" country="PL" wanted="Kadda"/>
 			
 			<!--
+			<game name="The Polar Express" from="2004" by="Blue Tongue Entertainment" on="PS2" country="US" />
 			<game name="Holiday Express" from="2008" by="HipSoft" on="Windows" country="US" />
 			<game name="Christmas Stories: A Christmas Carol" from="2013" by="Elephant Games" on="Windows" country="RU" />
 			<game name="Batman: Arkham Origins" from="2013" by="WB Games Montreal" on="Various Platforms" country="US" />
