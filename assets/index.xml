@@ -69,11 +69,11 @@
 
 	<present>
 		<event xml:id="MIS707" date="Do, 21.12.2023 19:00" theme="The Christmas Special" type="genre" gfx="santa.gif" moderator="Daniel">
-			<game name="Xmas Lemmings" from="1991" by="DMA Design" on="Amiga" country="UK" />
+			<game name="Xmas Lemmings" from="1991" by="DMA Design" on="Amiga" country="GB" />
 			<game name="Home Alone" from="1991" by="Bethesda Softworks" on="NES" country="US" />
 			<game name="Christmas NiGHTS into Dreams" from="1996" by="Sonic Team" on="Sega Saturn" country="JP" />
 			<game name="The Polar Express" from="2004" by="Blue Tongue Entertainment" on="PS2" country="US" />
-			<game name="Christmas Shopper Simulator" from="2014" by="Freak Storm Games" on="Windows" country="UK" />
+			<game name="Christmas Shopper Simulator" from="2014" by="Freak Storm Games" on="Windows" country="GB" />
 			<game name="Viscera Cleanup Detail: Santa's Rampage" from="2013" by="RuneStorm" on="Windows" country="US" wanted="Kadda"/>
 			
 			<!--
