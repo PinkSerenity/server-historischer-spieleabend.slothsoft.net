@@ -68,7 +68,7 @@
 	</tracks>
 
 	<present>
-		<event xml:id="MIS707" date="Do, 21.12.2023 19:00" theme="The Christmas Special" type="genre" gfx="santa.gif" moderator="Daniel">
+		<event xml:id="MIS707" date="Do, 21.12.2023 19:00" theme="The Christmas Special" type="genre" gfx="santa.gif" moderator="Kadda &amp; Daniel">
 			<game name="Xmas Lemmings" from="1991" by="DMA Design" on="Amiga" country="GB" />
 			<game name="Home Alone" from="1991" by="Bethesda Softworks" on="NES" country="US" />
 			<game name="Christmas NiGHTS into Dreams" from="1996" by="Sonic Team" on="Sega Saturn" country="JP" />
