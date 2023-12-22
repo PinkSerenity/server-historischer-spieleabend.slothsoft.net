@@ -68,7 +68,7 @@
 	</tracks>
 
 	<present>
-		<event xml:id="ADV302" date="Do, 11.01.2024 19:00" theme="Submachine" type="longplay" moderator="Kadda" gfx="">
+		<event xml:id="ADV302" date="Do, 11.01.2024 19:00" theme="Submachine" type="longplay" moderator="Kadda" gfx="submachine.webp">
 			<game name="Submachine: Legacy" from="2023" by="Mateusz Skutnik" on="Windows" country="PL" href="https://www.mateuszskutnik.com/submachine/sub_buy.php?id=1"/>
 		</event>
 	</present>
