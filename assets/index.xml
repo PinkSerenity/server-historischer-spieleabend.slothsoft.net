@@ -68,6 +68,12 @@
 	</tracks>
 
 	<present>
+		<event xml:id="ADV302" date="Do, 11.01.2024 19:00" theme="Submachine" type="longplay" moderator="Kadda" gfx="">
+			<game name="Submachine: Legacy" from="2023" by="Mateusz Skutnik" on="Windows" country="PL" href="https://www.mateuszskutnik.com/submachine/sub_buy.php?id=1"/>
+		</event>
+	</present>
+
+	<past>
 		<event xml:id="MIS707" date="Do, 21.12.2023 19:00" theme="The Christmas Special" type="genre" gfx="santa.gif" moderator="Kadda &amp; Daniel">
 			<game name="Xmas Lemmings" from="1991" by="DMA Design" on="Amiga" country="GB" />
 			<game name="Home Alone" from="1991" by="Bethesda Softworks" on="NES" country="US" />
@@ -75,19 +81,7 @@
 			<game name="Viscera Cleanup Detail: Santa's Rampage" from="2013" by="RuneStorm" on="Windows" country="US" wanted="Kadda"/>
 			<game name="Hitman: Holiday Hoarders" from="2016" by="Io-Interactive" on="Windows" country="DK" />
 			<game name="Carrion: Greatest Time of the Year" from="2020" by="Phobia Game Studio" on="Windows" country="PL" wanted="Kadda"/>
-			
-			<!--
-			<game name="Christmas Shopper Simulator" from="2014" by="Freak Storm Games" on="Windows" country="GB" />
-			<game name="The Polar Express" from="2004" by="Blue Tongue Entertainment" on="PS2" country="US" />
-			<game name="Holiday Express" from="2008" by="HipSoft" on="Windows" country="US" />
-			<game name="Christmas Stories: A Christmas Carol" from="2013" by="Elephant Games" on="Windows" country="RU" />
-			<game name="Batman: Arkham Origins" from="2013" by="WB Games Montreal" on="Various Platforms" country="US" />
-			<game name="A Christmas Miracle" from="2022" by="Visionary Media" on="Windows, PlayStation 5, Xbox Series X/S" country="US" />
-			-->
 		</event>
-	</present>
-
-	<past>
 		<event xml:id="ACT207" date="Do, 23.11.2023 19:00" theme="Rhythm (Action) Games" type="genre" moderator="Kadda" gfx="parappa.gif">
 			<game name="PaRappa the Rapper" from="1996" by="NanaOn-Sha" on="PS1" country="JP" />
 			<game name="Vib-Ribbon" from="1999" by="NanaOn-Sha" on="PS1" country="JP" />
@@ -1009,9 +1003,6 @@
 			<game name="Tales of Phantasia" from="1995" by="Wolf Team" on="SNES" country="JP" />
 			<game name="Holy Magic Century" from="1998" by="Imagineer" on="N64" country="JP" />
 			<game name="Phantasy Star Online" from="2000" by="Sonic Team" on="Dreamcast" country="JP" />
-		</event>
-		<event xml:id="ADV302" date="" theme="Submachine" type="longplay" moderator="Kadda" gfx="">
-			<game name="Submachine: Legacy" from="2023" by="Mateusz Skutnik" on="Windows" country="PL" href="https://www.mateuszskutnik.com/submachine/sub_buy.php?id=1"/>
 		</event>
 		<event xml:id="ACT204" date="" theme="Metal Gear Solid" type="loredump" gfx="Snake.gif" moderator="MICHAEL!">
 			<game name="Metal Gear Solid" from="1998" by="Konami" on="PS1" country="JP" />
