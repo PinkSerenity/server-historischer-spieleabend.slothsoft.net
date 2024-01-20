@@ -68,12 +68,22 @@
 	</tracks>
 
 	<present>
-		<event xml:id="ADV302" date="Do, 11.01.2024 19:00" theme="Submachine" type="longplay" moderator="Kadda" gfx="submachine.webp">
-			<game name="Submachine: Legacy" from="2023" by="Mateusz Skutnik" on="Windows" country="PL" href="https://www.mateuszskutnik.com/submachine/sub_buy.php?id=1"/>
+		<event xml:id="BIZ216" date="Do, 01.02.2024 19:00" theme="Peter Molyneux" type="author" twitter="pmolyneux" rerun="BIZ201" moderator="Daniel" gfx="molyneux.png">
+			<game name="Populous" from="1989" by="Bullfrog Productions" on="Amiga" country="GB" manual="Populous" />
+			<game name="Populous II: Trials of the Olympian Gods" from="1991" by="Bullfrog Productions" on="Amiga" country="GB" manual="Populous II (1991, Bullfrog Productions)" />
+			<game name="Syndicate" from="1993" by="Bullfrog Productions" on="MS-DOS" country="GB" />
+			<game name="Theme Park" from="1994" by="Bullfrog Productions" on="Amiga" country="GB" />
+			<game name="Dungeon Keeper" from="1997" by="Bullfrog Productions" on="MS-DOS" country="GB" manual="Dungeon Keeper (1997, Bullfrog Productions)" />
+			<game name="Black &amp; White " from="2001" by="Lionhead Studios" on="Windows" country="GB" manual="BlackAndWhite" />
+			<game name="Fable" from="2004" by="Lionhead Studios" on="Windows" country="GB" />
+			<game name="Godus" from="2013" by="22Cans" on="Windows" country="GB" />
 		</event>
 	</present>
 
 	<past>
+		<event xml:id="ADV302" date="Do, 18.01.2024 19:00" theme="Submachine" type="longplay" moderator="Kadda" gfx="submachine.webp">
+			<game name="Submachine: Legacy" from="2023" by="Mateusz Skutnik" on="Windows" country="PL" href="https://www.mateuszskutnik.com/submachine/sub_buy.php?id=1"/>
+		</event>
 		<event xml:id="MIS707" date="Do, 21.12.2023 19:00" theme="The Christmas Special" type="genre" gfx="santa.gif" moderator="Kadda &amp; Daniel">
 			<game name="Xmas Lemmings" from="1991" by="DMA Design" on="Amiga" country="GB" />
 			<game name="Home Alone" from="1991" by="Bethesda Softworks" on="NES" country="US" />
@@ -978,16 +988,6 @@
 			<game name="BioShock" from="2007" by="Irrational Games" on="Windows" country="US" />
 			<game name="Prey" from="2017" by="Arkane Studios" on="Windows" country="FR" wanted="Kadda" />
 			<game name="Weird West" from="2023" by="WolfEye Studios" on="Windows" country="US" wanted="" />
-		</event>
-		<event xml:id="BIZ216" date="" theme="Peter Molyneux" type="author" twitter="pmolyneux" rerun="BIZ201" moderator="Daniel">
-			<game name="Populous" from="1989" by="Bullfrog Productions" on="Amiga" country="GB" manual="Populous" />
-			<game name="Populous II: Trials of the Olympian Gods" from="1991" by="Bullfrog Productions" on="Amiga" country="GB" manual="Populous II (1991, Bullfrog Productions)" />
-			<game name="Syndicate" from="1993" by="Bullfrog Productions" on="MS-DOS" country="GB" />
-			<game name="Theme Park" from="1994" by="Bullfrog Productions" on="Amiga" country="GB" />
-			<game name="Dungeon Keeper" from="1997" by="Bullfrog Productions" on="MS-DOS" country="GB" manual="Dungeon Keeper (1997, Bullfrog Productions)" />
-			<game name="Black &amp; White " from="2001" by="Lionhead Studios" on="Windows" country="GB" manual="BlackAndWhite" />
-			<game name="Fable" from="2004" by="Lionhead Studios" on="Windows" country="GB" />
-			<game name="Godus" from="2013" by="22Cans" on="Windows" country="GB" />
 		</event>
 		<event xml:id="STR106" date="" theme="Magic: The Gathering" type="series" moderator="Daniel" gfx="">
 			<game name="Magic: The Gathering" from="1997" by="MicroProse" on="Windows" country="US" />
