@@ -28,7 +28,7 @@
 			<xsl:apply-templates select="tracks" mode="form" />
 			<xsl:for-each select="present/event">
 				<xsl:comment>
-Liebe Computerspielwissenschaftler*innen! <!CDATA[<@&1039888687762243584>]]>
+Liebe Computerspielwissenschaftler*innen! <![CDATA[<@&1039888687762243584>]]>
 :joystick:~<xsl:value-of select="position() + count(//past/event)"/>. Historische Spieleabend~:joystick:
 
 Wann? Am <xsl:value-of select="@date"/>-24:00 (s.t.)
