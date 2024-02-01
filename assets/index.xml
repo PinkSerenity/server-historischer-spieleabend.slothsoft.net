@@ -68,6 +68,15 @@
 	</tracks>
 
 	<present>
+		<event xml:id="RPG210" date="Do, 15.02.2024 19:00" theme="Action-JRPGs II" type="genre" moderator="Daniel" gfx="talesofphantasia.png">
+			<game name="Ys I: Ancient Ys Vanished" from="1987" by="Nihon Falcom" on="MasterSystem" country="JP" />
+			<game name="Tales of Phantasia" from="1995" by="Wolf Team" on="SNES" country="JP" />
+			<game name="Holy Magic Century" from="1998" by="Imagineer" on="N64" country="JP" />
+			<game name="Phantasy Star Online" from="2000" by="Sonic Team" on="Dreamcast" country="JP" />
+		</event>
+	</present>
+
+	<past>
 		<event xml:id="BIZ216" date="Do, 01.02.2024 19:00" theme="Peter Molyneux" type="author" twitter="pmolyneux" rerun="BIZ201" moderator="Daniel" gfx="molyneux.png">
 			<game name="Populous" from="1989" by="Bullfrog Productions" on="Amiga" country="GB" manual="Populous" />
 			<game name="Populous II: Trials of the Olympian Gods" from="1991" by="Bullfrog Productions" on="Amiga" country="GB" manual="Populous II (1991, Bullfrog Productions)" />
@@ -77,10 +86,8 @@
 			<game name="Black &amp; White " from="2001" by="Lionhead Studios" on="Windows" country="GB" manual="BlackAndWhite" />
 			<game name="Fable" from="2004" by="Lionhead Studios" on="Windows" country="GB" />
 			<game name="Godus" from="2013" by="22Cans" on="Windows" country="GB" />
+			<read href="https://www.youtube.com/watch?v=M11OK8UoRr4" title="Curiosity - What's inside the cube - Universal - HD Gameplay Trailer" year="2012" author="TouchGameplay"/>
 		</event>
-	</present>
-
-	<past>
 		<event xml:id="ADV302" date="Do, 18.01.2024 19:00" theme="Submachine" type="longplay" moderator="Kadda" gfx="submachine.webp">
 			<game name="Submachine: Legacy" from="2023" by="Mateusz Skutnik" on="Windows" country="PL" href="https://www.mateuszskutnik.com/submachine/sub_buy.php?id=1"/>
 		</event>
@@ -997,12 +1004,6 @@
 		<event xml:id="ACT305" date="" theme="Deadly Premonition" type="longplay" moderator="Ruben" gfx="">
 			<game name="Deadly Premonition" from="2010" by="Access Games" on="Windows" country="JP" />
 			<game name="Deadly Premonition 2: A Blessing in Disguise" from="2020" by="Toybox, White Owls" on="Windows" country="JP" />
-		</event>
-		<event xml:id="RPG210" date="" theme="Action-JRPGs II" type="genre" moderator="Daniel" gfx="">
-			<game name="Ys I: Ancient Ys Vanished" from="1987" by="Nihon Falcom" on="MasterSystem" country="JP" />
-			<game name="Tales of Phantasia" from="1995" by="Wolf Team" on="SNES" country="JP" />
-			<game name="Holy Magic Century" from="1998" by="Imagineer" on="N64" country="JP" />
-			<game name="Phantasy Star Online" from="2000" by="Sonic Team" on="Dreamcast" country="JP" />
 		</event>
 		<event xml:id="ACT204" date="" theme="Metal Gear Solid" type="loredump" gfx="Snake.gif" moderator="MICHAEL!">
 			<game name="Metal Gear Solid" from="1998" by="Konami" on="PS1" country="JP" />
