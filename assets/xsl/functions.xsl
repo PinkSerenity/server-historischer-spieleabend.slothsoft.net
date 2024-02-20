@@ -45,7 +45,7 @@
 
 	<xsl:template match="event" mode="link">
 		<xsl:variable name="ref" select="string(@xml:id)" />
-		<a href="/Event/{$ref}" class="id" title="{lio:lookup-name($ref)}">
+		<a href="#{$ref}" class="id" title="{lio:lookup-name($ref)}">
 			<xsl:value-of select="lio:format-name($ref)" />
 			<xsl:text>:</xsl:text>
 		</a>
@@ -53,7 +53,7 @@
 
 	<xsl:template match="req" mode="link">
 		<xsl:variable name="ref" select="string(@ref)" />
-		<a href="/Event/{$ref}" class="id" title="{lio:lookup-name($ref)}" onclick="document.querySelectorAll('h1 ~ details').forEach(d => d.open = true)">
+		<a href="#{$ref}" class="id" title="{lio:lookup-name($ref)}" onclick="document.querySelectorAll('h1 ~ details').forEach(d => d.open = true)">
 			<xsl:attribute name="data-prereq">
                 <xsl:if test="id($ref)/parent::future">missing</xsl:if>
             </xsl:attribute>

@@ -243,9 +243,9 @@ Zukünftigen Termine: https://calendar.google.com/calendar?cid=aGhrc3FxNDFsamlqY
 						<xsl:value-of select="@theme" />
 					</span>
 					<xsl:if test="@rerun">
-						<span class="rerun" title="{id(@rerun)/@date}">
+						<a href="#{@rerun}" class="rerun" title="{id(@rerun)/@date}">
 							(RERUN)
-						</span>
+						</a>
 					</xsl:if>
 					<xsl:if test="@twitter">
 						<a href="https://twitter.com/{@twitter}" target="_blank">
