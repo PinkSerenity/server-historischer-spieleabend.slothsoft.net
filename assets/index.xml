@@ -68,6 +68,15 @@
 	</tracks>
 
 	<present>
+		<event xml:id="ACT206" date="Do, 07.03.2024 19:00" theme="2D Stealth Games" rerun="ACT201" type="genre" moderator="Kadda" gfx="Snake.gif">
+			<game name="Castle Wolfenstein" from="1981" by="Muse Software" on="C64" country="US" />
+			<game name="Saboteur!" from="1985" by="Clive Townsend" on="C64" country="US" />
+			<game name="Metal Gear" from="1987" by="Konami" on="PS2" country="JP" />
+			<game name="Mark of the Ninja" from="2012" by="Klei Entertainment" on="Windows" country="CA" />
+		</event>
+	</present>
+
+	<past>
 		<event xml:id="RPG210" date="Do, 15.02.2024 19:00" theme="Action-JRPGs II" type="genre" moderator="Daniel" gfx="talesofphantasia.png">
 			<game name="Ys I: Ancient Ys Vanished" from="1987" by="Nihon Falcom" on="MasterSystem" country="JP" />
 			<game name="Tales of Phantasia" from="1995" by="Wolf Team" on="SNES" country="JP" />
@@ -75,9 +84,6 @@
 			<game name="Phantasy Star Online" from="2000" by="Sonic Team" on="Dreamcast" country="JP" />
 			<read href="https://www.youtube.com/watch?v=6wN5Z3EH3SA" title="Quest 64: One of Nintendo's Most Controversial RPGs" year="2023" author="Treeky" />
 		</event>
-	</present>
-
-	<past>
 		<event xml:id="BIZ216" date="Do, 01.02.2024 19:00" theme="Peter Molyneux" type="author" twitter="pmolyneux" rerun="BIZ201" moderator="Daniel" gfx="molyneux.png">
 			<game name="Populous" from="1989" by="Bullfrog Productions" on="Amiga" country="GB" manual="Populous" />
 			<game name="Populous II: Trials of the Olympian Gods" from="1991" by="Bullfrog Productions" on="Amiga" country="GB" manual="Populous II (1991, Bullfrog Productions)" />
@@ -1012,12 +1018,6 @@
 			<game name="Metal Gear Solid 3: Snake Eater" from="2004" by="Konami" on="PS2" country="JP" />
 			<game name="Metal Gear Solid 4: Guns of the Patriots" from="2008" by="Kojima Productions" on="PS3" country="JP" />
 			<game name="Metal Gear Solid V: The Phantom Pain" from="2015" by="Kojima Productions" on="PS4" country="JP" />
-		</event>
-		<event xml:id="ACT206" date="" theme="2D Stealth Games" rerun="ACT201" type="genre" moderator="Kadda">
-			<game name="Castle Wolfenstein" from="1981" by="Muse Software" on="C64" country="US" />
-			<game name="Saboteur!" from="1985" by="Clive Townsend" on="C64" country="US" />
-			<game name="Metal Gear" from="1987" by="Konami" on="PS2" country="JP" />
-			<game name="Mark of the Ninja" from="2012" by="Klei Entertainment" on="Windows" country="CA" />
 		</event>
 	</future>
 	<unfinished>
