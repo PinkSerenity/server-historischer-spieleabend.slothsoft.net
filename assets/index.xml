@@ -68,7 +68,7 @@
 	</tracks>
 
 	<present>
-		<event xml:id="ACT206" date="Do, 07.03.2024 19:00" theme="2D Stealth Games" rerun="ACT201" type="genre" moderator="Kadda &amp; Daniel" gfx="Snake.gif">
+		<event xml:id="ACT206" date="Do, 29.02.2024 19:00" theme="2D Stealth Games" rerun="ACT201" type="genre" moderator="Kadda &amp; Daniel" gfx="Snake.gif">
 			<game name="005" from="1981" by="Sega" on="Arcade" country="JP" />
 			<game name="Saboteur!" from="1985" by="Clive Townsend" on="C64" country="US" />
 			<game name="Bonanza Bros." from="1990" by="Sega" on="MegaDrive" country="JP" />			
