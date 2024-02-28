@@ -69,8 +69,8 @@
 
 	<present>
 		<event xml:id="ACT206" date="Do, 29.02.2024 19:00" theme="2D Stealth Games" rerun="ACT201" type="genre" moderator="Kadda &amp; Daniel" gfx="Snake.gif">
-			<game name="005" from="1981" by="Sega" on="Arcade" country="JP" />
-			<game name="Saboteur!" from="1985" by="Clive Townsend" on="C64" country="US" />
+			<game name="005" from="1981" by="Sega" on="Arcade" country="JP" href="https://www.playretrogames.com/5825-005"/>
+			<game name="Saboteur!" from="1985" by="Clive Townsend" on="C64" country="US" href="https://c64online.com/c64-games/saboteur-2/"/>
 			<game name="Bonanza Bros." from="1990" by="Sega" on="MegaDrive" country="JP" />			
 			<game name="Metal Gear 2: Solid Snake" from="1990" by="Konami" on="PS2" country="JP" />
 			<game name="Mark of the Ninja" from="2012" by="Klei Entertainment" on="Windows" country="CA" />
