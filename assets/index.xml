@@ -69,8 +69,9 @@
 
 	<present>
 		<event xml:id="ACT206" date="Do, 07.03.2024 19:00" theme="2D Stealth Games" rerun="ACT201" type="genre" moderator="Kadda &amp; Daniel" gfx="Snake.gif">
-			<game name="005" from="1981" by="Sega R&amp;D Japan" on="Arcade" country="US" />
+			<game name="005" from="1981" by="Sega" on="Arcade" country="JP" />
 			<game name="Castle Wolfenstein" from="1981" by="Muse Software" on="C64" country="US" />
+			<game name="Saboteur!" from="1985" by="Clive Townsend" on="C64" country="US" />
 			<game name="Metal Gear" from="1987" by="Konami" on="PS2" country="JP" />
 			<game name="Bonanza Bros." from="1990" by="Sega" on="MegaDrive" country="JP" />			
 			<game name="Mark of the Ninja" from="2012" by="Klei Entertainment" on="Windows" country="CA" />
