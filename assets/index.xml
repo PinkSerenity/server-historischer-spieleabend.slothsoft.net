@@ -1005,10 +1005,10 @@
 			<game name="Weird West" from="2023" by="WolfEye Studios" on="Windows" country="US" wanted="" />
 		</event>
 		<event xml:id="BIZ104" date="" theme="Evolution of Side Quests at CD Projekt RED" type="author" gfx="" moderator="Gregor">
-			<game name="The Witcher: TBA" from="2007" by="CD Projekt RED" on="Windows" country="PL" wanted="" />
-			<game name="The Witcher 2: In the Claws of Madness" from="2011" by="CD Projekt RED" on="Windows" country="PL" wanted="" />
-			<game name="The Witcher 3: The Last Wish" from="2015" by="CD Projekt RED" on="Windows" country="PL" wanted="" />
-			<game name="Cyberpunk 2077: Sinnerman" from="2020" by="CD Projekt RED" on="Windows" country="PL" wanted="" />
+			<game name="The Witcher: TBA" from="2007" by="CD Projekt RED" on="Windows" country="PL" />
+			<game name="The Witcher 2: In the Claws of Madness" from="2011" by="CD Projekt RED" on="Windows" country="PL" />
+			<game name="The Witcher 3: The Last Wish" from="2015" by="CD Projekt RED" on="Windows" country="PL" />
+			<game name="Cyberpunk 2077: Sinnerman" from="2020" by="CD Projekt RED" on="Windows" country="PL" />
 		</event>
 		<event xml:id="STR106" date="" theme="Magic: The Gathering" type="series" moderator="Daniel" gfx="">
 			<game name="Magic: The Gathering" from="1997" by="MicroProse" on="Windows" country="US" />
