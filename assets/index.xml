@@ -68,6 +68,16 @@
 	</tracks>
 
 	<present>
+		<event xml:id="FPS109" date="Do, 14.02.2024" theme="History of Immersive Sims" type="genre" gfx="bioshock.gif" moderator="John">
+			<game name="System Shock 2" from="1999" by="Irrational Games" on="Windows" country="US" wanted="" />
+			<game name="Deus Ex" from="2000" by="Ion Storm" on="Windows" country="US" wanted="Kadda" />
+			<game name="BioShock" from="2007" by="Irrational Games" on="Windows" country="US" />
+			<game name="Prey" from="2017" by="Arkane Studios" on="Windows" country="FR" wanted="Kadda" />
+			<game name="Weird West" from="2023" by="WolfEye Studios" on="Windows" country="US" wanted="" />
+		</event>
+	</present>
+
+	<past>
 		<event xml:id="ACT206" date="Do, 29.02.2024 19:00" theme="2D Stealth Games" rerun="ACT201" type="genre" moderator="Kadda &amp; Daniel" gfx="Snake.gif">
 			<game name="005" from="1981" by="Sega" on="Arcade" country="JP" href="https://www.playretrogames.com/5825-005"/>
 			<game name="Saboteur!" from="1985" by="Clive Townsend" on="C64" country="US" href="https://c64online.com/c64-games/saboteur-2/"/>
@@ -75,9 +85,6 @@
 			<game name="Metal Gear 2: Solid Snake" from="1990" by="Konami" on="PS3" country="JP" />
 			<game name="Mark of the Ninja" from="2012" by="Klei Entertainment" on="Windows" country="CA" />
 		</event>
-	</present>
-
-	<past>
 		<event xml:id="RPG210" date="Do, 15.02.2024 19:00" theme="Action-JRPGs II" type="genre" moderator="Daniel" gfx="talesofphantasia.png">
 			<game name="Ys I: Ancient Ys Vanished" from="1987" by="Nihon Falcom" on="MasterSystem" country="JP" />
 			<game name="Tales of Phantasia" from="1995" by="Wolf Team" on="SNES" country="JP" />
@@ -997,13 +1004,6 @@
 	</past>
 
 	<future>
-		<event xml:id="FPS109" date="" theme="History of Immersive Sims" type="genre" gfx="bioshock.gif" moderator="John">
-			<game name="System Shock 2" from="1999" by="Irrational Games" on="Windows" country="US" wanted="" />
-			<game name="Deus Ex" from="2000" by="Ion Storm" on="Windows" country="US" wanted="Kadda" />
-			<game name="BioShock" from="2007" by="Irrational Games" on="Windows" country="US" />
-			<game name="Prey" from="2017" by="Arkane Studios" on="Windows" country="FR" wanted="Kadda" />
-			<game name="Weird West" from="2023" by="WolfEye Studios" on="Windows" country="US" wanted="" />
-		</event>
 		<event xml:id="BIZ104" date="" theme="Evolution of Side Quests at CD Projekt RED" type="author" gfx="" moderator="Gregor">
 			<game name="The Witcher: TBA" from="2007" by="CD Projekt RED" on="Windows" country="PL" />
 			<game name="The Witcher 2: In the Claws of Madness" from="2011" by="CD Projekt RED" on="Windows" country="PL" />
