@@ -1004,7 +1004,7 @@
 	</past>
 
 	<future>
-		<event xml:id="BIZ104" date="" theme="Evolution of Side Quests at CD Projekt RED" type="author" gfx="" moderator="Gregor">
+		<event xml:id="BIZ104" date="" theme="CD Projekt RED: Evolution of Side Quests" type="author" gfx="" moderator="Gregor">
 			<game name="The Witcher: TBA" from="2007" by="CD Projekt RED" on="Windows" country="PL" />
 			<game name="The Witcher 2: In the Claws of Madness" from="2011" by="CD Projekt RED" on="Windows" country="PL" />
 			<game name="The Witcher 3: The Last Wish" from="2015" by="CD Projekt RED" on="Windows" country="PL" />
