@@ -68,6 +68,17 @@
 	</tracks>
 
 	<present>
+		<event xml:id="BIZ303" date="Do, 11.04.2024" theme="Polish Video Game History" type="genre" gfx="polishgame.gif" moderator="Gregor">
+			<game name="Pandora's Box" from="1986" by="Marcin Borkowski" on="Windows" country="PL" href="https://en.wikipedia.org/wiki/Puszka_Pandory" />
+			<game name="Electro Man" from="1992" by="X LanD Computer Games" on="Windows" country="PL" />
+			<game name="The Mystery of the Statuette" from="1993" by="Metropolis Software House" on="Windows" country="PL" href="https://en.wikipedia.org/wiki/Tajemnica_Statuetki" />
+			<game name="Mortyr" from="1999" by="Mirage Media S.C." on="Windows" country="PL" />
+			<game name="Call of Juarez" from="2006" by="Techland" on="Windows" country="PL" />
+			<game name="The Vanishing of Ethan Carter" from="2014" by="The Astronauts" on="Windows" country="PL" />
+		</event>
+	</present>
+
+	<past>
 		<event xml:id="FPS109" date="Do, 28.03.2024" theme="History of Immersive Sims" type="genre" gfx="bioshock.gif" moderator="John">
 			<game name="System Shock 2" from="1999" by="Irrational Games" on="Windows" country="US" wanted="" />
 			<game name="Deus Ex" from="2000" by="Ion Storm" on="Windows" country="US" wanted="Kadda" />
@@ -75,9 +86,6 @@
 			<game name="Prey" from="2017" by="Arkane Studios" on="Windows" country="FR" wanted="Kadda" />
 			<game name="Weird West" from="2023" by="WolfEye Studios" on="Windows" country="US" wanted="" />
 		</event>
-	</present>
-
-	<past>
 		<event xml:id="ACT206" date="Do, 29.02.2024 19:00" theme="2D Stealth Games" rerun="ACT201" type="genre" moderator="Kadda &amp; Daniel" gfx="Snake.gif">
 			<game name="005" from="1981" by="Sega" on="Arcade" country="JP" href="https://www.playretrogames.com/5825-005"/>
 			<game name="Saboteur!" from="1985" by="Clive Townsend" on="C64" country="US" href="https://c64online.com/c64-games/saboteur-2/"/>
@@ -1025,14 +1033,6 @@
 			<game name="Metal Gear Solid 3: Snake Eater" from="2004" by="Konami" on="PS2" country="JP" />
 			<game name="Metal Gear Solid 4: Guns of the Patriots" from="2008" by="Kojima Productions" on="PS3" country="JP" />
 			<game name="Metal Gear Solid V: The Phantom Pain" from="2015" by="Kojima Productions" on="PS4" country="JP" />
-		</event>
-		<event xml:id="BIZ303" date="" theme="Polish Video Game History" type="genre" moderator="Gregor">
-			<game name="Pandora's Box" from="1986" by="Marcin Borkowski" on="Windows" country="PL" />
-			<game name="Electro Man" from="1992" by="X LanD Computer Games" on="Windows" country="PL" />
-			<game name="The Mystery of the Statuette" from="1993" by="Metropolis Software House" on="Windows" country="PL" />
-			<game name="Mortyr" from="1999" by="Mirage Media S.C." on="Windows" country="PL" />
-			<game name="Call of Juarez" from="2006" by="Techland" on="Windows" country="PL" />
-			<game name="The Vanishing of Ethan Carter" from="2014" by="The Astronauts" on="Windows" country="PL" />
 		</event>
 	</future>
 	<unfinished>
