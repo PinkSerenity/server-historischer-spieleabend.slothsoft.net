@@ -69,9 +69,9 @@
 
 	<present>
 		<event xml:id="BIZ303" date="Do, 11.04.2024" theme="Polish Video Game History" type="genre" gfx="polishgame.gif" moderator="Gregor">
-			<game name="Pandora's Box" from="1986" by="Marcin Borkowski" on="Windows" country="PL" href="https://en.wikipedia.org/wiki/Puszka_Pandory" />
+			<game name="Pandora's Box" from="1986" by="Marcin Borkowski" on="Windows" country="PL" />
 			<game name="Electro Man" from="1992" by="X LanD Computer Games" on="Windows" country="PL" />
-			<game name="The Mystery of the Statuette" from="1993" by="Metropolis Software House" on="Windows" country="PL" href="https://en.wikipedia.org/wiki/Tajemnica_Statuetki" />
+			<game name="The Mystery of the Statuette" from="1993" by="Metropolis Software House" on="Windows" country="PL" />
 			<game name="Mortyr" from="1999" by="Mirage Media S.C." on="Windows" country="PL" />
 			<game name="Call of Juarez" from="2006" by="Techland" on="Windows" country="PL" />
 			<game name="The Vanishing of Ethan Carter" from="2014" by="The Astronauts" on="Windows" country="PL" />
