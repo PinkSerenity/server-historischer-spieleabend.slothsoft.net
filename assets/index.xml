@@ -68,6 +68,15 @@
 	</tracks>
 
 	<present>
+		<event xml:id="BIZ104" date="Do, 02.05.2024" theme="CD Projekt RED: Evolution of Side Quests" type="author" gfx="geralt.jpg" moderator="Gregor">
+			<game name="The Witcher: TBA" from="2007" by="CD Projekt RED" on="Windows" country="PL" />
+			<game name="The Witcher 2: In the Claws of Madness" from="2011" by="CD Projekt RED" on="Windows" country="PL" />
+			<game name="The Witcher 3: The Last Wish" from="2015" by="CD Projekt RED" on="Windows" country="PL" />
+			<game name="Cyberpunk 2077: Sinnerman" from="2020" by="CD Projekt RED" on="Windows" country="PL" />
+		</event>
+	</present>
+
+	<past>
 		<event xml:id="BIZ303" date="Do, 11.04.2024" theme="Polish Video Game History" type="genre" gfx="polishgame.gif" moderator="Gregor">
 			<game name="Pandora's Box" from="1986" by="Marcin Borkowski" on="Windows" country="PL" />
 			<game name="Electro Man" from="1992" by="X LanD Computer Games" on="Windows" country="PL" />
@@ -76,9 +85,6 @@
 			<game name="Call of Juarez" from="2006" by="Techland" on="Windows" country="PL" />
 			<game name="The Vanishing of Ethan Carter" from="2014" by="The Astronauts" on="Windows" country="PL" />
 		</event>
-	</present>
-
-	<past>
 		<event xml:id="FPS109" date="Do, 28.03.2024" theme="History of Immersive Sims" type="genre" gfx="bioshock.gif" moderator="John">
 			<game name="System Shock 2" from="1999" by="Irrational Games" on="Windows" country="US" wanted="" />
 			<game name="Deus Ex" from="2000" by="Ion Storm" on="Windows" country="US" wanted="Kadda" />
@@ -1012,12 +1018,6 @@
 	</past>
 
 	<future>
-		<event xml:id="BIZ104" date="" theme="CD Projekt RED: Evolution of Side Quests" type="author" gfx="" moderator="Gregor">
-			<game name="The Witcher: TBA" from="2007" by="CD Projekt RED" on="Windows" country="PL" />
-			<game name="The Witcher 2: In the Claws of Madness" from="2011" by="CD Projekt RED" on="Windows" country="PL" />
-			<game name="The Witcher 3: The Last Wish" from="2015" by="CD Projekt RED" on="Windows" country="PL" />
-			<game name="Cyberpunk 2077: Sinnerman" from="2020" by="CD Projekt RED" on="Windows" country="PL" />
-		</event>
 		<event xml:id="STR106" date="" theme="Magic: The Gathering" type="series" moderator="Daniel" gfx="">
 			<game name="Magic: The Gathering" from="1997" by="MicroProse" on="Windows" country="US" />
 			<game name="Magic: The Gathering – Battlegrounds" from="2003" by="Secret Level" on="Windows" country="US" />
