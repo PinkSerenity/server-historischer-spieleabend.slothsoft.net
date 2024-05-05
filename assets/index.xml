@@ -81,7 +81,6 @@
 			<game name="The Witcher: Six Feet Under" from="2007" by="CD Projekt RED" on="Windows" country="PL" />
 			<game name="The Witcher 2: In the Claws of Madness" from="2011" by="CD Projekt RED" on="Windows" country="PL" />
 			<game name="The Witcher 3: A Towerful of Mice" from="2015" by="CD Projekt RED" on="Windows" country="PL" />
-			<game name="Cyberpunk 2077: Sinnerman" from="2020" by="CD Projekt RED" on="Windows" country="PL" />
 		</event>
 		<event xml:id="BIZ303" date="Do, 11.04.2024 19:00" theme="Polish Video Game History" type="genre" gfx="polishgame.gif" moderator="Gregor">
 			<game name="Pandora's Box" from="1986" by="Marcin Borkowski" on="Windows" country="PL" />
@@ -1195,6 +1194,7 @@
 			<game name="Doodle Jump" from="2009" by="Lima Sky" on="Android" country="US" />
 			<game name="Grand Theft Auto II" from="1999" by="DMA Design" on="Windows" country="GB" />
 			<game name="King's Quest VI: Heir Today, Gone Tomorrow" from="1992" by="Sierra On-Line" on="MS-DOS" country="US" />
+			<game name="Cyberpunk 2077: Sinnerman" from="2020" by="CD Projekt RED" on="Windows" country="PL" />
 		</event>
 		<event date="" theme="JRPG Sockenkiste" type="special">
 			<game name="Baten Kaitos: Eternal Wings and the Lost Ocean" from="2003" by="Monolith Soft" on="GCN" country="JP" />
