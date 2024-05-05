@@ -68,16 +68,22 @@
 	</tracks>
 
 	<present>
-		<event xml:id="BIZ104" date="Do, 02.05.2024" theme="CD Projekt RED: Evolution of Side Quests" type="author" gfx="geralt.png" moderator="Gregor">
+		<event xml:id="JNR203" date="Do, 16.05.2024 19:00" theme="3D Platformers III: Homages" type="genre" moderator="Daniel" gfx="rayman.gif">
+			<game name="Jumping Flash!" from="1994" by="Exact" on="Windows" country="JP" />
+			<game name="Yooka-Laylee" from="2017" by="Playtonic Games" on="Windows" country="GB" />
+			<game name="A Hat in Time" from="2017" by="Gears for Breakfast" on="Windows" country="DK" />
+			<game name="Celeste 64" from="2024" by="Extremely OK Games" on="Windows" country="CA" href="https://maddymakesgamesinc.itch.io/celeste64" />
+		</event>
+	</present>
+
+	<past>
+		<event xml:id="BIZ104" date="Do, 02.05.2024 19:00" theme="CD Projekt RED: Evolution of Side Quests" type="author" gfx="geralt.png" moderator="Gregor">
 			<game name="The Witcher: Six Feet Under" from="2007" by="CD Projekt RED" on="Windows" country="PL" />
 			<game name="The Witcher 2: In the Claws of Madness" from="2011" by="CD Projekt RED" on="Windows" country="PL" />
 			<game name="The Witcher 3: A Towerful of Mice" from="2015" by="CD Projekt RED" on="Windows" country="PL" />
 			<game name="Cyberpunk 2077: Sinnerman" from="2020" by="CD Projekt RED" on="Windows" country="PL" />
 		</event>
-	</present>
-
-	<past>
-		<event xml:id="BIZ303" date="Do, 11.04.2024" theme="Polish Video Game History" type="genre" gfx="polishgame.gif" moderator="Gregor">
+		<event xml:id="BIZ303" date="Do, 11.04.2024 19:00" theme="Polish Video Game History" type="genre" gfx="polishgame.gif" moderator="Gregor">
 			<game name="Pandora's Box" from="1986" by="Marcin Borkowski" on="Windows" country="PL" />
 			<game name="Electro Man" from="1992" by="X LanD Computer Games" on="Windows" country="PL" />
 			<game name="The Mystery of the Statuette" from="1993" by="Metropolis Software House" on="Windows" country="PL" />
@@ -85,7 +91,7 @@
 			<game name="Call of Juarez" from="2006" by="Techland" on="Windows" country="PL" />
 			<game name="The Vanishing of Ethan Carter" from="2014" by="The Astronauts" on="Windows" country="PL" />
 		</event>
-		<event xml:id="FPS109" date="Do, 28.03.2024" theme="History of Immersive Sims" type="genre" gfx="bioshock.gif" moderator="John">
+		<event xml:id="FPS109" date="Do, 28.03.2024 19:00" theme="History of Immersive Sims" type="genre" gfx="bioshock.gif" moderator="John">
 			<game name="System Shock 2" from="1999" by="Irrational Games" on="Windows" country="US" wanted="" />
 			<game name="Deus Ex" from="2000" by="Ion Storm" on="Windows" country="US" wanted="Kadda" />
 			<game name="BioShock" from="2007" by="Irrational Games" on="Windows" country="US" />
@@ -1134,11 +1140,6 @@
 		</event>
 		<event xml:id="BIZ302" date="" theme="India" type="genre" moderator="">
 			<game name="Raji: An Ancient Epic" from="2020" by="Nodding Heads Games" on="Windows" country="IN" />
-		</event>
-		<event xml:id="JNR203" date="" theme="3D Platformers III: Homages" type="genre" moderator="Daniel" gfx="rayman.gif">
-			<game name="Jumping Flash!" from="1994" by="Exact" on="Windows" country="JP" />
-			<game name="Yooka-Laylee" from="2017" by="Playtonic Games" on="Windows" country="GB" />
-			<game name="A Hat in Time" from="2017" by="Gears for Breakfast" on="Windows" country="DK" />
 		</event>
 		<event xml:id="JNR204" date="" theme="3D Platformers IV: The C List" type="genre" moderator="Daniel" gfx="rayman.gif">
 			<game name="Bubsy 3D" from="1996" by="Eidetic" on="PS1" country="US" />
