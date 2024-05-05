@@ -68,7 +68,7 @@
 	</tracks>
 
 	<present>
-		<event xml:id="JNR203" date="Do, 16.05.2024 19:00" theme="3D Platformers III: Homages" type="genre" moderator="Daniel" gfx="rayman.gif">
+		<event xml:id="JNR203" date="Do, 16.05.2024 19:00" theme="3D Platformers III: Homages" type="genre" moderator="Daniel" gfx="hatkid.jpg">
 			<game name="Jumping Flash!" from="1994" by="Exact" on="Windows" country="JP" />
 			<game name="Yooka-Laylee" from="2017" by="Playtonic Games" on="Windows" country="GB" />
 			<game name="A Hat in Time" from="2017" by="Gears for Breakfast" on="Windows" country="DK" />
